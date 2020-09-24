@@ -17,10 +17,10 @@ const fs = require("fs");
 
     const UVStatus = index => {
       if (index <= 2) return 'thấp'
-      else if (index <= 5) return 'trung bình'
-      else if (index <= 7) return 'cao'
-      else if (index <= 10) return 'rất cao'
-      else return 'độc hại'
+      if (index <= 5) return 'trung bình'
+      if (index <= 7) return 'cao'
+      if (index <= 10) return 'rất cao'
+      return 'độc hại'
     }
 
     const weatherTemplate = weather => {
@@ -47,7 +47,7 @@ const fs = require("fs");
     }).join('\n')
 
     const template =
-      `## Thời tiết Hà Nội
+      `## 🌦️ Thời tiết Hà Nội (${moment().format('DD/MM')})
 
 ### Hiện tại
 
