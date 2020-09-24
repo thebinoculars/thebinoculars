@@ -59,7 +59,7 @@ const fs = require("fs");
 
 ### 7 ngày tới
 
-| Thời gian | Nhiệt độ | Độ ẩm | Chỉ số tia UV | Thời tiết |
+| Ngày | Nhiệt độ | Độ ẩm | Chỉ số tia UV | Thời tiết |
 | --- | --- | --- | --- | --- |
 ${daily}
 
