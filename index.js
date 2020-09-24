@@ -20,7 +20,7 @@ const fs = require("fs");
       else if (index <= 5) return 'trung bình'
       else if (index <= 7) return 'cao'
       else if (index <= 10) return 'rất cao'
-      else return 'dộc hại'
+      else return 'độc hại'
     }
 
     const weatherTemplate = weather => {
