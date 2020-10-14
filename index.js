@@ -39,7 +39,7 @@ const fs = require("fs");
     }
 
     const daily = data.daily.map(item => {
-      return `| ${moment((item.dt + data.timezone_offset) * 1000).format('DD/MM')} | ${item.temp.min}\u2103 - ${item.temp.max}\u2103 | ${item.humidity}% | ${item.uvi} (${UVStatus(data.current.uvi)}) | ${weatherTemplate(item.weather)} |`
+      return `| ${moment((item.dt + data.timezone_offset) * 1000).format('DD/MM')} | ${item.temp.min}\u2103 - ${item.temp.max}\u2103 | ${item.humidity}% | ${item.uvi} (${UVStatus(item.uvi)}) | ${weatherTemplate(item.weather)} |`
     }).join('\n')
 
     const hourly = data.hourly.map(item => {
