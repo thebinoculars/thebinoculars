@@ -15,27 +15,24 @@ const fs = require("fs");
       }
     })
 
+    const icons = {
+      'Thunderstorm': '⚡',
+      'Drizzle': '🌧️',
+      'Rain': '⛈️',
+      'Snow': '❄️',
+      'Atmosphere': '🌫️',
+      'Clear': '☀️',
+      'Clouds': '☁️'
+    }
+
+    const weatherTemplate = weather => weather.map(item => `${icons[item.main] || '🌦️'} ${item.description}`).join(', ')
+
     const UVStatus = index => {
       if (index < 3) return 'thấp'
       if (index < 6) return 'trung bình'
       if (index < 8) return 'cao'
       if (index < 11) return 'rất cao'
       return 'độc hại'
-    }
-
-    const weatherTemplate = weather => {
-      return weather.map(item => {
-        const icons = {
-          'Thunderstorm': '⚡',
-          'Drizzle': '🌧️',
-          'Rain': '⛈️',
-          'Snow': '❄️',
-          'Atmosphere': '🌫️',
-          'Clear': '☀️',
-          'Clouds': '☁️'
-        }
-        return `${icons[item.main] || '🌦️'} ${item.description}`
-      }).join(', ')
     }
 
     const daily = data.daily.map(item => `| ${moment((item.dt + data.timezone_offset) * 1000).format('DD/MM')} | ${item.temp.min}\u2103 - ${item.temp.max}\u2103 | ${item.humidity}% | ${item.uvi} (${UVStatus(item.uvi)}) | ${weatherTemplate(item.weather)} |`).join('\n')
