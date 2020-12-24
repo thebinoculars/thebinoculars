@@ -23,5 +23,5 @@ jobs:
         git config --global user.email "vndhero@gmail.com"
         git config --global user.name "Mr. Hero"
         git add .
-        git commit -m "Updated README.md" || echo "No changes to commit"
+        git commit -m "Update README.md" || echo "Nothing changes"
         git push

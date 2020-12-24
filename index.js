@@ -16,10 +16,10 @@ const fs = require("fs");
     })
 
     const UVStatus = index => {
-      if (index <= 2) return 'thấp'
-      if (index <= 5) return 'trung bình'
-      if (index <= 7) return 'cao'
-      if (index <= 10) return 'rất cao'
+      if (index < 3) return 'thấp'
+      if (index < 6) return 'trung bình'
+      if (index < 8) return 'cao'
+      if (index < 11) return 'rất cao'
       return 'độc hại'
     }
 
@@ -38,16 +38,11 @@ const fs = require("fs");
       }).join(', ')
     }
 
-    const daily = data.daily.map(item => {
-      return `| ${moment((item.dt + data.timezone_offset) * 1000).format('DD/MM')} | ${item.temp.min}\u2103 - ${item.temp.max}\u2103 | ${item.humidity}% | ${item.uvi} (${UVStatus(item.uvi)}) | ${weatherTemplate(item.weather)} |`
-    }).join('\n')
+    const daily = data.daily.map(item => `| ${moment((item.dt + data.timezone_offset) * 1000).format('DD/MM')} | ${item.temp.min}\u2103 - ${item.temp.max}\u2103 | ${item.humidity}% | ${item.uvi} (${UVStatus(item.uvi)}) | ${weatherTemplate(item.weather)} |`).join('\n')
 
-    const hourly = data.hourly.map(item => {
-      return `| ${moment((item.dt + data.timezone_offset) * 1000).format('DD/MM HH:mm')} | ${item.temp}\u2103 | ${item.humidity}% | ${item.visibility / 1000}km | ${weatherTemplate(item.weather)} |`
-    }).join('\n')
+    const hourly = data.hourly.map(item => `| ${moment((item.dt + data.timezone_offset) * 1000).format('DD/MM HH:mm')} | ${item.temp}\u2103 | ${item.humidity}% | ${item.visibility / 1000}km | ${weatherTemplate(item.weather)} |`).join('\n')
 
-    const template =
-      `## 🌦️ Thời tiết Hà Nội (${moment().format('DD/MM')})
+    const template = `## 🌦️ Thời tiết Hà Nội (${moment().format('DD/MM')})
 
 ### Hiện tại
 
