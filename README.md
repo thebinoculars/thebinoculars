@@ -5,7 +5,7 @@
 - 🌡️ Nhiệt độ: 17℃
 - 💦 Độ ẩm: 82%
 - 🌟 Chỉ số tia UV: 0 (thấp)
-- 👁️ Tầm nhìn xa: 2.8km
+- 👁️ Tầm nhìn xa: 2.9km
 - ☂️ Thời tiết: 🌦️ sương mờ
 
 ### 7 ngày tới
