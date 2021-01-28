@@ -4,7 +4,7 @@
 
 - 🌡️ Nhiệt độ: 18℃
 - 💦 Độ ẩm: 59%
-- 🌟 Chỉ số tia UV: 0.16 (thấp)
+- 🌟 Chỉ số tia UV: 0.04 (thấp)
 - 👁️ Tầm nhìn xa: 10km
 - ☂️ Thời tiết: ☁️ mây đen u ám
 
