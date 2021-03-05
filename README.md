@@ -4,8 +4,8 @@
 
 - 🌡️ Nhiệt độ: 19℃
 - 💦 Độ ẩm: 94%
-- 🌟 Chỉ số tia UV: 3.07 (trung bình)
-- 👁️ Tầm nhìn xa: 1.5km
+- 🌟 Chỉ số tia UV: 5.21 (trung bình)
+- 👁️ Tầm nhìn xa: 1.6km
 - ☂️ Thời tiết: 🌦️ sương mờ
 
 ### 7 ngày tới
