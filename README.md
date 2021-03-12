@@ -5,8 +5,8 @@
 - 🌡️ Nhiệt độ: 22℃
 - 💦 Độ ẩm: 94%
 - 🌟 Chỉ số tia UV: 0 (thấp)
-- 👁️ Tầm nhìn xa: 5km
-- ☂️ Thời tiết: 🌦️ sương mờ
+- 👁️ Tầm nhìn xa: 6km
+- ☂️ Thời tiết: ☁️ mây cụm
 
 ### 7 ngày tới
 
