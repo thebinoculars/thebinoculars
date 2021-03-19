@@ -4,9 +4,9 @@
 
 - 🌡️ Nhiệt độ: 24℃
 - 💦 Độ ẩm: 94%
-- 🌟 Chỉ số tia UV: 0.9 (thấp)
-- 👁️ Tầm nhìn xa: 4.5km
-- ☂️ Thời tiết: 🌧️ ánh sáng cường độ mưa phùn, 🌦️ sương mờ
+- 🌟 Chỉ số tia UV: 2.08 (thấp)
+- 👁️ Tầm nhìn xa: 4.7km
+- ☂️ Thời tiết: 🌦️ sương mờ
 
 ### 7 ngày tới
 
@@ -25,7 +25,7 @@
 
 | Thời gian | Nhiệt độ | Độ ẩm | Tầm nhìn xa | Thời tiết |
 | --- | --- | --- | --- | --- |
-| 19/03 08:00 | 24℃ | 94% | 10km | ☁️ mây cụm |
+| 19/03 08:00 | 24℃ | 94% | 10km | ☁️ mây đen u ám |
 | 19/03 09:00 | 24.48℃ | 86% | 10km | ☁️ mây đen u ám |
 | 19/03 10:00 | 25.25℃ | 79% | 10km | ☁️ mây đen u ám |
 | 19/03 11:00 | 26.14℃ | 72% | 10km | ☁️ mây đen u ám |
