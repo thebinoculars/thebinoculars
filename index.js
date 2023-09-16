@@ -1,7 +1,7 @@
 require('dotenv').config()
-const axios = require("axios")
-const moment = require("moment")
-const fs = require("fs");
+const axios = require('axios')
+const moment = require('moment')
+const fs = require('fs');
 
 (async () => {
   try {
@@ -62,7 +62,7 @@ ${daily}
 ${hourly}
 `
 
-    fs.writeFileSync("README.md", template)
+    fs.writeFileSync('README.md', template)
   } catch (error) {
     console.error(error)
   }
