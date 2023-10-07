@@ -6,7 +6,7 @@
 - 💦 Độ ẩm: 65%
 - 🌟 Chỉ số tia UV: 6.1 (cao)
 - 👁️ Tầm nhìn xa: 10km
-- ☂️ Thời tiết: ⛈️ mưa cường độ nặng
+- ☂️ Thời tiết: ⛈️ mưa vừa
 
 ### 7 ngày tới
 
