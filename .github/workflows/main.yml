@@ -17,11 +17,14 @@ jobs:
     - name: Generate README
       env:
         API_KEY: ${{ secrets.API_KEY }}
+        EMAIL: ${{ secrets.EMAIL }}
+        USERNAME: ${{ secrets.USERNAME }}
       run: npm run generate
     - name: Update README.md
       run: |
-        git config --global user.email "vndhero@gmail.com"
-        git config --global user.name "Mr. Hero"
+        git config --global user.email "$EMAIL"
+        git config --global user.name "$USERNAME"
+        git pull
         git add .
         git commit -m "Update README.md" || echo "Nothing changes"
         git push
