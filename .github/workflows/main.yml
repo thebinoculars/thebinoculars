@@ -22,6 +22,7 @@ jobs:
       run: npm run generate
     - name: Update README.md
       run: |
+        echo "$EMAIL, $USERNAME"
         git config --global user.email "$EMAIL"
         git config --global user.name "$USERNAME"
         git pull
