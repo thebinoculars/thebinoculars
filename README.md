@@ -6,7 +6,7 @@
 - 💦 Độ ẩm: 66%
 - 🌟 Chỉ số tia UV: 0 (thấp)
 - 👁️ Tầm nhìn xa: 10km
-- ☂️ Thời tiết: ☁️ mây cụm
+- ☂️ Thời tiết: ⛈️ mưa nhẹ
 
 ### 7 ngày tới
 
