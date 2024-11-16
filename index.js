@@ -18,7 +18,7 @@ const main = async () => {
 				data: { list },
 			},
 			{
-				data: { main, weather, wind, visibility },
+				data: { main, weather, wind, visibility, timezone },
 			},
 		] = await axios.all([
 			axios.get(`https://api.openweathermap.org/data/2.5/forecast`, { params }),
@@ -43,7 +43,7 @@ const main = async () => {
 		const hourly = list
 			.map(
 				(item) =>
-					`| ${moment(item.dt * 1000).format('DD/MM HH:mm')} | ${
+					`| ${moment((item.dt + timezone) * 1000).format('DD/MM HH:mm')} | ${
 						item.main.temp_min
 					}\u2103 - ${item.main.temp_max}\u2103 | ${item.main.humidity}% | ${
 						item.visibility / 1000
