@@ -43,7 +43,7 @@ const main = async () => {
 		const hourly = list
 			.map(
 				(item) =>
-					`| ${moment.unix(item.dt).format('DD/MM HH:mm')} | ${
+					`| ${moment((item.dt + timezone) * 1000).format('DD/MM HH:mm')} | ${
 						item.main.temp_min
 					}\u2103 - ${item.main.temp_max}\u2103 | ${item.main.humidity}% | ${
 						item.visibility / 1000
