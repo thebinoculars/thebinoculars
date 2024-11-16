@@ -3,7 +3,7 @@ name: main
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: '*/15 * * * *'
 
 env:
   EMAIL: ${{ secrets.EMAIL }}
@@ -17,11 +17,11 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12.16.1
-      - run: npm ci
+      - run: yarn
       - name: Generate README
         env:
           API_KEY: ${{ secrets.API_KEY }}
-        run: npm run generate
+        run: yarn generate
       - name: Check for changes
         id: check_changes
         run: |
