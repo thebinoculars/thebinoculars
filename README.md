@@ -2,11 +2,11 @@
 
 ### Hiện tại
 
-- 🌡️ Nhiệt độ: 15.99℃
-- 💦 Độ ẩm: 54%
-- 💨 Sức gió: 2.52m/s
+- 🌡️ Nhiệt độ: 16.99℃
+- 💦 Độ ẩm: 55%
+- 💨 Sức gió: 2.3m/s
 - 👁️ Tầm nhìn xa: 10km
-- ☂️ Thời tiết: ☁️ mây rải rác
+- ☂️ Thời tiết: ☁️ mây cụm
 
 ### Sắp tới
 
