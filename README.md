@@ -4,7 +4,7 @@
 
 - 🌡️ Nhiệt độ: 12.99℃
 - 💦 Độ ẩm: 82%
-- 💨 Sức gió: 0.92m/s
+- 💨 Sức gió: 1.56m/s
 - 👁️ Tầm nhìn xa: 10km
 - ☂️ Thời tiết: ☁️ mây đen u ám
 
