@@ -6,7 +6,7 @@
 - 💦 Độ ẩm: 75%
 - 💨 Sức gió: 4.82m/s
 - 👁️ Tầm nhìn xa: 10km
-- ☂️ Thời tiết: ☁️ mây đen u ám
+- ☂️ Thời tiết: ⛈️ mưa vừa
 
 ### Sắp tới
 
