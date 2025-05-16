@@ -2,9 +2,9 @@
 
 ### Hiện tại
 
-- 🌡️ Nhiệt độ: 24.81℃
-- 💦 Độ ẩm: 94%
-- 💨 Sức gió: 1.39m/s
+- 🌡️ Nhiệt độ: 25.7℃
+- 💦 Độ ẩm: 90%
+- 💨 Sức gió: 1.46m/s
 - 👁️ Tầm nhìn xa: 10km
 - ☂️ Thời tiết: ☁️ mây đen u ám
 
