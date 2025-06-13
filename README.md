@@ -6,7 +6,7 @@
 - 💦 Độ ẩm: 87%
 - 💨 Sức gió: 2.8m/s
 - 👁️ Tầm nhìn xa: 10km
-- ☂️ Thời tiết: ⛈️ mưa vừa
+- ☂️ Thời tiết: ⛈️ mưa nhẹ
 
 ### Sắp tới
 
