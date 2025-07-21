@@ -4,8 +4,8 @@
 
 - 🌡️ Nhiệt độ: 26.99℃
 - 💦 Độ ẩm: 96%
-- 💨 Sức gió: 5.66m/s
-- 👁️ Tầm nhìn xa: 5.098km
+- 💨 Sức gió: 6.04m/s
+- 👁️ Tầm nhìn xa: 10km
 - ☂️ Thời tiết: ⛈️ mưa vừa
 
 ### Sắp tới
