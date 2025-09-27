@@ -4,7 +4,7 @@
 
 - 🌡️ Nhiệt độ: 26.99℃
 - 💦 Độ ẩm: 95%
-- 💨 Sức gió: 2.51m/s
+- 💨 Sức gió: 3.49m/s
 - 👁️ Tầm nhìn xa: 10km
 - ☂️ Thời tiết: ☁️ mây rải rác
 
