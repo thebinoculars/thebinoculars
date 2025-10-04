@@ -2,11 +2,11 @@
 
 ### Hiện tại
 
-- 🌡️ Nhiệt độ: 31℃
-- 💦 Độ ẩm: 64%
-- 💨 Sức gió: 3.34m/s
+- 🌡️ Nhiệt độ: 30.15℃
+- 💦 Độ ẩm: 68%
+- 💨 Sức gió: 3.4m/s
 - 👁️ Tầm nhìn xa: 10km
-- ☂️ Thời tiết: ☁️ mây đen u ám
+- ☂️ Thời tiết: ☁️ mây cụm
 
 ### Sắp tới
 
