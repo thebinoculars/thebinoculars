@@ -3,8 +3,8 @@
 ### Hiện tại
 
 - 🌡️ Nhiệt độ: 20.99℃
-- 💦 Độ ẩm: 84%
-- 💨 Sức gió: 3.01m/s
+- 💦 Độ ẩm: 88%
+- 💨 Sức gió: 2.87m/s
 - 👁️ Tầm nhìn xa: 10km
 - ☂️ Thời tiết: ☀️ bầu trời quang đãng
 
