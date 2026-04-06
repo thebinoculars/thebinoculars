@@ -1,10 +1,7 @@
 {
   "dependencies": {
-    "axios": "^0.20.0",
-    "dotenv": "^8.2.0",
-    "moment": "^2.29.0"
-  },
-  "scripts": {
-    "generate": "node index.js"
+    "axios": "^1.14.0",
+    "dotenv": "^17.4.1",
+    "moment": "^2.30.1"
   }
 }
