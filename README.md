@@ -3,17 +3,17 @@
 ### Hiện tại
 
 - 🌡️ Nhiệt độ: 26.99℃
-- 💦 Độ ẩm: 66%
-- 💨 Sức gió: 6.25m/s
+- 💦 Độ ẩm: 73%
+- 💨 Sức gió: 5.12m/s
 - 👁️ Tầm nhìn xa: 10km
-- ☂️ Thời tiết: ⛈️ mưa nhẹ
+- ☂️ Thời tiết: ☀️ bầu trời quang đãng
 
 ### Sắp tới
 
 | Thời gian | Nhiệt độ | Độ ẩm | Tầm nhìn xa | Thời tiết |
 | --- | --- | --- | --- | --- |
-| 12/04 01:00 | 27.07℃ - 27.24℃ | 70% | 10km | ☀️ bầu trời quang đãng |
-| 12/04 04:00 | 25.59℃ - 26.06℃ | 79% | 10km | ☀️ bầu trời quang đãng |
+| 12/04 01:00 | 27.07℃ - 27.24℃ | 76% | 10km | ☀️ bầu trời quang đãng |
+| 12/04 04:00 | 25.59℃ - 26.06℃ | 82% | 10km | ☀️ bầu trời quang đãng |
 | 12/04 07:00 | 26.83℃ - 26.83℃ | 81% | 10km | ☀️ bầu trời quang đãng |
 | 12/04 10:00 | 30.43℃ - 30.43℃ | 40% | 10km | ☀️ bầu trời quang đãng |
 | 12/04 13:00 | 34.42℃ - 34.42℃ | 18% | 10km | ☀️ bầu trời quang đãng |
