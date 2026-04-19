@@ -51,19 +51,19 @@ const main = async () => {
 			)
 			.join('\n')
 
-		const template = `## 🌦️ Thời tiết Hà Nội (${moment().format('DD/MM')})
+		const template = `## 🌦️ Hanoi Weather (${moment().format('DD/MM')})
 
-### Hiện tại
+### Current
 
-- 🌡️ Nhiệt độ: ${main.temp}\u2103
-- 💦 Độ ẩm: ${main.humidity}%
-- 💨 Sức gió: ${wind.speed}m/s
-- 👁️ Tầm nhìn xa: ${visibility / 1000}km
-- ☂️ Thời tiết: ${weatherTemplate(weather)}
+- 🌡️ Temperature: ${main.temp}\u2103
+- 💦 Humidity: ${main.humidity}%
+- 💨 Wind Speed: ${wind.speed}m/s
+- 👁️ Visibility: ${visibility / 1000}km
+- ☂️ Weather: ${weatherTemplate(weather)}
 
-### Sắp tới
+### Upcoming
 
-| Thời gian | Nhiệt độ | Độ ẩm | Tầm nhìn xa | Thời tiết |
+| Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
 ${hourly}
 `
