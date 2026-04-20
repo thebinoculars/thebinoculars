@@ -1,4 +1,3 @@
-require('dotenv').config()
 const axios = require('axios')
 const moment = require('moment')
 const fs = require('fs')
