@@ -8,7 +8,7 @@ const main = async () => {
 			appid: process.env.API_KEY,
 			lat: 21.027763,
 			lon: 105.83416,
-			lang: 'vi',
+			lang: 'en',
 			units: 'metric',
 		}
 
