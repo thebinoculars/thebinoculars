@@ -16,7 +16,7 @@ jobs:
       - name: Generate README
         env:
           API_KEY: ${{ secrets.API_KEY }}
-        run: node scripts/generate-readme.js
+        run: node main.js
       - name: Check for changes
         id: check_changes
         run: |
