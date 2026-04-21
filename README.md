@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 25.99℃
-- 💦 Humidity: 86%
-- 💨 Wind Speed: 5.3m/s
+- 💦 Humidity: 85%
+- 💨 Wind Speed: 4.42m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☀️ clear sky
 
@@ -12,13 +12,13 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 22/04 01:00 | 24.73℃ - 25.99℃ | 85% | 10km | ☀️ clear sky |
-| 22/04 04:00 | 23.54℃ - 25.17℃ | 87% | 10km | ☀️ clear sky |
-| 22/04 07:00 | 24.93℃ - 25.28℃ | 87% | 10km | ☁️ scattered clouds |
-| 22/04 10:00 | 28.07℃ - 28.07℃ | 73% | 10km | ☁️ overcast clouds |
-| 22/04 13:00 | 33.27℃ - 33.27℃ | 54% | 10km | ☁️ broken clouds |
-| 22/04 16:00 | 35.41℃ - 35.41℃ | 48% | 10km | ☀️ clear sky |
-| 22/04 19:00 | 27.67℃ - 27.67℃ | 78% | 10km | ☀️ clear sky |
+| 22/04 01:00 | 24.68℃ - 25.99℃ | 85% | 10km | ☀️ clear sky |
+| 22/04 04:00 | 23.5℃ - 25.16℃ | 87% | 10km | ☁️ few clouds |
+| 22/04 07:00 | 24.9℃ - 25.26℃ | 87% | 10km | ☁️ scattered clouds |
+| 22/04 10:00 | 27.53℃ - 27.53℃ | 75% | 10km | ☁️ overcast clouds |
+| 22/04 13:00 | 30.8℃ - 30.8℃ | 63% | 10km | ☁️ overcast clouds |
+| 22/04 16:00 | 33.87℃ - 33.87℃ | 54% | 10km | ☀️ clear sky |
+| 22/04 19:00 | 27.56℃ - 27.56℃ | 80% | 10km | ☀️ clear sky |
 | 22/04 22:00 | 25.78℃ - 25.78℃ | 87% | 10km | ⛈️ light rain |
 | 23/04 01:00 | 24.88℃ - 24.88℃ | 91% | 10km | ☁️ scattered clouds |
 | 23/04 04:00 | 25.03℃ - 25.03℃ | 86% | 10km | ⛈️ light rain |
