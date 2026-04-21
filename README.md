@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (20/04)
+## 🌦️ Hanoi Weather (21/04)
 
 ### Current
 
-- 🌡️ Temperature: 25.99℃
-- 💦 Humidity: 93%
-- 💨 Wind Speed: 1.98m/s
+- 🌡️ Temperature: 24.33℃
+- 💦 Humidity: 89%
+- 💨 Wind Speed: 2.42m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ scattered clouds
 
@@ -12,13 +12,12 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 21/04 07:00 | 24.33℃ - 25.99℃ | 89% | 10km | ☁️ scattered clouds |
-| 21/04 10:00 | 25.94℃ - 25.97℃ | 85% | 10km | ⛈️ light rain |
-| 21/04 13:00 | 25.74℃ - 25.82℃ | 73% | 10km | ☁️ broken clouds |
-| 21/04 16:00 | 31.26℃ - 31.26℃ | 59% | 10km | ☁️ scattered clouds |
-| 21/04 19:00 | 25.23℃ - 25.23℃ | 78% | 10km | ☁️ scattered clouds |
-| 21/04 22:00 | 24.78℃ - 24.78℃ | 85% | 10km | ☀️ clear sky |
-| 22/04 01:00 | 24.27℃ - 24.27℃ | 86% | 10km | ☀️ clear sky |
+| 21/04 10:00 | 24.87℃ - 25.94℃ | 85% | 10km | ⛈️ light rain |
+| 21/04 13:00 | 27.44℃ - 28.99℃ | 76% | 10km | ⛈️ light rain |
+| 21/04 16:00 | 31℃ - 31℃ | 61% | 10km | ☁️ scattered clouds |
+| 21/04 19:00 | 25.98℃ - 25.98℃ | 79% | 10km | ⛈️ light rain |
+| 21/04 22:00 | 24.72℃ - 24.72℃ | 85% | 10km | ☀️ clear sky |
+| 22/04 01:00 | 24.15℃ - 24.15℃ | 86% | 10km | ☀️ clear sky |
 | 22/04 04:00 | 23.46℃ - 23.46℃ | 92% | 10km | ☁️ few clouds |
 | 22/04 07:00 | 24.95℃ - 24.95℃ | 87% | 10km | ☁️ scattered clouds |
 | 22/04 10:00 | 28.17℃ - 28.17℃ | 73% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 25/04 22:00 | 23.59℃ - 23.59℃ | 87% | 10km | ☁️ broken clouds |
 | 26/04 01:00 | 22.96℃ - 22.96℃ | 91% | 10km | ☁️ broken clouds |
 | 26/04 04:00 | 22.35℃ - 22.35℃ | 94% | 10km | ⛈️ light rain |
+| 26/04 07:00 | 23.82℃ - 23.82℃ | 90% | 10km | ☁️ overcast clouds |
