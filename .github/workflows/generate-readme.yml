@@ -6,13 +6,13 @@ on:
     - cron: "*/15 * * * *"
 
 jobs:
-  build:
+  generate-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: 24.14.1
+          node-version: 24
       - name: Generate README
         env:
           API_KEY: ${{ secrets.API_KEY }}
