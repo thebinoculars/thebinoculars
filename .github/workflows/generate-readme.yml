@@ -13,7 +13,6 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 24.14.1
-      - run: yarn
       - name: Generate README
         env:
           API_KEY: ${{ secrets.API_KEY }}
