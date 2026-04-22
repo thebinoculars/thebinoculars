@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 26.1℃
-- 💦 Humidity: 91%
-- 💨 Wind Speed: 4.49m/s
+- 🌡️ Temperature: 25.55℃
+- 💦 Humidity: 92%
+- 💨 Wind Speed: 3.87m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☀️ clear sky
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 23/04 01:00 | 25.33℃ - 26.56℃ | 90% | 10km | ☀️ clear sky |
-| 23/04 04:00 | 25.08℃ - 25.78℃ | 90% | 10km | ⛈️ light rain |
-| 23/04 07:00 | 24.56℃ - 24.56℃ | 79% | 10km | ⛈️ light rain |
+| 23/04 01:00 | 25.34℃ - 25.34℃ | 91% | 10km | ☁️ few clouds |
+| 23/04 04:00 | 25.11℃ - 25.26℃ | 90% | 10km | ⛈️ light rain |
+| 23/04 07:00 | 24.56℃ - 24.82℃ | 83% | 10km | ⛈️ light rain |
 | 23/04 10:00 | 23.49℃ - 23.49℃ | 81% | 10km | ⛈️ light rain |
 | 23/04 13:00 | 23.66℃ - 23.66℃ | 76% | 10km | ⛈️ light rain |
 | 23/04 16:00 | 23.79℃ - 23.79℃ | 76% | 10km | ⛈️ light rain |
