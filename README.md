@@ -3,17 +3,17 @@
 ### Current
 
 - 🌡️ Temperature: 21.99℃
-- 💦 Humidity: 95%
-- 💨 Wind Speed: 1.13m/s
-- 👁️ Visibility: 9.46km
+- 💦 Humidity: 94%
+- 💨 Wind Speed: 0.3m/s
+- 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 24/04 04:00 | 21.99℃ - 22.4℃ | 95% | 10km | ⛈️ light rain |
-| 24/04 07:00 | 21.99℃ - 21.99℃ | 94% | 10km | ⛈️ light rain |
+| 24/04 04:00 | 21.99℃ - 22.41℃ | 94% | 10km | ⛈️ light rain |
+| 24/04 07:00 | 21.99℃ - 21.99℃ | 93% | 10km | ⛈️ light rain |
 | 24/04 10:00 | 23.36℃ - 24.05℃ | 84% | 10km | ⛈️ light rain |
 | 24/04 13:00 | 25.76℃ - 25.76℃ | 73% | 10km | ⛈️ light rain |
 | 24/04 16:00 | 25.38℃ - 25.38℃ | 75% | 10km | ☁️ overcast clouds |
