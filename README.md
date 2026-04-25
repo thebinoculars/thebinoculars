@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 26.99℃
-- 💦 Humidity: 79%
-- 💨 Wind Speed: 3.98m/s
+- 💦 Humidity: 80%
+- 💨 Wind Speed: 3.85m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,7 +12,7 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 25/04 22:00 | 24.29℃ - 26.99℃ | 80% | 10km | ☁️ overcast clouds |
+| 25/04 22:00 | 24.3℃ - 26.99℃ | 80% | 10km | ☁️ overcast clouds |
 | 26/04 01:00 | 23.34℃ - 25.77℃ | 82% | 10km | ☁️ overcast clouds |
 | 26/04 04:00 | 22.57℃ - 24.04℃ | 88% | 10km | ☁️ overcast clouds |
 | 26/04 07:00 | 23.85℃ - 23.85℃ | 87% | 10km | ☁️ overcast clouds |
