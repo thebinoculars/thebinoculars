@@ -12,8 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 25/04 19:00 | 28.86℃ - 29.61℃ | 59% | 10km | ⛈️ light rain |
-| 25/04 22:00 | 24.66℃ - 26.44℃ | 69% | 10km | ☁️ broken clouds |
+| 25/04 19:00 | 28.81℃ - 29.6℃ | 59% | 10km | ⛈️ light rain |
+| 25/04 22:00 | 24.8℃ - 26.53℃ | 68% | 10km | ☁️ broken clouds |
 | 26/04 01:00 | 23.44℃ - 23.44℃ | 85% | 10km | ☁️ overcast clouds |
 | 26/04 04:00 | 22.55℃ - 22.55℃ | 91% | 10km | ☁️ overcast clouds |
 | 26/04 07:00 | 24.42℃ - 24.42℃ | 87% | 10km | ☁️ overcast clouds |
