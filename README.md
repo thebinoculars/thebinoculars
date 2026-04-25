@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 22.99℃
-- 💦 Humidity: 91%
-- 💨 Wind Speed: 2.03m/s
+- 💦 Humidity: 86%
+- 💨 Wind Speed: 2.39m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -14,11 +14,11 @@
 | --- | --- | --- | --- | --- |
 | 26/04 07:00 | 22.99℃ - 23.8℃ | 86% | 10km | ☁️ overcast clouds |
 | 26/04 10:00 | 24.8℃ - 28.43℃ | 78% | 10km | ☁️ overcast clouds |
-| 26/04 13:00 | 27.2℃ - 29.31℃ | 68% | 10km | ☁️ overcast clouds |
-| 26/04 16:00 | 28.33℃ - 28.33℃ | 67% | 10km | ☁️ overcast clouds |
-| 26/04 19:00 | 25.61℃ - 25.61℃ | 79% | 10km | ⛈️ light rain |
-| 26/04 22:00 | 24.04℃ - 24.04℃ | 91% | 10km | ⛈️ light rain |
-| 27/04 01:00 | 23.44℃ - 23.44℃ | 93% | 10km | ⛈️ light rain |
+| 26/04 13:00 | 26.67℃ - 28.51℃ | 69% | 10km | ☁️ overcast clouds |
+| 26/04 16:00 | 27.56℃ - 27.56℃ | 69% | 10km | ☁️ overcast clouds |
+| 26/04 19:00 | 25.81℃ - 25.81℃ | 77% | 10km | ☁️ overcast clouds |
+| 26/04 22:00 | 24.07℃ - 24.07℃ | 88% | 10km | ⛈️ light rain |
+| 27/04 01:00 | 23.06℃ - 23.06℃ | 92% | 10km | ⛈️ light rain |
 | 27/04 04:00 | 23.03℃ - 23.03℃ | 94% | 10km | ☁️ overcast clouds |
 | 27/04 07:00 | 24.42℃ - 24.42℃ | 87% | 10km | ☁️ overcast clouds |
 | 27/04 10:00 | 29.24℃ - 29.24℃ | 65% | 10km | ☁️ overcast clouds |
