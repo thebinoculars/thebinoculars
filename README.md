@@ -13,7 +13,7 @@
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
 | 26/04 07:00 | 23.26℃ - 23.81℃ | 89% | 10km | ☁️ overcast clouds |
-| 26/04 10:00 | 26.69℃ - 28.54℃ | 71% | 10km | ☁️ overcast clouds |
+| 26/04 10:00 | 26.62℃ - 28.43℃ | 72% | 10km | ☁️ overcast clouds |
 | 26/04 13:00 | 29.31℃ - 29.31℃ | 60% | 10km | ☁️ overcast clouds |
 | 26/04 16:00 | 28.33℃ - 28.33℃ | 67% | 10km | ☁️ overcast clouds |
 | 26/04 19:00 | 25.61℃ - 25.61℃ | 79% | 10km | ⛈️ light rain |
