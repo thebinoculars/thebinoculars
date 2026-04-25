@@ -3,17 +3,16 @@
 ### Current
 
 - 🌡️ Temperature: 29.99℃
-- 💦 Humidity: 55%
-- 💨 Wind Speed: 3.32m/s
+- 💦 Humidity: 61%
+- 💨 Wind Speed: 4.95m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 25/04 16:00 | 29.99℃ - 32.43℃ | 55% | 10km | ☁️ scattered clouds |
-| 25/04 19:00 | 28.89℃ - 29.62℃ | 60% | 10km | ⛈️ light rain |
+| 25/04 19:00 | 28.86℃ - 29.61℃ | 59% | 10km | ⛈️ light rain |
 | 25/04 22:00 | 24.66℃ - 26.44℃ | 69% | 10km | ☁️ broken clouds |
 | 26/04 01:00 | 23.44℃ - 23.44℃ | 85% | 10km | ☁️ overcast clouds |
 | 26/04 04:00 | 22.55℃ - 22.55℃ | 91% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 30/04 07:00 | 20.57℃ - 20.57℃ | 70% | 10km | ☁️ overcast clouds |
 | 30/04 10:00 | 24.74℃ - 24.74℃ | 51% | 10km | ☁️ overcast clouds |
 | 30/04 13:00 | 28.24℃ - 28.24℃ | 42% | 10km | ☁️ overcast clouds |
+| 30/04 16:00 | 29.06℃ - 29.06℃ | 42% | 10km | ☁️ overcast clouds |
