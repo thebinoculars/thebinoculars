@@ -2,8 +2,8 @@
 
 ### Current
 
-- 🌡️ Temperature: 26.99℃
-- 💦 Humidity: 80%
+- 🌡️ Temperature: 25.99℃
+- 💦 Humidity: 79%
 - 💨 Wind Speed: 3.85m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 25/04 22:00 | 24.3℃ - 26.99℃ | 80% | 10km | ☁️ overcast clouds |
-| 26/04 01:00 | 23.34℃ - 25.77℃ | 82% | 10km | ☁️ overcast clouds |
-| 26/04 04:00 | 22.57℃ - 24.04℃ | 88% | 10km | ☁️ overcast clouds |
+| 26/04 01:00 | 23.34℃ - 25.11℃ | 81% | 10km | ☁️ overcast clouds |
+| 26/04 04:00 | 22.57℃ - 23.71℃ | 87% | 10km | ☁️ overcast clouds |
 | 26/04 07:00 | 23.85℃ - 23.85℃ | 87% | 10km | ☁️ overcast clouds |
 | 26/04 10:00 | 28.15℃ - 28.15℃ | 65% | 10km | ☁️ overcast clouds |
 | 26/04 13:00 | 29.72℃ - 29.72℃ | 57% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 30/04 13:00 | 28.8℃ - 28.8℃ | 38% | 10km | ☁️ broken clouds |
 | 30/04 16:00 | 29.26℃ - 29.26℃ | 40% | 10km | ☁️ broken clouds |
 | 30/04 19:00 | 23.72℃ - 23.72℃ | 70% | 10km | ☁️ broken clouds |
+| 30/04 22:00 | 22.16℃ - 22.16℃ | 76% | 10km | ☁️ broken clouds |
