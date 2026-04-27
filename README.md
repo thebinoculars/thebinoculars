@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 22.99℃
-- 💦 Humidity: 91%
-- 💨 Wind Speed: 4.95m/s
+- 💦 Humidity: 93%
+- 💨 Wind Speed: 4.14m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ scattered clouds
 
@@ -12,13 +12,13 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 28/04 01:00 | 22.99℃ - 24.32℃ | 92% | 10km | ⛈️ light rain |
-| 28/04 04:00 | 23.31℃ - 23.95℃ | 94% | 10km | ⛈️ light rain |
-| 28/04 07:00 | 24.53℃ - 25.3℃ | 90% | 10km | ☁️ few clouds |
-| 28/04 10:00 | 29.3℃ - 29.3℃ | 68% | 10km | ☁️ broken clouds |
-| 28/04 13:00 | 32.78℃ - 32.78℃ | 51% | 10km | ☁️ broken clouds |
-| 28/04 16:00 | 30.33℃ - 30.33℃ | 60% | 10km | ⛈️ light rain |
-| 28/04 19:00 | 24.25℃ - 24.25℃ | 69% | 10km | ⛈️ light rain |
+| 28/04 01:00 | 22.99℃ - 24.31℃ | 93% | 10km | ⛈️ light rain |
+| 28/04 04:00 | 23.31℃ - 23.95℃ | 94% | 10km | ☁️ scattered clouds |
+| 28/04 07:00 | 24.57℃ - 25.36℃ | 89% | 10km | ⛈️ light rain |
+| 28/04 10:00 | 28.96℃ - 28.96℃ | 70% | 10km | ⛈️ light rain |
+| 28/04 13:00 | 32.32℃ - 32.32℃ | 54% | 10km | ☁️ broken clouds |
+| 28/04 16:00 | 33.52℃ - 33.52℃ | 46% | 10km | ☀️ clear sky |
+| 28/04 19:00 | 23.8℃ - 23.8℃ | 82% | 10km | ⛈️ heavy intensity rain |
 | 28/04 22:00 | 23.6℃ - 23.6℃ | 79% | 10km | ⛈️ light rain |
 | 29/04 01:00 | 22.65℃ - 22.65℃ | 88% | 10km | ⛈️ light rain |
 | 29/04 04:00 | 21.33℃ - 21.33℃ | 80% | 10km | ⛈️ light rain |
