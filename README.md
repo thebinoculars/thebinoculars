@@ -2,53 +2,53 @@
 
 ### Current
 
-- 🌡️ Temperature: 30.99℃
-- 💦 Humidity: 72%
-- 💨 Wind Speed: 6.11m/s
+- 🌡️ Temperature: 28.99℃
+- 💦 Humidity: 85%
+- 💨 Wind Speed: 2.78m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 28/04 19:00 | 27.49℃ - 30.99℃ | 79% | 10km | ⛈️ moderate rain |
-| 28/04 22:00 | 25.71℃ - 29.23℃ | 82% | 10km | ⛈️ moderate rain |
-| 29/04 01:00 | 24.86℃ - 26.9℃ | 90% | 10km | ☁️ broken clouds |
-| 29/04 04:00 | 24.09℃ - 24.09℃ | 84% | 10km | ⛈️ light rain |
-| 29/04 07:00 | 21.59℃ - 21.59℃ | 78% | 10km | ⛈️ light rain |
-| 29/04 10:00 | 23.03℃ - 23.03℃ | 69% | 10km | ☁️ overcast clouds |
-| 29/04 13:00 | 27.76℃ - 27.76℃ | 48% | 10km | ☁️ broken clouds |
-| 29/04 16:00 | 30.15℃ - 30.15℃ | 42% | 10km | ☀️ clear sky |
-| 29/04 19:00 | 25.4℃ - 25.4℃ | 55% | 10km | ☁️ scattered clouds |
-| 29/04 22:00 | 23.79℃ - 23.79℃ | 59% | 10km | ☁️ overcast clouds |
-| 30/04 01:00 | 22.19℃ - 22.19℃ | 63% | 10km | ☁️ overcast clouds |
-| 30/04 04:00 | 21.06℃ - 21.06℃ | 65% | 10km | ☁️ broken clouds |
-| 30/04 07:00 | 21.83℃ - 21.83℃ | 62% | 10km | ☁️ broken clouds |
-| 30/04 10:00 | 24.56℃ - 24.56℃ | 51% | 10km | ☁️ overcast clouds |
-| 30/04 13:00 | 28.32℃ - 28.32℃ | 42% | 10km | ☁️ overcast clouds |
-| 30/04 16:00 | 29.74℃ - 29.74℃ | 41% | 10km | ☁️ scattered clouds |
-| 30/04 19:00 | 24.09℃ - 24.09℃ | 68% | 10km | ☁️ scattered clouds |
-| 30/04 22:00 | 22.41℃ - 22.41℃ | 72% | 10km | ☁️ broken clouds |
-| 01/05 01:00 | 21.64℃ - 21.64℃ | 75% | 10km | ☁️ broken clouds |
-| 01/05 04:00 | 21.58℃ - 21.58℃ | 76% | 10km | ☁️ overcast clouds |
-| 01/05 07:00 | 22.76℃ - 22.76℃ | 74% | 10km | ☁️ overcast clouds |
-| 01/05 10:00 | 27.64℃ - 27.64℃ | 58% | 10km | ☁️ broken clouds |
-| 01/05 13:00 | 30.18℃ - 30.18℃ | 52% | 10km | ☁️ broken clouds |
-| 01/05 16:00 | 29.89℃ - 29.89℃ | 52% | 10km | ☁️ overcast clouds |
-| 01/05 19:00 | 24.88℃ - 24.88℃ | 69% | 10km | ☁️ overcast clouds |
-| 01/05 22:00 | 23.84℃ - 23.84℃ | 78% | 10km | ☁️ overcast clouds |
-| 02/05 01:00 | 22.94℃ - 22.94℃ | 88% | 10km | ☁️ broken clouds |
-| 02/05 04:00 | 22.58℃ - 22.58℃ | 92% | 10km | ☁️ scattered clouds |
-| 02/05 07:00 | 24.16℃ - 24.16℃ | 83% | 10km | ☁️ broken clouds |
-| 02/05 10:00 | 27.99℃ - 27.99℃ | 69% | 10km | ☁️ overcast clouds |
-| 02/05 13:00 | 31.53℃ - 31.53℃ | 57% | 10km | ☁️ overcast clouds |
-| 02/05 16:00 | 33.57℃ - 33.57℃ | 51% | 10km | ☁️ overcast clouds |
-| 02/05 19:00 | 26.7℃ - 26.7℃ | 83% | 10km | ⛈️ light rain |
-| 02/05 22:00 | 25.4℃ - 25.4℃ | 89% | 10km | ☁️ overcast clouds |
-| 03/05 01:00 | 24.57℃ - 24.57℃ | 93% | 10km | ☁️ overcast clouds |
-| 03/05 04:00 | 24.38℃ - 24.38℃ | 96% | 10km | ☁️ overcast clouds |
-| 03/05 07:00 | 25.86℃ - 25.86℃ | 90% | 10km | ⛈️ light rain |
-| 03/05 10:00 | 30.22℃ - 30.22℃ | 69% | 10km | ☁️ overcast clouds |
-| 03/05 13:00 | 33.42℃ - 33.42℃ | 55% | 10km | ☁️ overcast clouds |
-| 03/05 16:00 | 34.21℃ - 34.21℃ | 50% | 10km | ☁️ overcast clouds |
+| 28/04 22:00 | 25.59℃ - 27.86℃ | 87% | 10km | ☁️ scattered clouds |
+| 29/04 01:00 | 24.55℃ - 26.03℃ | 92% | 10km | ⛈️ light rain |
+| 29/04 04:00 | 23.18℃ - 23.18℃ | 82% | 10km | ⛈️ light rain |
+| 29/04 07:00 | 21.9℃ - 21.9℃ | 73% | 10km | ⛈️ light rain |
+| 29/04 10:00 | 23.89℃ - 23.89℃ | 67% | 10km | ☁️ overcast clouds |
+| 29/04 13:00 | 26.18℃ - 26.18℃ | 58% | 10km | ☁️ overcast clouds |
+| 29/04 16:00 | 27.56℃ - 27.56℃ | 48% | 10km | ☁️ scattered clouds |
+| 29/04 19:00 | 24.67℃ - 24.67℃ | 60% | 10km | ☁️ scattered clouds |
+| 29/04 22:00 | 23℃ - 23℃ | 60% | 10km | ☁️ broken clouds |
+| 30/04 01:00 | 21℃ - 21℃ | 67% | 10km | ☁️ broken clouds |
+| 30/04 04:00 | 19.94℃ - 19.94℃ | 68% | 10km | ☁️ overcast clouds |
+| 30/04 07:00 | 21.11℃ - 21.11℃ | 62% | 10km | ☁️ overcast clouds |
+| 30/04 10:00 | 24.85℃ - 24.85℃ | 48% | 10km | ☁️ overcast clouds |
+| 30/04 13:00 | 28.31℃ - 28.31℃ | 41% | 10km | ☁️ overcast clouds |
+| 30/04 16:00 | 28.92℃ - 28.92℃ | 40% | 10km | ☁️ broken clouds |
+| 30/04 19:00 | 23.94℃ - 23.94℃ | 69% | 10km | ☁️ scattered clouds |
+| 30/04 22:00 | 21.99℃ - 21.99℃ | 75% | 10km | ☁️ broken clouds |
+| 01/05 01:00 | 21.76℃ - 21.76℃ | 76% | 10km | ☁️ broken clouds |
+| 01/05 04:00 | 21.08℃ - 21.08℃ | 79% | 10km | ☁️ overcast clouds |
+| 01/05 07:00 | 22.71℃ - 22.71℃ | 75% | 10km | ☁️ broken clouds |
+| 01/05 10:00 | 27.51℃ - 27.51℃ | 57% | 10km | ☁️ scattered clouds |
+| 01/05 13:00 | 31.01℃ - 31.01℃ | 49% | 10km | ☁️ broken clouds |
+| 01/05 16:00 | 30.53℃ - 30.53℃ | 52% | 10km | ☁️ overcast clouds |
+| 01/05 19:00 | 24.86℃ - 24.86℃ | 70% | 10km | ☁️ overcast clouds |
+| 01/05 22:00 | 23.75℃ - 23.75℃ | 80% | 10km | ☁️ broken clouds |
+| 02/05 01:00 | 23.37℃ - 23.37℃ | 88% | 10km | ☁️ broken clouds |
+| 02/05 04:00 | 22.91℃ - 22.91℃ | 92% | 10km | ☁️ broken clouds |
+| 02/05 07:00 | 24.27℃ - 24.27℃ | 86% | 10km | ☁️ overcast clouds |
+| 02/05 10:00 | 27.97℃ - 27.97℃ | 70% | 10km | ☁️ overcast clouds |
+| 02/05 13:00 | 33.22℃ - 33.22℃ | 52% | 10km | ☁️ overcast clouds |
+| 02/05 16:00 | 31.68℃ - 31.68℃ | 61% | 10km | ⛈️ light rain |
+| 02/05 19:00 | 27.4℃ - 27.4℃ | 79% | 10km | ⛈️ light rain |
+| 02/05 22:00 | 25.67℃ - 25.67℃ | 90% | 10km | ⛈️ light rain |
+| 03/05 01:00 | 24.77℃ - 24.77℃ | 95% | 10km | ⛈️ light rain |
+| 03/05 04:00 | 24.54℃ - 24.54℃ | 96% | 10km | ☁️ overcast clouds |
+| 03/05 07:00 | 25.82℃ - 25.82℃ | 90% | 10km | ⛈️ light rain |
+| 03/05 10:00 | 29.17℃ - 29.17℃ | 74% | 10km | ⛈️ light rain |
+| 03/05 13:00 | 33.72℃ - 33.72℃ | 54% | 10km | ☁️ overcast clouds |
+| 03/05 16:00 | 34.4℃ - 34.4℃ | 49% | 10km | ☁️ overcast clouds |
+| 03/05 19:00 | 28.26℃ - 28.26℃ | 81% | 10km | ⛈️ light rain |
