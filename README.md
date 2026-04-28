@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 25.99℃
-- 💦 Humidity: 80%
-- 💨 Wind Speed: 8.24m/s
+- 🌡️ Temperature: 22.99℃
+- 💦 Humidity: 75%
+- 💨 Wind Speed: 8.28m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 29/04 07:00 | 21.65℃ - 24.54℃ | 79% | 10km | ⛈️ light rain |
-| 29/04 10:00 | 23.87℃ - 24.58℃ | 69% | 10km | ⛈️ light rain |
-| 29/04 13:00 | 27.88℃ - 27.88℃ | 49% | 10km | ☁️ overcast clouds |
+| 29/04 07:00 | 21.64℃ - 22.99℃ | 70% | 10km | ⛈️ light rain |
+| 29/04 10:00 | 23.29℃ - 23.89℃ | 67% | 10km | ⛈️ light rain |
+| 29/04 13:00 | 26.25℃ - 27.88℃ | 56% | 10km | ☁️ overcast clouds |
 | 29/04 16:00 | 29.36℃ - 29.36℃ | 42% | 10km | ☁️ few clouds |
 | 29/04 19:00 | 25.6℃ - 25.6℃ | 57% | 10km | ☁️ scattered clouds |
 | 29/04 22:00 | 24.35℃ - 24.35℃ | 58% | 10km | ☁️ overcast clouds |
