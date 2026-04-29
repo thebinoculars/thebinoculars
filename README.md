@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 21.99℃
+- 🌡️ Temperature: 22.99℃
 - 💦 Humidity: 64%
-- 💨 Wind Speed: 3.56m/s
+- 💨 Wind Speed: 3.37m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 30/04 04:00 | 21.99℃ - 22.08℃ | 64% | 10km | ☁️ overcast clouds |
-| 30/04 07:00 | 22.13℃ - 22.41℃ | 63% | 10km | ☁️ overcast clouds |
-| 30/04 10:00 | 24.07℃ - 25.11℃ | 53% | 10km | ☁️ overcast clouds |
+| 30/04 07:00 | 22.39℃ - 22.79℃ | 63% | 10km | ☁️ overcast clouds |
+| 30/04 10:00 | 24.4℃ - 25.11℃ | 53% | 10km | ☁️ overcast clouds |
 | 30/04 13:00 | 28.36℃ - 28.36℃ | 42% | 10km | ☁️ overcast clouds |
 | 30/04 16:00 | 29.19℃ - 29.19℃ | 41% | 10km | ☁️ broken clouds |
 | 30/04 19:00 | 24.13℃ - 24.13℃ | 67% | 10km | ☁️ scattered clouds |
@@ -52,3 +51,4 @@
 | 04/05 19:00 | 21.97℃ - 21.97℃ | 72% | 10km | ☁️ overcast clouds |
 | 04/05 22:00 | 21.5℃ - 21.5℃ | 73% | 10km | ☁️ overcast clouds |
 | 05/05 01:00 | 21.43℃ - 21.43℃ | 72% | 10km | ☁️ overcast clouds |
+| 05/05 04:00 | 19.98℃ - 19.98℃ | 76% | 10km | ☁️ scattered clouds |
