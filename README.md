@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 23.99℃
-- 💦 Humidity: 74%
-- 💨 Wind Speed: 3.6m/s
+- 💦 Humidity: 77%
+- 💨 Wind Speed: 3.99m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ scattered clouds
 
@@ -12,13 +12,12 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 01/05 01:00 | 21.56℃ - 23.99℃ | 75% | 10km | ☁️ scattered clouds |
-| 01/05 04:00 | 21.02℃ - 23℃ | 76% | 10km | ☁️ broken clouds |
-| 01/05 07:00 | 22.85℃ - 23.23℃ | 73% | 10km | ☁️ broken clouds |
-| 01/05 10:00 | 27.41℃ - 27.41℃ | 57% | 10km | ☁️ broken clouds |
-| 01/05 13:00 | 30.2℃ - 30.2℃ | 51% | 10km | ☁️ overcast clouds |
-| 01/05 16:00 | 30.58℃ - 30.58℃ | 50% | 10km | ☁️ overcast clouds |
-| 01/05 19:00 | 24℃ - 24℃ | 71% | 10km | ⛈️ light rain |
+| 01/05 04:00 | 21.19℃ - 23.06℃ | 78% | 10km | ☁️ broken clouds |
+| 01/05 07:00 | 23.43℃ - 23.62℃ | 75% | 10km | ☁️ broken clouds |
+| 01/05 10:00 | 28.27℃ - 28.27℃ | 57% | 10km | ☁️ overcast clouds |
+| 01/05 13:00 | 29.1℃ - 29.1℃ | 52% | 10km | ☁️ overcast clouds |
+| 01/05 16:00 | 29.47℃ - 29.47℃ | 50% | 10km | ☁️ overcast clouds |
+| 01/05 19:00 | 23.42℃ - 23.42℃ | 76% | 10km | ⛈️ light rain |
 | 01/05 22:00 | 23.04℃ - 23.04℃ | 77% | 10km | ⛈️ light rain |
 | 02/05 01:00 | 22.76℃ - 22.76℃ | 85% | 10km | ☁️ overcast clouds |
 | 02/05 04:00 | 22.77℃ - 22.77℃ | 88% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 05/05 16:00 | 30.8℃ - 30.8℃ | 43% | 10km | ☁️ broken clouds |
 | 05/05 19:00 | 25.1℃ - 25.1℃ | 69% | 10km | ☁️ scattered clouds |
 | 05/05 22:00 | 22.59℃ - 22.59℃ | 79% | 10km | ⛈️ light rain |
+| 06/05 01:00 | 21.96℃ - 21.96℃ | 88% | 10km | ⛈️ light rain |
