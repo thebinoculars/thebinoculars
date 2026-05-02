@@ -2,23 +2,23 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.99℃
-- 💦 Humidity: 73%
-- 💨 Wind Speed: 5.56m/s
+- 🌡️ Temperature: 27.99℃
+- 💦 Humidity: 77%
+- 💨 Wind Speed: 5.39m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ light rain
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 02/05 19:00 | 27.29℃ - 28.99℃ | 76% | 10km | ⛈️ light rain |
-| 02/05 22:00 | 26.5℃ - 28.16℃ | 80% | 10km | ☁️ overcast clouds |
-| 03/05 01:00 | 25.41℃ - 26.6℃ | 89% | 10km | ☁️ overcast clouds |
-| 03/05 04:00 | 25.85℃ - 25.85℃ | 93% | 10km | ⛈️ light rain |
-| 03/05 07:00 | 26.47℃ - 26.47℃ | 91% | 10km | ⛈️ light rain |
-| 03/05 10:00 | 28.25℃ - 28.25℃ | 79% | 10km | ⛈️ light rain |
-| 03/05 13:00 | 24.68℃ - 24.68℃ | 77% | 5.919km | ⛈️ moderate rain |
+| 02/05 19:00 | 27.21℃ - 27.99℃ | 77% | 10km | ⛈️ light rain |
+| 02/05 22:00 | 26.45℃ - 27.48℃ | 81% | 10km | ⛈️ light rain |
+| 03/05 01:00 | 25.08℃ - 26.05℃ | 89% | 10km | ☁️ broken clouds |
+| 03/05 04:00 | 25.42℃ - 25.42℃ | 95% | 10km | ☁️ broken clouds |
+| 03/05 07:00 | 26.07℃ - 26.07℃ | 92% | 10km | ⛈️ light rain |
+| 03/05 10:00 | 27.93℃ - 27.93℃ | 81% | 10km | ⛈️ light rain |
+| 03/05 13:00 | 25.81℃ - 25.81℃ | 75% | 10km | ⛈️ moderate rain |
 | 03/05 16:00 | 23.61℃ - 23.61℃ | 79% | 9.633km | ⛈️ moderate rain |
 | 03/05 19:00 | 21.97℃ - 21.97℃ | 86% | 10km | ⛈️ moderate rain |
 | 03/05 22:00 | 21.13℃ - 21.13℃ | 82% | 10km | ⛈️ light rain |
