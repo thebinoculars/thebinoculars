@@ -2,18 +2,18 @@
 
 ### Current
 
-- 🌡️ Temperature: 22.99℃
-- 💦 Humidity: 85%
-- 💨 Wind Speed: 5.52m/s
-- 👁️ Visibility: 1.956km
-- ☂️ Weather: ☁️ overcast clouds
+- 🌡️ Temperature: 21.99℃
+- 💦 Humidity: 86%
+- 💨 Wind Speed: 4.17m/s
+- 👁️ Visibility: 9.85km
+- ☂️ Weather: ⛈️ light rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 04/05 01:00 | 21.58℃ - 22.52℃ | 85% | 10km | ⛈️ heavy intensity rain |
-| 04/05 04:00 | 19.07℃ - 20.38℃ | 80% | 10km | ⛈️ light rain |
+| 04/05 01:00 | 21.53℃ - 21.84℃ | 85% | 10km | ⛈️ heavy intensity rain |
+| 04/05 04:00 | 19.22℃ - 20.14℃ | 81% | 10km | ⛈️ light rain |
 | 04/05 07:00 | 19.28℃ - 19.28℃ | 79% | 10km | ⛈️ light rain |
 | 04/05 10:00 | 23.52℃ - 23.52℃ | 57% | 10km | ☁️ overcast clouds |
 | 04/05 13:00 | 26.47℃ - 26.47℃ | 54% | 10km | ☁️ overcast clouds |
