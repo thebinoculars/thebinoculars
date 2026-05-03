@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 19.99℃
-- 💦 Humidity: 96%
-- 💨 Wind Speed: 4.55m/s
+- 🌡️ Temperature: 20.99℃
+- 💦 Humidity: 87%
+- 💨 Wind Speed: 6.77m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,13 +12,13 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 04/05 01:00 | 19.99℃ - 21.43℃ | 91% | 10km | ⛈️ heavy intensity rain |
-| 04/05 04:00 | 19.16℃ - 19.71℃ | 88% | 10km | ⛈️ light rain |
-| 04/05 07:00 | 19.28℃ - 19.52℃ | 83% | 10km | ⛈️ light rain |
-| 04/05 10:00 | 23.52℃ - 23.52℃ | 57% | 10km | ☁️ overcast clouds |
-| 04/05 13:00 | 26.47℃ - 26.47℃ | 54% | 10km | ☁️ overcast clouds |
-| 04/05 16:00 | 27.32℃ - 27.32℃ | 52% | 10km | ☁️ overcast clouds |
-| 04/05 19:00 | 24.85℃ - 24.85℃ | 67% | 10km | ☁️ overcast clouds |
+| 04/05 01:00 | 20.99℃ - 21.49℃ | 87% | 10km | ⛈️ heavy intensity rain |
+| 04/05 04:00 | 19.18℃ - 20.39℃ | 84% | 10km | ⛈️ light rain |
+| 04/05 07:00 | 19.21℃ - 19.8℃ | 80% | 10km | ⛈️ light rain |
+| 04/05 10:00 | 20.93℃ - 20.93℃ | 69% | 10km | ⛈️ light rain |
+| 04/05 13:00 | 24.48℃ - 24.48℃ | 58% | 10km | ☁️ overcast clouds |
+| 04/05 16:00 | 24.44℃ - 24.44℃ | 64% | 10km | ☁️ overcast clouds |
+| 04/05 19:00 | 23.21℃ - 23.21℃ | 70% | 10km | ☁️ overcast clouds |
 | 04/05 22:00 | 23.03℃ - 23.03℃ | 76% | 10km | ☁️ overcast clouds |
 | 05/05 01:00 | 22.24℃ - 22.24℃ | 80% | 10km | ☁️ overcast clouds |
 | 05/05 04:00 | 22.1℃ - 22.1℃ | 82% | 10km | ☁️ overcast clouds |
