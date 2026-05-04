@@ -12,8 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 05/05 07:00 | 22.99℃ - 23.15℃ | 75% | 10km | ☁️ broken clouds |
-| 05/05 10:00 | 24.62℃ - 27.89℃ | 69% | 10km | ☁️ broken clouds |
+| 05/05 07:00 | 22.99℃ - 23.15℃ | 76% | 10km | ☁️ broken clouds |
+| 05/05 10:00 | 24.63℃ - 27.9℃ | 70% | 10km | ☁️ broken clouds |
 | 05/05 13:00 | 28.21℃ - 30.82℃ | 58% | 10km | ☁️ scattered clouds |
 | 05/05 16:00 | 29.26℃ - 29.26℃ | 61% | 10km | ☁️ broken clouds |
 | 05/05 19:00 | 25.73℃ - 25.73℃ | 77% | 10km | ☁️ broken clouds |
