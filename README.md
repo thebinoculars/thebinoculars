@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (06/05)
+## 🌦️ Hanoi Weather (07/05)
 
 ### Current
 
 - 🌡️ Temperature: 26.99℃
-- 💦 Humidity: 93%
-- 💨 Wind Speed: 1.72m/s
+- 💦 Humidity: 90%
+- 💨 Wind Speed: 1.94m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -12,8 +12,7 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 07/05 07:00 | 26.35℃ - 26.99℃ | 90% | 10km | ⛈️ light rain |
-| 07/05 10:00 | 27.65℃ - 28.96℃ | 85% | 10km | ⛈️ light rain |
+| 07/05 10:00 | 27.64℃ - 28.93℃ | 86% | 10km | ⛈️ light rain |
 | 07/05 13:00 | 29.32℃ - 30.48℃ | 75% | 10km | ⛈️ light rain |
 | 07/05 16:00 | 31.33℃ - 31.33℃ | 65% | 10km | ⛈️ light rain |
 | 07/05 19:00 | 27.79℃ - 27.79℃ | 79% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 11/05 22:00 | 23.92℃ - 23.92℃ | 88% | 10km | ☁️ overcast clouds |
 | 12/05 01:00 | 23.05℃ - 23.05℃ | 92% | 10km | ☁️ overcast clouds |
 | 12/05 04:00 | 23.07℃ - 23.07℃ | 94% | 10km | ☁️ overcast clouds |
+| 12/05 07:00 | 24.94℃ - 24.94℃ | 87% | 10km | ☁️ broken clouds |
