@@ -4,17 +4,17 @@
 
 - 🌡️ Temperature: 22.99℃
 - 💦 Humidity: 98%
-- 💨 Wind Speed: 5.52m/s
-- 👁️ Visibility: 1.789km
-- ☂️ Weather: ⛈️ heavy intensity rain
+- 💨 Wind Speed: 8.11m/s
+- 👁️ Visibility: 1.119km
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 08/05 07:00 | 23.11℃ - 23.35℃ | 97% | 7.505km | ⛈️ very heavy rain |
-| 08/05 10:00 | 23.09℃ - 23.14℃ | 94% | 10km | ⛈️ moderate rain |
-| 08/05 13:00 | 27.23℃ - 27.23℃ | 76% | 10km | ⛈️ light rain |
+| 08/05 07:00 | 22.99℃ - 23.34℃ | 97% | 7.505km | ⛈️ very heavy rain |
+| 08/05 10:00 | 23.05℃ - 23.18℃ | 95% | 10km | ⛈️ moderate rain |
+| 08/05 13:00 | 25.82℃ - 27.23℃ | 83% | 10km | ⛈️ light rain |
 | 08/05 16:00 | 29.6℃ - 29.6℃ | 66% | 10km | ⛈️ light rain |
 | 08/05 19:00 | 25.81℃ - 25.81℃ | 85% | 9.394km | ⛈️ moderate rain |
 | 08/05 22:00 | 23.92℃ - 23.92℃ | 90% | 10km | ⛈️ light rain |
