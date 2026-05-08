@@ -2,53 +2,53 @@
 
 ### Current
 
-- 🌡️ Temperature: 27.99℃
+- 🌡️ Temperature: 25.99℃
 - 💦 Humidity: 76%
-- 💨 Wind Speed: 3.71m/s
+- 💨 Wind Speed: 3.76m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ overcast clouds
+- ☂️ Weather: ⛈️ light rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 08/05 22:00 | 24.75℃ - 26.91℃ | 77% | 10km | ☁️ overcast clouds |
-| 09/05 01:00 | 24.72℃ - 25.81℃ | 70% | 10km | ☁️ overcast clouds |
-| 09/05 04:00 | 24.44℃ - 24.44℃ | 65% | 10km | ☁️ overcast clouds |
+| 08/05 22:00 | 24.94℃ - 25.99℃ | 77% | 10km | ☁️ overcast clouds |
+| 09/05 01:00 | 24.76℃ - 25.58℃ | 74% | 10km | ☁️ overcast clouds |
+| 09/05 04:00 | 24.44℃ - 24.96℃ | 69% | 10km | ☁️ overcast clouds |
 | 09/05 07:00 | 23.7℃ - 23.7℃ | 69% | 10km | ☁️ overcast clouds |
 | 09/05 10:00 | 24.78℃ - 24.78℃ | 68% | 10km | ☁️ overcast clouds |
 | 09/05 13:00 | 24.68℃ - 24.68℃ | 68% | 10km | ☁️ overcast clouds |
-| 09/05 16:00 | 24.49℃ - 24.49℃ | 73% | 10km | ☁️ overcast clouds |
-| 09/05 19:00 | 23.84℃ - 23.84℃ | 71% | 10km | ☁️ overcast clouds |
-| 09/05 22:00 | 23.46℃ - 23.46℃ | 72% | 10km | ☁️ overcast clouds |
-| 10/05 01:00 | 22.71℃ - 22.71℃ | 79% | 10km | ☁️ overcast clouds |
-| 10/05 04:00 | 21.51℃ - 21.51℃ | 86% | 10km | ⛈️ light rain |
-| 10/05 07:00 | 21.61℃ - 21.61℃ | 86% | 10km | ⛈️ light rain |
-| 10/05 10:00 | 24.33℃ - 24.33℃ | 74% | 10km | ☁️ overcast clouds |
-| 10/05 13:00 | 26.25℃ - 26.25℃ | 69% | 10km | ☁️ overcast clouds |
-| 10/05 16:00 | 23.85℃ - 23.85℃ | 79% | 10km | ☁️ overcast clouds |
-| 10/05 19:00 | 23.44℃ - 23.44℃ | 81% | 10km | ☁️ overcast clouds |
-| 10/05 22:00 | 22.88℃ - 22.88℃ | 86% | 10km | ☁️ overcast clouds |
-| 11/05 01:00 | 22.79℃ - 22.79℃ | 86% | 10km | ☁️ overcast clouds |
-| 11/05 04:00 | 21.96℃ - 21.96℃ | 92% | 10km | ⛈️ light rain |
-| 11/05 07:00 | 22.51℃ - 22.51℃ | 90% | 10km | ☁️ overcast clouds |
-| 11/05 10:00 | 23.63℃ - 23.63℃ | 86% | 10km | ⛈️ light rain |
-| 11/05 13:00 | 29.39℃ - 29.39℃ | 65% | 10km | ☁️ overcast clouds |
-| 11/05 16:00 | 29.81℃ - 29.81℃ | 62% | 10km | ⛈️ light rain |
-| 11/05 19:00 | 25.91℃ - 25.91℃ | 85% | 10km | ⛈️ light rain |
-| 11/05 22:00 | 24.65℃ - 24.65℃ | 90% | 10km | ☁️ broken clouds |
-| 12/05 01:00 | 23.79℃ - 23.79℃ | 93% | 10km | ☁️ broken clouds |
-| 12/05 04:00 | 23.94℃ - 23.94℃ | 94% | 10km | ☁️ broken clouds |
-| 12/05 07:00 | 25.65℃ - 25.65℃ | 86% | 10km | ☁️ broken clouds |
-| 12/05 10:00 | 30.62℃ - 30.62℃ | 64% | 10km | ⛈️ light rain |
-| 12/05 13:00 | 32.33℃ - 32.33℃ | 58% | 10km | ⛈️ light rain |
-| 12/05 16:00 | 32.11℃ - 32.11℃ | 61% | 10km | ☁️ overcast clouds |
-| 12/05 19:00 | 27.94℃ - 27.94℃ | 76% | 10km | ⛈️ light rain |
-| 12/05 22:00 | 26℃ - 26℃ | 89% | 10km | ⛈️ light rain |
-| 13/05 01:00 | 25.17℃ - 25.17℃ | 94% | 10km | ☁️ overcast clouds |
-| 13/05 04:00 | 24.81℃ - 24.81℃ | 96% | 10km | ☁️ overcast clouds |
-| 13/05 07:00 | 25.68℃ - 25.68℃ | 92% | 10km | ☁️ overcast clouds |
-| 13/05 10:00 | 29.34℃ - 29.34℃ | 73% | 10km | ☁️ overcast clouds |
-| 13/05 13:00 | 35.22℃ - 35.22℃ | 50% | 10km | ☁️ broken clouds |
-| 13/05 16:00 | 36.1℃ - 36.1℃ | 45% | 10km | ☁️ broken clouds |
-| 13/05 19:00 | 29.91℃ - 29.91℃ | 73% | 10km | ☁️ overcast clouds |
+| 09/05 16:00 | 25.29℃ - 25.29℃ | 67% | 10km | ☁️ overcast clouds |
+| 09/05 19:00 | 24.25℃ - 24.25℃ | 73% | 10km | ☁️ overcast clouds |
+| 09/05 22:00 | 24.05℃ - 24.05℃ | 74% | 10km | ☁️ overcast clouds |
+| 10/05 01:00 | 23.04℃ - 23.04℃ | 85% | 10km | ☁️ overcast clouds |
+| 10/05 04:00 | 22.54℃ - 22.54℃ | 89% | 10km | ☁️ overcast clouds |
+| 10/05 07:00 | 22.63℃ - 22.63℃ | 85% | 10km | ☁️ overcast clouds |
+| 10/05 10:00 | 24.23℃ - 24.23℃ | 68% | 10km | ☁️ overcast clouds |
+| 10/05 13:00 | 27.01℃ - 27.01℃ | 59% | 10km | ☁️ overcast clouds |
+| 10/05 16:00 | 27.63℃ - 27.63℃ | 61% | 10km | ☁️ overcast clouds |
+| 10/05 19:00 | 22.37℃ - 22.37℃ | 81% | 10km | ☁️ overcast clouds |
+| 10/05 22:00 | 22.78℃ - 22.78℃ | 81% | 10km | ☁️ overcast clouds |
+| 11/05 01:00 | 22.47℃ - 22.47℃ | 82% | 10km | ☁️ overcast clouds |
+| 11/05 04:00 | 21.52℃ - 21.52℃ | 89% | 10km | ⛈️ light rain |
+| 11/05 07:00 | 21.76℃ - 21.76℃ | 89% | 10km | ⛈️ light rain |
+| 11/05 10:00 | 22.98℃ - 22.98℃ | 83% | 10km | ☁️ overcast clouds |
+| 11/05 13:00 | 24.52℃ - 24.52℃ | 78% | 10km | ☁️ overcast clouds |
+| 11/05 16:00 | 27.89℃ - 27.89℃ | 68% | 10km | ☁️ overcast clouds |
+| 11/05 19:00 | 25.13℃ - 25.13℃ | 79% | 10km | ☁️ overcast clouds |
+| 11/05 22:00 | 25.01℃ - 25.01℃ | 79% | 10km | ☁️ overcast clouds |
+| 12/05 01:00 | 24.57℃ - 24.57℃ | 89% | 10km | ⛈️ light rain |
+| 12/05 04:00 | 23.52℃ - 23.52℃ | 95% | 10km | ☁️ broken clouds |
+| 12/05 07:00 | 25.39℃ - 25.39℃ | 88% | 10km | ☁️ broken clouds |
+| 12/05 10:00 | 30.13℃ - 30.13℃ | 66% | 10km | ⛈️ light rain |
+| 12/05 13:00 | 31.94℃ - 31.94℃ | 59% | 10km | ⛈️ light rain |
+| 12/05 16:00 | 31.94℃ - 31.94℃ | 61% | 10km | ⛈️ light rain |
+| 12/05 19:00 | 28.03℃ - 28.03℃ | 75% | 10km | ☁️ overcast clouds |
+| 12/05 22:00 | 25.29℃ - 25.29℃ | 90% | 10km | ⛈️ moderate rain |
+| 13/05 01:00 | 24.77℃ - 24.77℃ | 95% | 10km | ☁️ overcast clouds |
+| 13/05 04:00 | 24.46℃ - 24.46℃ | 97% | 10km | ☁️ broken clouds |
+| 13/05 07:00 | 26.48℃ - 26.48℃ | 87% | 10km | ☁️ scattered clouds |
+| 13/05 10:00 | 31.15℃ - 31.15℃ | 66% | 10km | ☁️ broken clouds |
+| 13/05 13:00 | 35.04℃ - 35.04℃ | 51% | 10km | ☁️ broken clouds |
+| 13/05 16:00 | 35.75℃ - 35.75℃ | 48% | 10km | ☁️ overcast clouds |
+| 13/05 19:00 | 29.07℃ - 29.07℃ | 78% | 10km | ⛈️ light rain |
