@@ -4,7 +4,7 @@
 
 - 🌡️ Temperature: 25.99℃
 - 💦 Humidity: 82%
-- 💨 Wind Speed: 1.8m/s
+- 💨 Wind Speed: 2.23m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 09/05 19:00 | 24.48℃ - 25.99℃ | 83% | 10km | ☁️ overcast clouds |
-| 09/05 22:00 | 23.76℃ - 25.25℃ | 85% | 10km | ⛈️ light rain |
-| 10/05 01:00 | 23.37℃ - 24.24℃ | 91% | 10km | ⛈️ light rain |
+| 09/05 19:00 | 24.49℃ - 25.99℃ | 82% | 10km | ☁️ overcast clouds |
+| 09/05 22:00 | 23.74℃ - 25.24℃ | 84% | 10km | ⛈️ light rain |
+| 10/05 01:00 | 23.37℃ - 24.24℃ | 90% | 10km | ⛈️ light rain |
 | 10/05 04:00 | 23.18℃ - 23.18℃ | 95% | 10km | ⛈️ light rain |
 | 10/05 07:00 | 23.04℃ - 23.04℃ | 95% | 10km | ⛈️ light rain |
 | 10/05 10:00 | 22.63℃ - 22.63℃ | 88% | 10km | ⛈️ light rain |
