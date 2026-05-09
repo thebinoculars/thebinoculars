@@ -12,7 +12,7 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 10/05 07:00 | 22.99℃ - 24.58℃ | 82% | 10km | ☁️ overcast clouds |
+| 10/05 07:00 | 22.99℃ - 24.59℃ | 82% | 10km | ☁️ overcast clouds |
 | 10/05 10:00 | 24.66℃ - 28℃ | 78% | 10km | ☁️ overcast clouds |
 | 10/05 13:00 | 27.8℃ - 30.2℃ | 69% | 10km | ☁️ overcast clouds |
 | 10/05 16:00 | 29.39℃ - 29.39℃ | 60% | 10km | ☁️ overcast clouds |
