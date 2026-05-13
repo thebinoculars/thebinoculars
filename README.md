@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 34.99℃
-- 💦 Humidity: 67%
-- 💨 Wind Speed: 5.77m/s
+- 🌡️ Temperature: 31.99℃
+- 💦 Humidity: 74%
+- 💨 Wind Speed: 4.49m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,13 +12,12 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 13/05 19:00 | 29.29℃ - 34.99℃ | 71% | 10km | ☁️ broken clouds |
-| 13/05 22:00 | 27.52℃ - 32.5℃ | 76% | 10km | ☁️ overcast clouds |
-| 14/05 01:00 | 26.96℃ - 29.64℃ | 85% | 10km | ☁️ overcast clouds |
-| 14/05 04:00 | 26.43℃ - 26.43℃ | 95% | 10km | ☁️ broken clouds |
-| 14/05 07:00 | 27.99℃ - 27.99℃ | 87% | 10km | ☁️ scattered clouds |
-| 14/05 10:00 | 33.45℃ - 33.45℃ | 55% | 10km | ☁️ overcast clouds |
-| 14/05 13:00 | 37.05℃ - 37.05℃ | 41% | 10km | ☁️ overcast clouds |
+| 13/05 22:00 | 27.5℃ - 30.49℃ | 76% | 10km | ☁️ broken clouds |
+| 14/05 01:00 | 26.85℃ - 28.56℃ | 83% | 10km | ☁️ overcast clouds |
+| 14/05 04:00 | 26.24℃ - 26.24℃ | 94% | 10km | ☁️ overcast clouds |
+| 14/05 07:00 | 28.08℃ - 28.08℃ | 84% | 10km | ☁️ broken clouds |
+| 14/05 10:00 | 31.98℃ - 31.98℃ | 57% | 10km | ☁️ overcast clouds |
+| 14/05 13:00 | 36.48℃ - 36.48℃ | 39% | 10km | ☁️ overcast clouds |
 | 14/05 16:00 | 36.8℃ - 36.8℃ | 40% | 10km | ☁️ overcast clouds |
 | 14/05 19:00 | 30.88℃ - 30.88℃ | 61% | 10km | ☁️ overcast clouds |
 | 14/05 22:00 | 28.68℃ - 28.68℃ | 69% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 18/05 10:00 | 29.48℃ - 29.48℃ | 75% | 4.497km | ⛈️ moderate rain |
 | 18/05 13:00 | 30.85℃ - 30.85℃ | 69% | 10km | ⛈️ moderate rain |
 | 18/05 16:00 | 30.52℃ - 30.52℃ | 70% | 10km | ⛈️ light rain |
+| 18/05 19:00 | 27.01℃ - 27.01℃ | 84% | 10km | ⛈️ light rain |
