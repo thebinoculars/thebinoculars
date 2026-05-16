@@ -2,19 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 29.99℃
-- 💦 Humidity: 79%
-- 💨 Wind Speed: 6.46m/s
+- 🌡️ Temperature: 28.99℃
+- 💦 Humidity: 83%
+- 💨 Wind Speed: 6m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ light rain
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 16/05 19:00 | 28.44℃ - 29.47℃ | 81% | 10km | ⛈️ moderate rain |
-| 16/05 22:00 | 27.55℃ - 28.36℃ | 86% | 10km | ⛈️ light rain |
-| 17/05 01:00 | 26.13℃ - 26.13℃ | 91% | 9.831km | ⛈️ light rain |
+| 16/05 19:00 | 28.34℃ - 28.99℃ | 84% | 10km | ⛈️ moderate rain |
+| 16/05 22:00 | 27.46℃ - 28.48℃ | 86% | 10km | ⛈️ light rain |
+| 17/05 01:00 | 26.13℃ - 27.08℃ | 89% | 9.831km | ⛈️ light rain |
 | 17/05 04:00 | 26.07℃ - 26.07℃ | 91% | 10km | ⛈️ light rain |
 | 17/05 07:00 | 27.65℃ - 27.65℃ | 87% | 10km | ⛈️ light rain |
 | 17/05 10:00 | 30.85℃ - 30.85℃ | 71% | 10km | ⛈️ light rain |
