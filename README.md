@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 29.99℃
-- 💦 Humidity: 76%
-- 💨 Wind Speed: 7.22m/s
+- 💦 Humidity: 79%
+- 💨 Wind Speed: 6.46m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ⛈️ light rain
 
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 16/05 16:00 | 29.99℃ - 30.94℃ | 76% | 10km | ⛈️ light rain |
-| 16/05 19:00 | 28.4℃ - 29.46℃ | 79% | 10km | ⛈️ moderate rain |
-| 16/05 22:00 | 27.43℃ - 28.28℃ | 86% | 10km | ⛈️ light rain |
+| 16/05 19:00 | 28.44℃ - 29.47℃ | 81% | 10km | ⛈️ moderate rain |
+| 16/05 22:00 | 27.55℃ - 28.36℃ | 86% | 10km | ⛈️ light rain |
 | 17/05 01:00 | 26.13℃ - 26.13℃ | 91% | 9.831km | ⛈️ light rain |
 | 17/05 04:00 | 26.07℃ - 26.07℃ | 91% | 10km | ⛈️ light rain |
 | 17/05 07:00 | 27.65℃ - 27.65℃ | 87% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 21/05 07:00 | 24.71℃ - 24.71℃ | 96% | 10km | ⛈️ light rain |
 | 21/05 10:00 | 26.91℃ - 26.91℃ | 86% | 10km | ⛈️ light rain |
 | 21/05 13:00 | 30.68℃ - 30.68℃ | 71% | 6.826km | ⛈️ light rain |
+| 21/05 16:00 | 28.84℃ - 28.84℃ | 80% | 10km | ⛈️ moderate rain |
