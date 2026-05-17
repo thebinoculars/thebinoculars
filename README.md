@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (16/05)
+## 🌦️ Hanoi Weather (17/05)
 
 ### Current
 
 - 🌡️ Temperature: 25.99℃
-- 💦 Humidity: 90%
-- 💨 Wind Speed: 0.26m/s
+- 💦 Humidity: 86%
+- 💨 Wind Speed: 1.47m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,13 +12,12 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 17/05 07:00 | 25.99℃ - 27.45℃ | 86% | 10km | ⛈️ light rain |
-| 17/05 10:00 | 27.17℃ - 29.52℃ | 83% | 10km | ⛈️ moderate rain |
-| 17/05 13:00 | 24.05℃ - 24.7℃ | 76% | 10km | ⛈️ moderate rain |
-| 17/05 16:00 | 28.15℃ - 28.15℃ | 68% | 10km | ⛈️ light rain |
-| 17/05 19:00 | 28.06℃ - 28.06℃ | 78% | 10km | ⛈️ light rain |
-| 17/05 22:00 | 25.83℃ - 25.83℃ | 89% | 10km | ⛈️ light rain |
-| 18/05 01:00 | 24.48℃ - 24.48℃ | 89% | 10km | ☁️ overcast clouds |
+| 17/05 10:00 | 27.17℃ - 29.53℃ | 83% | 10km | ⛈️ light rain |
+| 17/05 13:00 | 25.22℃ - 25.48℃ | 72% | 10km | ⛈️ moderate rain |
+| 17/05 16:00 | 28.79℃ - 28.79℃ | 67% | 10km | ⛈️ light rain |
+| 17/05 19:00 | 27.99℃ - 27.99℃ | 78% | 10km | ⛈️ light rain |
+| 17/05 22:00 | 26.38℃ - 26.38℃ | 90% | 10km | ⛈️ light rain |
+| 18/05 01:00 | 25.97℃ - 25.97℃ | 90% | 10km | ☁️ overcast clouds |
 | 18/05 04:00 | 24.67℃ - 24.67℃ | 89% | 10km | ☁️ overcast clouds |
 | 18/05 07:00 | 26.37℃ - 26.37℃ | 83% | 10km | ☁️ overcast clouds |
 | 18/05 10:00 | 30.33℃ - 30.33℃ | 71% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 21/05 22:00 | 25.69℃ - 25.69℃ | 90% | 10km | ☁️ overcast clouds |
 | 22/05 01:00 | 25.04℃ - 25.04℃ | 93% | 10km | ☁️ overcast clouds |
 | 22/05 04:00 | 24.79℃ - 24.79℃ | 94% | 10km | ☁️ overcast clouds |
+| 22/05 07:00 | 25.47℃ - 25.47℃ | 92% | 10km | ☁️ overcast clouds |
