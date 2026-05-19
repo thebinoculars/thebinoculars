@@ -3,18 +3,18 @@
 ### Current
 
 - 🌡️ Temperature: 24.99℃
-- 💦 Humidity: 94%
-- 💨 Wind Speed: 2.97m/s
+- 💦 Humidity: 97%
+- 💨 Wind Speed: 2.29m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ moderate rain
+- ☂️ Weather: ⛈️ heavy intensity rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 20/05 04:00 | 25.4℃ - 26.22℃ | 95% | 10km | ☁️ overcast clouds |
-| 20/05 07:00 | 26.33℃ - 27℃ | 91% | 10km | ⛈️ moderate rain |
-| 20/05 10:00 | 30.63℃ - 30.63℃ | 65% | 10km | ⛈️ light rain |
+| 20/05 04:00 | 24.99℃ - 26.18℃ | 97% | 10km | ☁️ overcast clouds |
+| 20/05 07:00 | 25.66℃ - 26.99℃ | 95% | 10km | ⛈️ moderate rain |
+| 20/05 10:00 | 28.75℃ - 30.63℃ | 75% | 10km | ⛈️ light rain |
 | 20/05 13:00 | 30.73℃ - 30.73℃ | 69% | 9.808km | ⛈️ light rain |
 | 20/05 16:00 | 24.23℃ - 24.23℃ | 80% | 6.792km | ⛈️ moderate rain |
 | 20/05 19:00 | 27.09℃ - 27.09℃ | 95% | 10km | ⛈️ moderate rain |
