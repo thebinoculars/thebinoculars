@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.99℃
-- 💦 Humidity: 89%
-- 💨 Wind Speed: 4.84m/s
+- 🌡️ Temperature: 27.99℃
+- 💦 Humidity: 92%
+- 💨 Wind Speed: 3.86m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ⛈️ light rain
 
@@ -12,10 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 19/05 22:00 | 27.12℃ - 28.99℃ | 90% | 10km | ☁️ overcast clouds |
-| 20/05 01:00 | 26.94℃ - 28.31℃ | 92% | 10km | ⛈️ light rain |
-| 20/05 04:00 | 26.07℃ - 27.04℃ | 94% | 10km | ⛈️ light rain |
-| 20/05 07:00 | 27.57℃ - 27.57℃ | 85% | 10km | ☁️ overcast clouds |
+| 20/05 01:00 | 26.97℃ - 27.99℃ | 93% | 10km | ⛈️ light rain |
+| 20/05 04:00 | 26.12℃ - 27.37℃ | 94% | 10km | ⛈️ light rain |
+| 20/05 07:00 | 27.57℃ - 27.71℃ | 87% | 10km | ☁️ overcast clouds |
 | 20/05 10:00 | 27.55℃ - 27.55℃ | 87% | 10km | ⛈️ light rain |
 | 20/05 13:00 | 27.29℃ - 27.29℃ | 87% | 10km | ⛈️ light rain |
 | 20/05 16:00 | 30.27℃ - 30.27℃ | 71% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 24/05 13:00 | 37.09℃ - 37.09℃ | 42% | 10km | ☁️ overcast clouds |
 | 24/05 16:00 | 38.53℃ - 38.53℃ | 39% | 10km | ☁️ scattered clouds |
 | 24/05 19:00 | 31.83℃ - 31.83℃ | 62% | 10km | ☁️ scattered clouds |
+| 24/05 22:00 | 29.79℃ - 29.79℃ | 72% | 10km | ☁️ few clouds |
