@@ -2,20 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 33.99℃
-- 💦 Humidity: 62%
-- 💨 Wind Speed: 5.09m/s
+- 🌡️ Temperature: 29.99℃
+- 💦 Humidity: 78%
+- 💨 Wind Speed: 3.36m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ broken clouds
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 21/05 16:00 | 32.55℃ - 33.99℃ | 63% | 10km | ⛈️ light rain |
-| 21/05 19:00 | 29℃ - 32.33℃ | 69% | 10km | ☁️ overcast clouds |
-| 21/05 22:00 | 28.21℃ - 30.14℃ | 75% | 10km | ⛈️ light rain |
-| 22/05 01:00 | 27.44℃ - 27.44℃ | 87% | 10km | ☁️ overcast clouds |
+| 21/05 19:00 | 28.95℃ - 29.99℃ | 80% | 10km | ☁️ overcast clouds |
+| 21/05 22:00 | 28.24℃ - 29.41℃ | 80% | 10km | ⛈️ light rain |
+| 22/05 01:00 | 27.44℃ - 28.29℃ | 85% | 10km | ☁️ overcast clouds |
 | 22/05 04:00 | 27.43℃ - 27.43℃ | 90% | 10km | ☁️ overcast clouds |
 | 22/05 07:00 | 26.06℃ - 26.06℃ | 88% | 10km | ☁️ overcast clouds |
 | 22/05 10:00 | 32.2℃ - 32.2℃ | 63% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 26/05 07:00 | 30.96℃ - 30.96℃ | 66% | 10km | ☁️ broken clouds |
 | 26/05 10:00 | 37.62℃ - 37.62℃ | 39% | 10km | ☁️ broken clouds |
 | 26/05 13:00 | 41.15℃ - 41.15℃ | 31% | 10km | ☁️ scattered clouds |
+| 26/05 16:00 | 41.09℃ - 41.09℃ | 32% | 10km | ☀️ clear sky |
