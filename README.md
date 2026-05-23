@@ -2,19 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 36.99℃
-- 💦 Humidity: 54%
-- 💨 Wind Speed: 4.02m/s
+- 🌡️ Temperature: 35.99℃
+- 💦 Humidity: 57%
+- 💨 Wind Speed: 4.19m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ overcast clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 23/05 19:00 | 31.58℃ - 35.19℃ | 50% | 10km | ⛈️ light rain |
-| 23/05 22:00 | 30.03℃ - 32.35℃ | 61% | 10km | ☁️ overcast clouds |
-| 24/05 01:00 | 29.54℃ - 29.54℃ | 67% | 10km | ☁️ overcast clouds |
+| 23/05 19:00 | 31.55℃ - 35.99℃ | 59% | 10km | ⛈️ light rain |
+| 23/05 22:00 | 30.06℃ - 34.01℃ | 62% | 10km | ☁️ broken clouds |
+| 24/05 01:00 | 29.54℃ - 31.69℃ | 65% | 10km | ☁️ overcast clouds |
 | 24/05 04:00 | 28.52℃ - 28.52℃ | 69% | 10km | ☁️ overcast clouds |
 | 24/05 07:00 | 29.46℃ - 29.46℃ | 69% | 10km | ☁️ overcast clouds |
 | 24/05 10:00 | 34.24℃ - 34.24℃ | 49% | 10km | ☁️ overcast clouds |
