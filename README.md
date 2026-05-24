@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 37.99℃
-- 💦 Humidity: 49%
-- 💨 Wind Speed: 5.67m/s
+- 🌡️ Temperature: 35.99℃
+- 💦 Humidity: 62%
+- 💨 Wind Speed: 5.84m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 24/05 19:00 | 31.83℃ - 35.94℃ | 51% | 10km | ☁️ broken clouds |
-| 24/05 22:00 | 30.51℃ - 33℃ | 57% | 10km | ☁️ scattered clouds |
-| 25/05 01:00 | 29.56℃ - 29.56℃ | 65% | 10km | ☁️ scattered clouds |
+| 24/05 19:00 | 31.8℃ - 35.99℃ | 62% | 10km | ☁️ broken clouds |
+| 24/05 22:00 | 30.49℃ - 34.16℃ | 63% | 10km | ☁️ scattered clouds |
+| 25/05 01:00 | 29.56℃ - 31.7℃ | 64% | 10km | ☁️ scattered clouds |
 | 25/05 04:00 | 28.8℃ - 28.8℃ | 68% | 10km | ☁️ overcast clouds |
 | 25/05 07:00 | 30.89℃ - 30.89℃ | 64% | 10km | ☁️ broken clouds |
 | 25/05 10:00 | 37℃ - 37℃ | 40% | 10km | ☁️ few clouds |
