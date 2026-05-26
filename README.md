@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 30.99℃
+- 🌡️ Temperature: 28.99℃
 - 💦 Humidity: 73%
-- 💨 Wind Speed: 2.22m/s
+- 💨 Wind Speed: 2.14m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☀️ clear sky
 
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 27/05 04:00 | 29.39℃ - 29.99℃ | 73% | 10km | ☀️ clear sky |
-| 27/05 07:00 | 30.38℃ - 31.15℃ | 70% | 10km | ☀️ clear sky |
-| 27/05 10:00 | 33.96℃ - 35.94℃ | 55% | 10km | ☀️ clear sky |
+| 27/05 07:00 | 29.71℃ - 31.15℃ | 70% | 10km | ☀️ clear sky |
+| 27/05 10:00 | 33.62℃ - 35.94℃ | 55% | 10km | ☀️ clear sky |
 | 27/05 13:00 | 39.19℃ - 39.19℃ | 35% | 10km | ☀️ clear sky |
 | 27/05 16:00 | 37.94℃ - 37.94℃ | 37% | 10km | ☁️ scattered clouds |
 | 27/05 19:00 | 30.15℃ - 30.15℃ | 69% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 31/05 19:00 | 30.67℃ - 30.67℃ | 59% | 10km | ☀️ clear sky |
 | 31/05 22:00 | 28.24℃ - 28.24℃ | 73% | 10km | ☀️ clear sky |
 | 01/06 01:00 | 27.28℃ - 27.28℃ | 78% | 10km | ☀️ clear sky |
+| 01/06 04:00 | 26.37℃ - 26.37℃ | 84% | 10km | ☀️ clear sky |
