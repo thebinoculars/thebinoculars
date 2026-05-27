@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 25.99℃
-- 💦 Humidity: 83%
-- 💨 Wind Speed: 2.7m/s
+- 💦 Humidity: 86%
+- 💨 Wind Speed: 2.03m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ scattered clouds
 
@@ -12,8 +12,7 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 28/05 04:00 | 25.99℃ - 28.61℃ | 85% | 10km | ⛈️ light rain |
-| 28/05 07:00 | 27.47℃ - 30.44℃ | 83% | 10km | ⛈️ light rain |
+| 28/05 07:00 | 27.48℃ - 30.47℃ | 83% | 10km | ⛈️ light rain |
 | 28/05 10:00 | 31.59℃ - 34.39℃ | 65% | 10km | ☁️ broken clouds |
 | 28/05 13:00 | 37.18℃ - 37.18℃ | 42% | 10km | ☁️ broken clouds |
 | 28/05 16:00 | 34.35℃ - 34.35℃ | 58% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 01/06 19:00 | 30.71℃ - 30.71℃ | 66% | 10km | ☁️ few clouds |
 | 01/06 22:00 | 27.87℃ - 27.87℃ | 82% | 10km | ⛈️ light rain |
 | 02/06 01:00 | 27.42℃ - 27.42℃ | 85% | 10km | ☀️ clear sky |
+| 02/06 04:00 | 26.95℃ - 26.95℃ | 90% | 10km | ☁️ scattered clouds |
