@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (29/05)
+## 🌦️ Hanoi Weather (30/05)
 
 ### Current
 
-- 🌡️ Temperature: 25.99℃
-- 💦 Humidity: 82%
-- 💨 Wind Speed: 1.5m/s
+- 🌡️ Temperature: 26.99℃
+- 💦 Humidity: 77%
+- 💨 Wind Speed: 1.44m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,13 +12,12 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 30/05 07:00 | 25.99℃ - 28.47℃ | 77% | 10km | ⛈️ light rain |
-| 30/05 10:00 | 27.47℃ - 30.44℃ | 69% | 10km | ⛈️ light rain |
-| 30/05 13:00 | 27.12℃ - 27.69℃ | 63% | 10km | ⛈️ light rain |
-| 30/05 16:00 | 29.56℃ - 29.56℃ | 58% | 10km | ⛈️ light rain |
-| 30/05 19:00 | 29.89℃ - 29.89℃ | 70% | 10km | ⛈️ light rain |
-| 30/05 22:00 | 27.48℃ - 27.48℃ | 78% | 10km | ⛈️ light rain |
-| 31/05 01:00 | 26.38℃ - 26.38℃ | 81% | 10km | ⛈️ light rain |
+| 30/05 10:00 | 28.14℃ - 30.44℃ | 70% | 10km | ⛈️ light rain |
+| 30/05 13:00 | 27.67℃ - 28.01℃ | 63% | 10km | ☁️ overcast clouds |
+| 30/05 16:00 | 28.94℃ - 28.94℃ | 58% | 10km | ⛈️ light rain |
+| 30/05 19:00 | 28.95℃ - 28.95℃ | 70% | 10km | ⛈️ light rain |
+| 30/05 22:00 | 28.99℃ - 28.99℃ | 78% | 10km | ⛈️ light rain |
+| 31/05 01:00 | 27.27℃ - 27.27℃ | 81% | 10km | ⛈️ light rain |
 | 31/05 04:00 | 25.6℃ - 25.6℃ | 85% | 10km | ⛈️ light rain |
 | 31/05 07:00 | 27.89℃ - 27.89℃ | 74% | 10km | ☀️ clear sky |
 | 31/05 10:00 | 33.08℃ - 33.08℃ | 56% | 10km | ☀️ clear sky |
@@ -52,3 +51,4 @@
 | 03/06 22:00 | 31.04℃ - 31.04℃ | 67% | 10km | ⛈️ light rain |
 | 04/06 01:00 | 29.89℃ - 29.89℃ | 76% | 10km | ☁️ broken clouds |
 | 04/06 04:00 | 28.94℃ - 28.94℃ | 85% | 10km | ⛈️ light rain |
+| 04/06 07:00 | 28.87℃ - 28.87℃ | 83% | 10km | ⛈️ light rain |
