@@ -3,8 +3,8 @@
 ### Current
 
 - 🌡️ Temperature: 25.99℃
-- 💦 Humidity: 83%
-- 💨 Wind Speed: 1.31m/s
+- 💦 Humidity: 84%
+- 💨 Wind Speed: 1.48m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ⛈️ light rain
 
@@ -13,7 +13,7 @@
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
 | 31/05 07:00 | 26.74℃ - 28.24℃ | 80% | 10km | ☁️ scattered clouds |
-| 31/05 10:00 | 30.65℃ - 32.98℃ | 65% | 10km | ☁️ scattered clouds |
+| 31/05 10:00 | 30.58℃ - 32.88℃ | 65% | 10km | ☁️ scattered clouds |
 | 31/05 13:00 | 36.33℃ - 36.33℃ | 40% | 10km | ☁️ scattered clouds |
 | 31/05 16:00 | 36.35℃ - 36.35℃ | 34% | 10km | ☀️ clear sky |
 | 31/05 19:00 | 29.98℃ - 29.98℃ | 62% | 10km | ☀️ clear sky |
