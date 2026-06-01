@@ -4,7 +4,7 @@
 
 - 🌡️ Temperature: 27.99℃
 - 💦 Humidity: 86%
-- 💨 Wind Speed: 2.69m/s
+- 💨 Wind Speed: 2.41m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☀️ clear sky
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 02/06 07:00 | 28.33℃ - 29℃ | 81% | 10km | ☀️ clear sky |
-| 02/06 10:00 | 31.82℃ - 33.74℃ | 65% | 10km | ☁️ few clouds |
-| 02/06 13:00 | 37.51℃ - 37.51℃ | 44% | 10km | ☁️ scattered clouds |
+| 02/06 07:00 | 27.99℃ - 28.95℃ | 78% | 10km | ☀️ clear sky |
+| 02/06 10:00 | 29.87℃ - 33.62℃ | 70% | 10km | ☀️ clear sky |
+| 02/06 13:00 | 34.34℃ - 37.51℃ | 55% | 10km | ☁️ few clouds |
 | 02/06 16:00 | 36.43℃ - 36.43℃ | 48% | 10km | ☁️ scattered clouds |
 | 02/06 19:00 | 30.77℃ - 30.77℃ | 69% | 10km | ⛈️ light rain |
 | 02/06 22:00 | 28.79℃ - 28.79℃ | 81% | 10km | ⛈️ light rain |
