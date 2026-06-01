@@ -1,21 +1,20 @@
-## 🌦️ Hanoi Weather (31/05)
+## 🌦️ Hanoi Weather (01/06)
 
 ### Current
 
-- 🌡️ Temperature: 27.99℃
-- 💦 Humidity: 76%
-- 💨 Wind Speed: 2.68m/s
+- 🌡️ Temperature: 30.99℃
+- 💦 Humidity: 68%
+- 💨 Wind Speed: 2.83m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ few clouds
+- ☂️ Weather: ☀️ clear sky
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 01/06 07:00 | 27.56℃ - 27.99℃ | 76% | 10km | ☁️ few clouds |
-| 01/06 10:00 | 29.37℃ - 32.13℃ | 68% | 10km | ☁️ few clouds |
-| 01/06 13:00 | 31.91℃ - 33.87℃ | 54% | 10km | ☁️ few clouds |
-| 01/06 16:00 | 33.72℃ - 33.72℃ | 54% | 10km | ☁️ scattered clouds |
+| 01/06 10:00 | 30.99℃ - 32.13℃ | 61% | 10km | ☀️ clear sky |
+| 01/06 13:00 | 31.93℃ - 33.81℃ | 56% | 10km | ☀️ clear sky |
+| 01/06 16:00 | 32.81℃ - 33.72℃ | 56% | 10km | ☁️ few clouds |
 | 01/06 19:00 | 30.41℃ - 30.41℃ | 65% | 10km | ☁️ few clouds |
 | 01/06 22:00 | 29.05℃ - 29.05℃ | 74% | 10km | ☀️ clear sky |
 | 02/06 01:00 | 27.96℃ - 27.96℃ | 81% | 10km | ☀️ clear sky |
@@ -52,3 +51,4 @@
 | 05/06 22:00 | 30.23℃ - 30.23℃ | 74% | 10km | ⛈️ light rain |
 | 06/06 01:00 | 29.36℃ - 29.36℃ | 80% | 10km | ☁️ overcast clouds |
 | 06/06 04:00 | 28.77℃ - 28.77℃ | 82% | 10km | ☁️ overcast clouds |
+| 06/06 07:00 | 29.37℃ - 29.37℃ | 80% | 10km | ☁️ overcast clouds |
