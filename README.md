@@ -2,19 +2,18 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.29℃
-- 💦 Humidity: 84%
-- 💨 Wind Speed: 3.82m/s
+- 🌡️ Temperature: 27.39℃
+- 💦 Humidity: 89%
+- 💨 Wind Speed: 2.89m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ few clouds
+- ☂️ Weather: ☀️ clear sky
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 03/06 04:00 | 27.7℃ - 28.09℃ | 86% | 10km | ☁️ few clouds |
-| 03/06 07:00 | 28.9℃ - 29.2℃ | 80% | 10km | ☀️ clear sky |
-| 03/06 10:00 | 34.05℃ - 34.05℃ | 56% | 10km | ☁️ broken clouds |
+| 03/06 07:00 | 28.2℃ - 29.2℃ | 85% | 10km | ☀️ clear sky |
+| 03/06 10:00 | 31.93℃ - 34.05℃ | 66% | 10km | ☁️ scattered clouds |
 | 03/06 13:00 | 37.84℃ - 37.84℃ | 43% | 10km | ☁️ broken clouds |
 | 03/06 16:00 | 38.84℃ - 38.84℃ | 39% | 10km | ☀️ clear sky |
 | 03/06 19:00 | 30.59℃ - 30.59℃ | 71% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 07/06 19:00 | 31.12℃ - 31.12℃ | 68% | 10km | ⛈️ light rain |
 | 07/06 22:00 | 29.88℃ - 29.88℃ | 77% | 10km | ⛈️ light rain |
 | 08/06 01:00 | 29.06℃ - 29.06℃ | 81% | 10km | ☁️ overcast clouds |
+| 08/06 04:00 | 27.98℃ - 27.98℃ | 86% | 10km | ⛈️ light rain |
