@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.55℃
-- 💦 Humidity: 72%
-- 💨 Wind Speed: 1.09m/s
+- 🌡️ Temperature: 28.22℃
+- 💦 Humidity: 74%
+- 💨 Wind Speed: 0.3m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 07/06 04:00 | 27.81℃ - 28.4℃ | 73% | 10km | ☁️ broken clouds |
-| 07/06 07:00 | 29.12℃ - 29.34℃ | 71% | 10km | ☁️ broken clouds |
-| 07/06 10:00 | 35.27℃ - 35.27℃ | 50% | 10km | ☁️ broken clouds |
+| 07/06 04:00 | 27.81℃ - 27.81℃ | 75% | 10km | ☁️ broken clouds |
+| 07/06 07:00 | 28.32℃ - 29.34℃ | 73% | 10km | ☁️ broken clouds |
+| 07/06 10:00 | 32.78℃ - 35.27℃ | 58% | 10km | ☁️ broken clouds |
 | 07/06 13:00 | 38.25℃ - 38.25℃ | 40% | 10km | ☁️ broken clouds |
 | 07/06 16:00 | 39.15℃ - 39.15℃ | 36% | 10km | ☁️ broken clouds |
 | 07/06 19:00 | 34.42℃ - 34.42℃ | 50% | 10km | ☁️ broken clouds |
