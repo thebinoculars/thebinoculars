@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.98℃
-- 💦 Humidity: 72%
-- 💨 Wind Speed: 2.85m/s
+- 🌡️ Temperature: 28.89℃
+- 💦 Humidity: 73%
+- 💨 Wind Speed: 2m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -14,19 +14,19 @@
 | --- | --- | --- | --- | --- |
 | 07/06 01:00 | 28.89℃ - 28.89℃ | 73% | 10km | ⛈️ light rain |
 | 07/06 04:00 | 28.01℃ - 28.6℃ | 74% | 10km | ☁️ broken clouds |
-| 07/06 07:00 | 29.47℃ - 29.76℃ | 71% | 10km | ☁️ overcast clouds |
-| 07/06 10:00 | 34.61℃ - 34.61℃ | 53% | 10km | ☁️ overcast clouds |
-| 07/06 13:00 | 36.65℃ - 36.65℃ | 42% | 10km | ☁️ overcast clouds |
-| 07/06 16:00 | 38.37℃ - 38.37℃ | 38% | 10km | ☁️ broken clouds |
-| 07/06 19:00 | 34.81℃ - 34.81℃ | 48% | 10km | ☁️ broken clouds |
-| 07/06 22:00 | 31.51℃ - 31.51℃ | 64% | 10km | ☁️ broken clouds |
-| 08/06 01:00 | 30.63℃ - 30.63℃ | 66% | 10km | ☁️ broken clouds |
-| 08/06 04:00 | 29.91℃ - 29.91℃ | 69% | 10km | ☁️ overcast clouds |
-| 08/06 07:00 | 31.72℃ - 31.72℃ | 60% | 10km | ☁️ overcast clouds |
-| 08/06 10:00 | 36.04℃ - 36.04℃ | 44% | 10km | ☁️ overcast clouds |
-| 08/06 13:00 | 38.53℃ - 38.53℃ | 39% | 10km | ☁️ overcast clouds |
-| 08/06 16:00 | 30.4℃ - 30.4℃ | 70% | 10km | ⛈️ light rain |
-| 08/06 19:00 | 25.72℃ - 25.72℃ | 86% | 5.979km | ⛈️ moderate rain |
+| 07/06 07:00 | 29.19℃ - 29.34℃ | 71% | 10km | ☁️ overcast clouds |
+| 07/06 10:00 | 35.27℃ - 35.27℃ | 53% | 10km | ☁️ overcast clouds |
+| 07/06 13:00 | 38.25℃ - 38.25℃ | 42% | 10km | ☁️ overcast clouds |
+| 07/06 16:00 | 39.15℃ - 39.15℃ | 38% | 10km | ☁️ broken clouds |
+| 07/06 19:00 | 34.42℃ - 34.42℃ | 48% | 10km | ☁️ broken clouds |
+| 07/06 22:00 | 32.31℃ - 32.31℃ | 64% | 10km | ☁️ broken clouds |
+| 08/06 01:00 | 31.07℃ - 31.07℃ | 66% | 10km | ☁️ broken clouds |
+| 08/06 04:00 | 29.99℃ - 29.99℃ | 69% | 10km | ☁️ overcast clouds |
+| 08/06 07:00 | 31.94℃ - 31.94℃ | 60% | 10km | ☁️ overcast clouds |
+| 08/06 10:00 | 35.67℃ - 35.67℃ | 44% | 10km | ☁️ overcast clouds |
+| 08/06 13:00 | 37.17℃ - 37.17℃ | 39% | 10km | ☁️ overcast clouds |
+| 08/06 16:00 | 37.1℃ - 37.1℃ | 70% | 10km | ⛈️ light rain |
+| 08/06 19:00 | 28.63℃ - 28.63℃ | 86% | 5.979km | ⛈️ moderate rain |
 | 08/06 22:00 | 25.49℃ - 25.49℃ | 77% | 10km | ⛈️ moderate rain |
 | 09/06 01:00 | 24.7℃ - 24.7℃ | 77% | 10km | ⛈️ light rain |
 | 09/06 04:00 | 23.22℃ - 23.22℃ | 82% | 10km | ⛈️ moderate rain |
