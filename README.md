@@ -2,20 +2,18 @@
 
 ### Current
 
-- 🌡️ Temperature: 33.23℃
-- 💦 Humidity: 57%
-- 💨 Wind Speed: 1.42m/s
+- 🌡️ Temperature: 38.3℃
+- 💦 Humidity: 40%
+- 💨 Wind Speed: 3.35m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 07/06 10:00 | 35.13℃ - 35.13℃ | 50% | 10km | ☁️ scattered clouds |
-| 07/06 13:00 | 36.19℃ - 38.3℃ | 46% | 10km | ☁️ scattered clouds |
-| 07/06 16:00 | 37.96℃ - 39.37℃ | 40% | 10km | ☁️ broken clouds |
-| 07/06 19:00 | 34.23℃ - 34.23℃ | 51% | 10km | ☁️ broken clouds |
+| 07/06 16:00 | 38.66℃ - 39.37℃ | 38% | 10km | ☁️ broken clouds |
+| 07/06 19:00 | 34.23℃ - 35.59℃ | 48% | 10km | ☁️ broken clouds |
 | 07/06 22:00 | 32.62℃ - 32.62℃ | 56% | 10km | ☁️ broken clouds |
 | 08/06 01:00 | 31.19℃ - 31.19℃ | 60% | 10km | ☁️ scattered clouds |
 | 08/06 04:00 | 30.22℃ - 30.22℃ | 63% | 10km | ☁️ overcast clouds |
@@ -52,3 +50,5 @@
 | 12/06 01:00 | 25.8℃ - 25.8℃ | 69% | 10km | ☁️ overcast clouds |
 | 12/06 04:00 | 25.72℃ - 25.72℃ | 69% | 10km | ☁️ overcast clouds |
 | 12/06 07:00 | 25.99℃ - 25.99℃ | 70% | 10km | ☁️ overcast clouds |
+| 12/06 10:00 | 28.34℃ - 28.34℃ | 60% | 10km | ☁️ overcast clouds |
+| 12/06 13:00 | 32.46℃ - 32.46℃ | 45% | 10km | ☁️ overcast clouds |
