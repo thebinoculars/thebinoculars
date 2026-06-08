@@ -2,20 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 25.38℃
-- 💦 Humidity: 77%
-- 💨 Wind Speed: 2.89m/s
-- 👁️ Visibility: 8.134km
-- ☂️ Weather: ⛈️ heavy intensity rain
+- 🌡️ Temperature: 23.73℃
+- 💦 Humidity: 88%
+- 💨 Wind Speed: 2.7m/s
+- 👁️ Visibility: 10km
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 08/06 22:00 | 25.38℃ - 25.38℃ | 77% | 8.134km | ⛈️ moderate rain |
-| 09/06 01:00 | 23.73℃ - 24.83℃ | 81% | 10km | ⛈️ heavy intensity rain |
-| 09/06 04:00 | 24.16℃ - 24.57℃ | 79% | 10km | ⛈️ light rain |
-| 09/06 07:00 | 24.98℃ - 24.98℃ | 71% | 10km | ⛈️ light rain |
+| 09/06 01:00 | 23.73℃ - 23.73℃ | 88% | 10km | ⛈️ heavy intensity rain |
+| 09/06 04:00 | 23.87℃ - 24.16℃ | 85% | 10km | ⛈️ light rain |
+| 09/06 07:00 | 24.56℃ - 24.98℃ | 76% | 10km | ⛈️ light rain |
 | 09/06 10:00 | 23.44℃ - 23.44℃ | 80% | 10km | ⛈️ light rain |
 | 09/06 13:00 | 22.96℃ - 22.96℃ | 86% | 10km | ⛈️ light rain |
 | 09/06 16:00 | 22.92℃ - 22.92℃ | 92% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 13/06 13:00 | 35.28℃ - 35.28℃ | 49% | 10km | ⛈️ light rain |
 | 13/06 16:00 | 36.07℃ - 36.07℃ | 47% | 10km | ☁️ overcast clouds |
 | 13/06 19:00 | 32.09℃ - 32.09℃ | 62% | 10km | ☁️ overcast clouds |
+| 13/06 22:00 | 29.71℃ - 29.71℃ | 73% | 10km | ⛈️ light rain |
