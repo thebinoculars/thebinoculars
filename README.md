@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 25.01℃
+- 🌡️ Temperature: 24.07℃
 - 💦 Humidity: 83%
-- 💨 Wind Speed: 3.2m/s
+- 💨 Wind Speed: 4.14m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,10 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 09/06 16:00 | 24.81℃ - 24.81℃ | 82% | 10km | ☁️ overcast clouds |
-| 09/06 19:00 | 24.07℃ - 24.56℃ | 83% | 10km | ☁️ overcast clouds |
-| 09/06 22:00 | 23.59℃ - 24℃ | 83% | 10km | ☁️ overcast clouds |
-| 10/06 01:00 | 22.75℃ - 22.75℃ | 85% | 10km | ☁️ overcast clouds |
+| 09/06 19:00 | 24.07℃ - 24.07℃ | 83% | 10km | ☁️ overcast clouds |
+| 09/06 22:00 | 23.59℃ - 23.91℃ | 83% | 10km | ☁️ overcast clouds |
+| 10/06 01:00 | 22.75℃ - 23.19℃ | 85% | 10km | ☁️ overcast clouds |
 | 10/06 04:00 | 21.74℃ - 21.74℃ | 93% | 10km | ⛈️ light rain |
 | 10/06 07:00 | 22.41℃ - 22.41℃ | 89% | 10km | ⛈️ light rain |
 | 10/06 10:00 | 24.01℃ - 24.01℃ | 81% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 14/06 07:00 | 27.58℃ - 27.58℃ | 82% | 10km | ⛈️ light rain |
 | 14/06 10:00 | 29.61℃ - 29.61℃ | 74% | 10km | ☁️ overcast clouds |
 | 14/06 13:00 | 30.57℃ - 30.57℃ | 69% | 10km | ☁️ overcast clouds |
+| 14/06 16:00 | 30.57℃ - 30.57℃ | 69% | 10km | ☁️ overcast clouds |
