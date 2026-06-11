@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.16℃
-- 💦 Humidity: 65%
-- 💨 Wind Speed: 1.62m/s
+- 🌡️ Temperature: 31.02℃
+- 💦 Humidity: 55%
+- 💨 Wind Speed: 1.28m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,22 +12,20 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 11/06 10:00 | 28.82℃ - 28.82℃ | 63% | 10km | ☁️ overcast clouds |
-| 11/06 13:00 | 30.04℃ - 32.48℃ | 58% | 10km | ☁️ overcast clouds |
-| 11/06 16:00 | 29.97℃ - 30.54℃ | 59% | 10km | ☁️ overcast clouds |
-| 11/06 19:00 | 27.22℃ - 27.22℃ | 73% | 10km | ☁️ overcast clouds |
-| 11/06 22:00 | 26.09℃ - 26.09℃ | 81% | 10km | ☁️ overcast clouds |
-| 12/06 01:00 | 25.41℃ - 25.41℃ | 85% | 10km | ☁️ overcast clouds |
-| 12/06 04:00 | 25.19℃ - 25.19℃ | 87% | 10km | ☁️ overcast clouds |
-| 12/06 07:00 | 26.28℃ - 26.28℃ | 83% | 10km | ☁️ overcast clouds |
-| 12/06 10:00 | 29.69℃ - 29.69℃ | 67% | 10km | ☁️ overcast clouds |
-| 12/06 13:00 | 33.39℃ - 33.39℃ | 53% | 10km | ⛈️ light rain |
-| 12/06 16:00 | 33.82℃ - 33.82℃ | 51% | 10km | ☁️ overcast clouds |
-| 12/06 19:00 | 28.58℃ - 28.58℃ | 68% | 10km | ☁️ overcast clouds |
-| 12/06 22:00 | 27.97℃ - 27.97℃ | 76% | 10km | ☁️ overcast clouds |
-| 13/06 01:00 | 27.54℃ - 27.54℃ | 78% | 10km | ☁️ overcast clouds |
-| 13/06 04:00 | 27.17℃ - 27.17℃ | 81% | 10km | ☁️ overcast clouds |
-| 13/06 07:00 | 28.45℃ - 28.45℃ | 76% | 10km | ☁️ overcast clouds |
+| 11/06 16:00 | 31.04℃ - 31.07℃ | 56% | 10km | ☁️ overcast clouds |
+| 11/06 19:00 | 27.65℃ - 28.77℃ | 67% | 10km | ☁️ overcast clouds |
+| 11/06 22:00 | 26.46℃ - 26.46℃ | 82% | 10km | ☁️ overcast clouds |
+| 12/06 01:00 | 26℃ - 26℃ | 85% | 10km | ☁️ overcast clouds |
+| 12/06 04:00 | 25.81℃ - 25.81℃ | 87% | 10km | ☁️ overcast clouds |
+| 12/06 07:00 | 26.44℃ - 26.44℃ | 85% | 10km | ☁️ overcast clouds |
+| 12/06 10:00 | 30.12℃ - 30.12℃ | 67% | 10km | ⛈️ light rain |
+| 12/06 13:00 | 33.07℃ - 33.07℃ | 55% | 10km | ☁️ overcast clouds |
+| 12/06 16:00 | 30.79℃ - 30.79℃ | 64% | 10km | ☁️ overcast clouds |
+| 12/06 19:00 | 28.91℃ - 28.91℃ | 71% | 10km | ☁️ overcast clouds |
+| 12/06 22:00 | 27.68℃ - 27.68℃ | 74% | 10km | ☁️ overcast clouds |
+| 13/06 01:00 | 26.83℃ - 26.83℃ | 80% | 10km | ☁️ overcast clouds |
+| 13/06 04:00 | 26.28℃ - 26.28℃ | 82% | 10km | ☁️ overcast clouds |
+| 13/06 07:00 | 27.9℃ - 27.9℃ | 75% | 10km | ☁️ overcast clouds |
 | 13/06 10:00 | 33.23℃ - 33.23℃ | 55% | 10km | ☁️ overcast clouds |
 | 13/06 13:00 | 37.24℃ - 37.24℃ | 41% | 10km | ☁️ broken clouds |
 | 13/06 16:00 | 37.21℃ - 37.21℃ | 38% | 10km | ☁️ overcast clouds |
@@ -52,3 +50,5 @@
 | 16/06 01:00 | 27.63℃ - 27.63℃ | 84% | 10km | ⛈️ light rain |
 | 16/06 04:00 | 25.63℃ - 25.63℃ | 94% | 10km | ⛈️ moderate rain |
 | 16/06 07:00 | 25.82℃ - 25.82℃ | 95% | 6.674km | ⛈️ moderate rain |
+| 16/06 10:00 | 26.35℃ - 26.35℃ | 92% | 10km | ⛈️ light rain |
+| 16/06 13:00 | 26.9℃ - 26.9℃ | 88% | 10km | ⛈️ light rain |
