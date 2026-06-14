@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 32.76℃
-- 💦 Humidity: 57%
-- 💨 Wind Speed: 3.76m/s
+- 🌡️ Temperature: 31.49℃
+- 💦 Humidity: 61%
+- 💨 Wind Speed: 3.81m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 14/06 22:00 | 30.92℃ - 32.15℃ | 60% | 10km | ☁️ overcast clouds |
-| 15/06 01:00 | 29.78℃ - 30.77℃ | 65% | 10km | ☁️ overcast clouds |
-| 15/06 04:00 | 28.43℃ - 28.43℃ | 77% | 10km | ⛈️ light rain |
+| 14/06 22:00 | 31℃ - 31℃ | 64% | 10km | ☁️ overcast clouds |
+| 15/06 01:00 | 29.78℃ - 30.59℃ | 66% | 10km | ☁️ overcast clouds |
+| 15/06 04:00 | 28.43℃ - 29.29℃ | 73% | 10km | ⛈️ light rain |
 | 15/06 07:00 | 29.84℃ - 29.84℃ | 73% | 10km | ☁️ overcast clouds |
 | 15/06 10:00 | 33.51℃ - 33.51℃ | 58% | 10km | ☁️ overcast clouds |
 | 15/06 13:00 | 35.19℃ - 35.19℃ | 51% | 10km | ⛈️ light rain |
@@ -50,5 +50,5 @@
 | 19/06 07:00 | 27.36℃ - 27.36℃ | 76% | 10km | ☁️ overcast clouds |
 | 19/06 10:00 | 30.34℃ - 30.34℃ | 61% | 10km | ☁️ overcast clouds |
 | 19/06 13:00 | 31.22℃ - 31.22℃ | 58% | 10km | ☁️ overcast clouds |
-| 19/06 16:00 | 31.44℃ - 31.44℃ | 60% | 10km | ☁️ overcast clouds |
-| 19/06 19:00 | 29.83℃ - 29.83℃ | 65% | 10km | ☁️ overcast clouds |
+| 19/06 16:00 | 34.25℃ - 34.25℃ | 47% | 10km | ☁️ overcast clouds |
+| 19/06 19:00 | 31.24℃ - 31.24℃ | 60% | 10km | ☁️ overcast clouds |
