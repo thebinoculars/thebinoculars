@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28℃
-- 💦 Humidity: 85%
-- 💨 Wind Speed: 3.48m/s
+- 🌡️ Temperature: 26.96℃
+- 💦 Humidity: 90%
+- 💨 Wind Speed: 3.35m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,7 +12,6 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 16/06 04:00 | 27.57℃ - 27.57℃ | 86% | 10km | ⛈️ light rain |
 | 16/06 07:00 | 26.42℃ - 27.19℃ | 88% | 10km | ⛈️ light rain |
 | 16/06 10:00 | 27.15℃ - 27.29℃ | 88% | 10km | ⛈️ light rain |
 | 16/06 13:00 | 27.93℃ - 27.93℃ | 83% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 20/06 19:00 | 31.92℃ - 31.92℃ | 58% | 10km | ☁️ overcast clouds |
 | 20/06 22:00 | 30.14℃ - 30.14℃ | 65% | 10km | ☁️ overcast clouds |
 | 21/06 01:00 | 29.16℃ - 29.16℃ | 71% | 10km | ☁️ overcast clouds |
+| 21/06 04:00 | 28.12℃ - 28.12℃ | 75% | 10km | ☁️ overcast clouds |
