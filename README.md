@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (15/06)
+## 🌦️ Hanoi Weather (16/06)
 
 ### Current
 
-- 🌡️ Temperature: 26.42℃
-- 💦 Humidity: 92%
-- 💨 Wind Speed: 1.89m/s
+- 🌡️ Temperature: 28.16℃
+- 💦 Humidity: 82%
+- 💨 Wind Speed: 1.06m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,10 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 16/06 07:00 | 26.42℃ - 26.42℃ | 92% | 10km | ⛈️ light rain |
-| 16/06 10:00 | 26.66℃ - 27.15℃ | 90% | 10km | ⛈️ light rain |
-| 16/06 13:00 | 27.32℃ - 27.77℃ | 86% | 10km | ⛈️ light rain |
-| 16/06 16:00 | 27.33℃ - 27.33℃ | 88% | 10km | ⛈️ light rain |
+| 16/06 13:00 | 27.35℃ - 27.77℃ | 87% | 10km | ⛈️ light rain |
+| 16/06 16:00 | 27.27℃ - 27.33℃ | 88% | 10km | ⛈️ light rain |
 | 16/06 19:00 | 27.03℃ - 27.03℃ | 87% | 10km | ☁️ overcast clouds |
 | 16/06 22:00 | 26.29℃ - 26.29℃ | 91% | 10km | ⛈️ moderate rain |
 | 17/06 01:00 | 26.35℃ - 26.35℃ | 93% | 10km | ⛈️ light rain |
@@ -24,31 +22,33 @@
 | 17/06 10:00 | 27.57℃ - 27.57℃ | 84% | 10km | ⛈️ light rain |
 | 17/06 13:00 | 30.58℃ - 30.58℃ | 71% | 10km | ⛈️ light rain |
 | 17/06 16:00 | 28.71℃ - 28.71℃ | 76% | 10km | ☁️ overcast clouds |
-| 17/06 19:00 | 27.35℃ - 27.35℃ | 91% | 10km | ☁️ overcast clouds |
-| 17/06 22:00 | 27.06℃ - 27.06℃ | 92% | 10km | ☁️ overcast clouds |
-| 18/06 01:00 | 26.6℃ - 26.6℃ | 92% | 10km | ☁️ overcast clouds |
-| 18/06 04:00 | 25.67℃ - 25.67℃ | 92% | 10km | ☁️ overcast clouds |
-| 18/06 07:00 | 26.62℃ - 26.62℃ | 88% | 10km | ☁️ overcast clouds |
-| 18/06 10:00 | 30.97℃ - 30.97℃ | 68% | 10km | ☁️ overcast clouds |
-| 18/06 13:00 | 34.58℃ - 34.58℃ | 53% | 10km | ⛈️ light rain |
-| 18/06 16:00 | 34.11℃ - 34.11℃ | 53% | 10km | ⛈️ light rain |
-| 18/06 19:00 | 29.57℃ - 29.57℃ | 70% | 10km | ⛈️ light rain |
-| 18/06 22:00 | 27.76℃ - 27.76℃ | 76% | 10km | ☁️ overcast clouds |
-| 19/06 01:00 | 27.46℃ - 27.46℃ | 78% | 10km | ☁️ overcast clouds |
-| 19/06 04:00 | 26.61℃ - 26.61℃ | 81% | 10km | ☁️ overcast clouds |
-| 19/06 07:00 | 27.78℃ - 27.78℃ | 79% | 10km | ☁️ overcast clouds |
-| 19/06 10:00 | 31.41℃ - 31.41℃ | 64% | 10km | ☁️ overcast clouds |
-| 19/06 13:00 | 34.4℃ - 34.4℃ | 52% | 10km | ☁️ overcast clouds |
-| 19/06 16:00 | 33.69℃ - 33.69℃ | 54% | 10km | ⛈️ light rain |
-| 19/06 19:00 | 30.92℃ - 30.92℃ | 64% | 10km | ☁️ overcast clouds |
-| 19/06 22:00 | 28.35℃ - 28.35℃ | 70% | 10km | ⛈️ light rain |
-| 20/06 01:00 | 27.24℃ - 27.24℃ | 80% | 10km | ☁️ overcast clouds |
-| 20/06 04:00 | 26.54℃ - 26.54℃ | 84% | 10km | ☁️ overcast clouds |
-| 20/06 07:00 | 27.92℃ - 27.92℃ | 77% | 10km | ☁️ overcast clouds |
-| 20/06 10:00 | 33.34℃ - 33.34℃ | 55% | 10km | ☁️ overcast clouds |
-| 20/06 13:00 | 36.53℃ - 36.53℃ | 42% | 10km | ☁️ overcast clouds |
-| 20/06 16:00 | 36.59℃ - 36.59℃ | 42% | 10km | ☁️ overcast clouds |
-| 20/06 19:00 | 31.92℃ - 31.92℃ | 58% | 10km | ☁️ overcast clouds |
-| 20/06 22:00 | 30.14℃ - 30.14℃ | 65% | 10km | ☁️ overcast clouds |
-| 21/06 01:00 | 29.16℃ - 29.16℃ | 71% | 10km | ☁️ overcast clouds |
-| 21/06 04:00 | 28.12℃ - 28.12℃ | 75% | 10km | ☁️ overcast clouds |
+| 17/06 19:00 | 27.35℃ - 27.35℃ | 82% | 10km | ☁️ overcast clouds |
+| 17/06 22:00 | 27.06℃ - 27.06℃ | 88% | 10km | ☁️ overcast clouds |
+| 18/06 01:00 | 26.6℃ - 26.6℃ | 90% | 10km | ⛈️ light rain |
+| 18/06 04:00 | 26.22℃ - 26.22℃ | 88% | 10km | ⛈️ light rain |
+| 18/06 07:00 | 27.42℃ - 27.42℃ | 81% | 10km | ⛈️ light rain |
+| 18/06 10:00 | 30.01℃ - 30.01℃ | 68% | 10km | ⛈️ light rain |
+| 18/06 13:00 | 34.54℃ - 34.54℃ | 50% | 10km | ☁️ overcast clouds |
+| 18/06 16:00 | 32.95℃ - 32.95℃ | 57% | 10km | ⛈️ light rain |
+| 18/06 19:00 | 28.89℃ - 28.89℃ | 70% | 10km | ⛈️ light rain |
+| 18/06 22:00 | 28.16℃ - 28.16℃ | 73% | 10km | ☁️ overcast clouds |
+| 19/06 01:00 | 27.49℃ - 27.49℃ | 76% | 10km | ☁️ overcast clouds |
+| 19/06 04:00 | 27.09℃ - 27.09℃ | 78% | 10km | ☁️ overcast clouds |
+| 19/06 07:00 | 27.55℃ - 27.55℃ | 76% | 10km | ⛈️ light rain |
+| 19/06 10:00 | 27.94℃ - 27.94℃ | 74% | 10km | ☁️ overcast clouds |
+| 19/06 13:00 | 31.78℃ - 31.78℃ | 59% | 10km | ☁️ overcast clouds |
+| 19/06 16:00 | 30.98℃ - 30.98℃ | 61% | 10km | ☁️ overcast clouds |
+| 19/06 19:00 | 28.7℃ - 28.7℃ | 71% | 10km | ☁️ overcast clouds |
+| 19/06 22:00 | 27.35℃ - 27.35℃ | 77% | 10km | ☁️ overcast clouds |
+| 20/06 01:00 | 26.75℃ - 26.75℃ | 80% | 10km | ☁️ overcast clouds |
+| 20/06 04:00 | 25.96℃ - 25.96℃ | 84% | 10km | ☁️ overcast clouds |
+| 20/06 07:00 | 27.45℃ - 27.45℃ | 78% | 10km | ☁️ overcast clouds |
+| 20/06 10:00 | 31.7℃ - 31.7℃ | 60% | 10km | ☁️ overcast clouds |
+| 20/06 13:00 | 33.18℃ - 33.18℃ | 52% | 10km | ☁️ overcast clouds |
+| 20/06 16:00 | 36.19℃ - 36.19℃ | 41% | 10km | ☁️ overcast clouds |
+| 20/06 19:00 | 31.27℃ - 31.27℃ | 59% | 10km | ☁️ overcast clouds |
+| 20/06 22:00 | 29.29℃ - 29.29℃ | 71% | 10km | ☁️ overcast clouds |
+| 21/06 01:00 | 28.52℃ - 28.52℃ | 75% | 10km | ☁️ overcast clouds |
+| 21/06 04:00 | 27.68℃ - 27.68℃ | 77% | 10km | ☁️ overcast clouds |
+| 21/06 07:00 | 28.67℃ - 28.67℃ | 74% | 10km | ☁️ overcast clouds |
+| 21/06 10:00 | 33.06℃ - 33.06℃ | 54% | 10km | ☁️ overcast clouds |
