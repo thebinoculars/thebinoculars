@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.24℃
-- 💦 Humidity: 74%
-- 💨 Wind Speed: 2.26m/s
+- 🌡️ Temperature: 27.88℃
+- 💦 Humidity: 75%
+- 💨 Wind Speed: 0.49m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 19/06 04:00 | 27.88℃ - 28.22℃ | 73% | 10km | ☁️ overcast clouds |
-| 19/06 07:00 | 28.83℃ - 29.05℃ | 71% | 10km | ☁️ overcast clouds |
-| 19/06 10:00 | 30.9℃ - 30.9℃ | 64% | 10km | ☁️ overcast clouds |
+| 19/06 07:00 | 28.27℃ - 29.05℃ | 73% | 10km | ☁️ overcast clouds |
+| 19/06 10:00 | 29.89℃ - 30.9℃ | 67% | 10km | ☁️ overcast clouds |
 | 19/06 13:00 | 31.47℃ - 31.47℃ | 62% | 10km | ☁️ overcast clouds |
 | 19/06 16:00 | 29.8℃ - 29.8℃ | 70% | 10km | ☁️ overcast clouds |
 | 19/06 19:00 | 29.36℃ - 29.36℃ | 72% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 23/06 19:00 | 35.08℃ - 35.08℃ | 46% | 10km | ☀️ clear sky |
 | 23/06 22:00 | 32.4℃ - 32.4℃ | 58% | 10km | ☁️ scattered clouds |
 | 24/06 01:00 | 31.56℃ - 31.56℃ | 61% | 10km | ☁️ scattered clouds |
+| 24/06 04:00 | 30.58℃ - 30.58℃ | 59% | 10km | ☁️ few clouds |
