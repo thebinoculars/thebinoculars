@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.09℃
-- 💦 Humidity: 63%
-- 💨 Wind Speed: 1.27m/s
+- 🌡️ Temperature: 34.1℃
+- 💦 Humidity: 52%
+- 💨 Wind Speed: 3.16m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,22 +12,20 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 20/06 10:00 | 32.51℃ - 32.51℃ | 58% | 10km | ☁️ overcast clouds |
-| 20/06 13:00 | 33.47℃ - 35.39℃ | 54% | 10km | ☁️ overcast clouds |
-| 20/06 16:00 | 35.26℃ - 36.63℃ | 47% | 10km | ☁️ overcast clouds |
-| 20/06 19:00 | 31.93℃ - 31.93℃ | 55% | 10km | ⛈️ light rain |
-| 20/06 22:00 | 29.57℃ - 29.57℃ | 73% | 10km | ☁️ overcast clouds |
-| 21/06 01:00 | 28.72℃ - 28.72℃ | 81% | 10km | ⛈️ light rain |
-| 21/06 04:00 | 27.9℃ - 27.9℃ | 77% | 10km | ⛈️ light rain |
-| 21/06 07:00 | 29.11℃ - 29.11℃ | 69% | 10km | ☁️ overcast clouds |
-| 21/06 10:00 | 34.25℃ - 34.25℃ | 53% | 10km | ☁️ overcast clouds |
-| 21/06 13:00 | 37.62℃ - 37.62℃ | 40% | 10km | ☁️ overcast clouds |
-| 21/06 16:00 | 37.53℃ - 37.53℃ | 39% | 10km | ☁️ overcast clouds |
-| 21/06 19:00 | 32.24℃ - 32.24℃ | 54% | 10km | ⛈️ light rain |
-| 21/06 22:00 | 29.8℃ - 29.8℃ | 75% | 10km | ☁️ broken clouds |
-| 22/06 01:00 | 29.55℃ - 29.55℃ | 73% | 10km | ⛈️ light rain |
-| 22/06 04:00 | 28.48℃ - 28.48℃ | 72% | 10km | ☁️ overcast clouds |
-| 22/06 07:00 | 29.43℃ - 29.43℃ | 72% | 10km | ☁️ overcast clouds |
+| 20/06 16:00 | 34.73℃ - 35.99℃ | 49% | 10km | ☁️ overcast clouds |
+| 20/06 19:00 | 30.8℃ - 31.9℃ | 58% | 10km | ⛈️ light rain |
+| 20/06 22:00 | 29.46℃ - 29.46℃ | 73% | 10km | ⛈️ light rain |
+| 21/06 01:00 | 28.51℃ - 28.51℃ | 83% | 10km | ⛈️ light rain |
+| 21/06 04:00 | 27.76℃ - 27.76℃ | 80% | 10km | ⛈️ light rain |
+| 21/06 07:00 | 28.91℃ - 28.91℃ | 71% | 10km | ☁️ overcast clouds |
+| 21/06 10:00 | 34℃ - 34℃ | 54% | 10km | ☁️ overcast clouds |
+| 21/06 13:00 | 37.69℃ - 37.69℃ | 40% | 10km | ☁️ broken clouds |
+| 21/06 16:00 | 38.4℃ - 38.4℃ | 36% | 10km | ☁️ broken clouds |
+| 21/06 19:00 | 32.59℃ - 32.59℃ | 52% | 10km | ☁️ broken clouds |
+| 21/06 22:00 | 30.12℃ - 30.12℃ | 75% | 10km | ☁️ overcast clouds |
+| 22/06 01:00 | 29.62℃ - 29.62℃ | 72% | 10km | ☁️ overcast clouds |
+| 22/06 04:00 | 28.49℃ - 28.49℃ | 75% | 10km | ☁️ overcast clouds |
+| 22/06 07:00 | 29.64℃ - 29.64℃ | 72% | 10km | ☁️ overcast clouds |
 | 22/06 10:00 | 34.67℃ - 34.67℃ | 51% | 10km | ☁️ overcast clouds |
 | 22/06 13:00 | 38.05℃ - 38.05℃ | 37% | 10km | ☁️ broken clouds |
 | 22/06 16:00 | 39.52℃ - 39.52℃ | 32% | 10km | ☀️ clear sky |
@@ -52,3 +50,5 @@
 | 25/06 01:00 | 30.44℃ - 30.44℃ | 71% | 10km | ☁️ broken clouds |
 | 25/06 04:00 | 29.64℃ - 29.64℃ | 79% | 10km | ☁️ broken clouds |
 | 25/06 07:00 | 31.24℃ - 31.24℃ | 68% | 10km | ☁️ broken clouds |
+| 25/06 10:00 | 35.84℃ - 35.84℃ | 44% | 10km | ☁️ overcast clouds |
+| 25/06 13:00 | 39.19℃ - 39.19℃ | 34% | 10km | ☁️ overcast clouds |
