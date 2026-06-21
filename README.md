@@ -2,31 +2,31 @@
 
 ### Current
 
-- 🌡️ Temperature: 29.81℃
-- 💦 Humidity: 76%
-- 💨 Wind Speed: 4.38m/s
+- 🌡️ Temperature: 29.28℃
+- 💦 Humidity: 81%
+- 💨 Wind Speed: 3.02m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ heavy intensity rain
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 22/06 01:00 | 29.28℃ - 30.01℃ | 73% | 10km | ☁️ broken clouds |
-| 22/06 04:00 | 28.77℃ - 29.3℃ | 76% | 10km | ☁️ overcast clouds |
-| 22/06 07:00 | 29.9℃ - 29.9℃ | 72% | 10km | ☁️ overcast clouds |
-| 22/06 10:00 | 35.25℃ - 35.25℃ | 47% | 10km | ☁️ overcast clouds |
-| 22/06 13:00 | 38.54℃ - 38.54℃ | 35% | 10km | ☁️ overcast clouds |
-| 22/06 16:00 | 39.45℃ - 39.45℃ | 32% | 10km | ☁️ overcast clouds |
-| 22/06 19:00 | 33.6℃ - 33.6℃ | 52% | 10km | ☁️ overcast clouds |
-| 22/06 22:00 | 30.64℃ - 30.64℃ | 69% | 10km | ☁️ broken clouds |
-| 23/06 01:00 | 29.98℃ - 29.98℃ | 74% | 10km | ☁️ scattered clouds |
-| 23/06 04:00 | 29.74℃ - 29.74℃ | 69% | 10km | ☁️ few clouds |
-| 23/06 07:00 | 31.34℃ - 31.34℃ | 58% | 10km | ☁️ few clouds |
-| 23/06 10:00 | 36.14℃ - 36.14℃ | 40% | 10km | ☁️ broken clouds |
-| 23/06 13:00 | 39.37℃ - 39.37℃ | 33% | 10km | ☁️ broken clouds |
-| 23/06 16:00 | 39.46℃ - 39.46℃ | 33% | 10km | ☁️ overcast clouds |
-| 23/06 19:00 | 30.27℃ - 30.27℃ | 66% | 10km | ⛈️ light rain |
+| 22/06 01:00 | 29.28℃ - 29.28℃ | 81% | 10km | ☁️ overcast clouds |
+| 22/06 04:00 | 28.77℃ - 29.11℃ | 80% | 10km | ⛈️ light rain |
+| 22/06 07:00 | 29.49℃ - 29.59℃ | 75% | 10km | ☁️ overcast clouds |
+| 22/06 10:00 | 34.13℃ - 34.13℃ | 51% | 10km | ☁️ overcast clouds |
+| 22/06 13:00 | 37.76℃ - 37.76℃ | 38% | 10km | ☁️ overcast clouds |
+| 22/06 16:00 | 39.67℃ - 39.67℃ | 33% | 10km | ☁️ overcast clouds |
+| 22/06 19:00 | 34.28℃ - 34.28℃ | 47% | 10km | ☁️ broken clouds |
+| 22/06 22:00 | 30.84℃ - 30.84℃ | 65% | 10km | ⛈️ light rain |
+| 23/06 01:00 | 30.48℃ - 30.48℃ | 64% | 10km | ☁️ broken clouds |
+| 23/06 04:00 | 30.08℃ - 30.08℃ | 64% | 10km | ☁️ overcast clouds |
+| 23/06 07:00 | 31.26℃ - 31.26℃ | 59% | 10km | ☁️ overcast clouds |
+| 23/06 10:00 | 33.08℃ - 33.08℃ | 51% | 10km | ☁️ overcast clouds |
+| 23/06 13:00 | 37.54℃ - 37.54℃ | 37% | 10km | ☁️ broken clouds |
+| 23/06 16:00 | 37.22℃ - 37.22℃ | 40% | 10km | ⛈️ light rain |
+| 23/06 19:00 | 35.18℃ - 35.18℃ | 43% | 10km | ☁️ scattered clouds |
 | 23/06 22:00 | 30.47℃ - 30.47℃ | 65% | 10km | ⛈️ light rain |
 | 24/06 01:00 | 29.43℃ - 29.43℃ | 70% | 10km | ☁️ overcast clouds |
 | 24/06 04:00 | 28.9℃ - 28.9℃ | 76% | 10km | ☁️ overcast clouds |
