@@ -2,19 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.24℃
-- 💦 Humidity: 62%
-- 💨 Wind Speed: 3.76m/s
+- 🌡️ Temperature: 30.67℃
+- 💦 Humidity: 67%
+- 💨 Wind Speed: 3.06m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ broken clouds
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 24/06 01:00 | 30.39℃ - 31.56℃ | 60% | 10km | ☁️ broken clouds |
-| 24/06 04:00 | 30.2℃ - 30.85℃ | 61% | 10km | ☁️ broken clouds |
-| 24/06 07:00 | 30.41℃ - 30.41℃ | 64% | 10km | ⛈️ light rain |
+| 24/06 01:00 | 30.39℃ - 30.39℃ | 68% | 10km | ☁️ broken clouds |
+| 24/06 04:00 | 30.2℃ - 30.33℃ | 66% | 10km | ☁️ broken clouds |
+| 24/06 07:00 | 30.4℃ - 30.41℃ | 65% | 10km | ⛈️ light rain |
 | 24/06 10:00 | 35.11℃ - 35.11℃ | 48% | 10km | ☁️ overcast clouds |
 | 24/06 13:00 | 36.96℃ - 36.96℃ | 41% | 10km | ☁️ overcast clouds |
 | 24/06 16:00 | 38.18℃ - 38.18℃ | 38% | 10km | ☁️ overcast clouds |
