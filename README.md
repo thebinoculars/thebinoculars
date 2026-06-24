@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.75℃
-- 💦 Humidity: 63%
-- 💨 Wind Speed: 3.28m/s
+- 🌡️ Temperature: 31.51℃
+- 💦 Humidity: 60%
+- 💨 Wind Speed: 2.75m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 25/06 01:00 | 31.51℃ - 31.79℃ | 62% | 10km | ☁️ overcast clouds |
-| 25/06 04:00 | 30.39℃ - 30.9℃ | 67% | 10km | ☁️ overcast clouds |
-| 25/06 07:00 | 30.47℃ - 30.47℃ | 73% | 10km | ☁️ overcast clouds |
+| 25/06 01:00 | 31.51℃ - 31.51℃ | 60% | 10km | ☁️ overcast clouds |
+| 25/06 04:00 | 30.39℃ - 31.14℃ | 63% | 10km | ☁️ overcast clouds |
+| 25/06 07:00 | 30.47℃ - 30.82℃ | 69% | 10km | ☁️ overcast clouds |
 | 25/06 10:00 | 32.63℃ - 32.63℃ | 64% | 10km | ☁️ overcast clouds |
 | 25/06 13:00 | 35.79℃ - 35.79℃ | 50% | 10km | ☁️ overcast clouds |
 | 25/06 16:00 | 34.79℃ - 34.79℃ | 52% | 10km | ☁️ overcast clouds |
