@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (24/06)
+## 🌦️ Hanoi Weather (25/06)
 
 ### Current
 
-- 🌡️ Temperature: 30.61℃
-- 💦 Humidity: 70%
-- 💨 Wind Speed: 2.36m/s
+- 🌡️ Temperature: 32.54℃
+- 💦 Humidity: 63%
+- 💨 Wind Speed: 2.61m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,10 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 25/06 07:00 | 30.61℃ - 30.61℃ | 70% | 10km | ☁️ overcast clouds |
-| 25/06 10:00 | 31.62℃ - 33.64℃ | 66% | 10km | ☁️ overcast clouds |
-| 25/06 13:00 | 34.08℃ - 35.81℃ | 56% | 10km | ☁️ overcast clouds |
-| 25/06 16:00 | 34.03℃ - 34.03℃ | 55% | 10km | ☁️ overcast clouds |
+| 25/06 10:00 | 33.64℃ - 33.64℃ | 58% | 10km | ☁️ overcast clouds |
+| 25/06 13:00 | 34.36℃ - 35.81℃ | 55% | 10km | ☁️ overcast clouds |
+| 25/06 16:00 | 33.9℃ - 34.03℃ | 56% | 10km | ☁️ overcast clouds |
 | 25/06 19:00 | 31.79℃ - 31.79℃ | 65% | 10km | ☁️ overcast clouds |
 | 25/06 22:00 | 29.42℃ - 29.42℃ | 77% | 10km | ⛈️ light rain |
 | 26/06 01:00 | 28.06℃ - 28.06℃ | 86% | 10km | ⛈️ moderate rain |
@@ -52,3 +51,4 @@
 | 29/06 22:00 | 28.48℃ - 28.48℃ | 81% | 4.385km | ⛈️ light rain |
 | 30/06 01:00 | 26.87℃ - 26.87℃ | 90% | 3.39km | ⛈️ heavy intensity rain |
 | 30/06 04:00 | 25.33℃ - 25.33℃ | 98% | 1.283km | ⛈️ very heavy rain |
+| 30/06 07:00 | 25.53℃ - 25.53℃ | 91% | 10km | ⛈️ moderate rain |
