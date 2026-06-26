@@ -1,32 +1,31 @@
-## 🌦️ Hanoi Weather (25/06)
+## 🌦️ Hanoi Weather (26/06)
 
 ### Current
 
-- 🌡️ Temperature: 29.15℃
-- 💦 Humidity: 78%
-- 💨 Wind Speed: 2.3m/s
+- 🌡️ Temperature: 29.81℃
+- 💦 Humidity: 72%
+- 💨 Wind Speed: 2.46m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ moderate rain
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 26/06 07:00 | 29.15℃ - 29.15℃ | 78% | 10km | ☁️ overcast clouds |
-| 26/06 10:00 | 29.37℃ - 29.81℃ | 76% | 10km | ☁️ overcast clouds |
-| 26/06 13:00 | 31.28℃ - 32.34℃ | 68% | 10km | ☁️ overcast clouds |
-| 26/06 16:00 | 32.82℃ - 32.82℃ | 70% | 10km | ☁️ overcast clouds |
-| 26/06 19:00 | 30.32℃ - 30.32℃ | 75% | 10km | ☁️ overcast clouds |
-| 26/06 22:00 | 28.86℃ - 28.86℃ | 82% | 10km | ⛈️ light rain |
-| 27/06 01:00 | 27.78℃ - 27.78℃ | 84% | 10km | ☁️ overcast clouds |
-| 27/06 04:00 | 26.77℃ - 26.77℃ | 86% | 10km | ☁️ overcast clouds |
-| 27/06 07:00 | 27.95℃ - 27.95℃ | 76% | 10km | ☁️ overcast clouds |
-| 27/06 10:00 | 32.73℃ - 32.73℃ | 61% | 10km | ☁️ broken clouds |
-| 27/06 13:00 | 36.57℃ - 36.57℃ | 56% | 10km | ⛈️ moderate rain |
-| 27/06 16:00 | 36.76℃ - 36.76℃ | 59% | 10km | ⛈️ light rain |
-| 27/06 19:00 | 32.41℃ - 32.41℃ | 67% | 10km | ☁️ overcast clouds |
-| 27/06 22:00 | 27.5℃ - 27.5℃ | 73% | 10km | ⛈️ light rain |
-| 28/06 01:00 | 28℃ - 28℃ | 80% | 10km | ⛈️ light rain |
+| 26/06 10:00 | 29.81℃ - 29.81℃ | 72% | 10km | ☁️ overcast clouds |
+| 26/06 13:00 | 30.65℃ - 32.34℃ | 69% | 10km | ☁️ overcast clouds |
+| 26/06 16:00 | 31.82℃ - 32.82℃ | 63% | 10km | ☁️ overcast clouds |
+| 26/06 19:00 | 30.32℃ - 30.32℃ | 69% | 10km | ☁️ overcast clouds |
+| 26/06 22:00 | 28.86℃ - 28.86℃ | 78% | 10km | ⛈️ light rain |
+| 27/06 01:00 | 27.78℃ - 27.78℃ | 84% | 10km | ⛈️ light rain |
+| 27/06 04:00 | 26.77℃ - 26.77℃ | 88% | 10km | ⛈️ light rain |
+| 27/06 07:00 | 27.95℃ - 27.95℃ | 81% | 10km | ⛈️ light rain |
+| 27/06 10:00 | 32.73℃ - 32.73℃ | 60% | 10km | ☁️ overcast clouds |
+| 27/06 13:00 | 36.57℃ - 36.57℃ | 46% | 10km | ☁️ overcast clouds |
+| 27/06 16:00 | 36.76℃ - 36.76℃ | 44% | 10km | ☁️ overcast clouds |
+| 27/06 19:00 | 32.41℃ - 32.41℃ | 60% | 10km | ⛈️ light rain |
+| 27/06 22:00 | 27.5℃ - 27.5℃ | 83% | 10km | ⛈️ moderate rain |
+| 28/06 01:00 | 28℃ - 28℃ | 82% | 10km | ⛈️ light rain |
 | 28/06 04:00 | 27.5℃ - 27.5℃ | 81% | 10km | ☁️ overcast clouds |
 | 28/06 07:00 | 28.64℃ - 28.64℃ | 76% | 10km | ⛈️ light rain |
 | 28/06 10:00 | 32.61℃ - 32.61℃ | 60% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 30/06 22:00 | 27.56℃ - 27.56℃ | 85% | 6.968km | ⛈️ light rain |
 | 01/07 01:00 | 27.21℃ - 27.21℃ | 85% | 9.06km | ⛈️ moderate rain |
 | 01/07 04:00 | 27.08℃ - 27.08℃ | 84% | 10km | ⛈️ light rain |
+| 01/07 07:00 | 28.21℃ - 28.21℃ | 78% | 10km | ⛈️ light rain |
