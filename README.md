@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 26.38℃
-- 💦 Humidity: 90%
-- 💨 Wind Speed: 1.1m/s
+- 🌡️ Temperature: 26.89℃
+- 💦 Humidity: 88%
+- 💨 Wind Speed: 1.36m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 27/06 07:00 | 26.87℃ - 28.2℃ | 87% | 10km | ☁️ overcast clouds |
-| 27/06 10:00 | 30.13℃ - 32.09℃ | 72% | 10km | ☁️ overcast clouds |
-| 27/06 13:00 | 33.52℃ - 33.52℃ | 56% | 10km | ☁️ overcast clouds |
+| 27/06 07:00 | 28.2℃ - 28.2℃ | 82% | 10km | ☁️ overcast clouds |
+| 27/06 10:00 | 29.5℃ - 32.09℃ | 75% | 10km | ☁️ overcast clouds |
+| 27/06 13:00 | 31.75℃ - 33.52℃ | 64% | 10km | ☁️ overcast clouds |
 | 27/06 16:00 | 32.06℃ - 32.06℃ | 63% | 10km | ☁️ overcast clouds |
 | 27/06 19:00 | 30.86℃ - 30.86℃ | 66% | 10km | ☁️ overcast clouds |
 | 27/06 22:00 | 30.04℃ - 30.04℃ | 72% | 10km | ☁️ overcast clouds |
