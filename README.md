@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (26/06)
+## 🌦️ Hanoi Weather (27/06)
 
 ### Current
 
-- 🌡️ Temperature: 26.89℃
-- 💦 Humidity: 88%
-- 💨 Wind Speed: 1.36m/s
+- 🌡️ Temperature: 28.2℃
+- 💦 Humidity: 82%
+- 💨 Wind Speed: 1.97m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,7 +12,6 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 27/06 07:00 | 28.2℃ - 28.2℃ | 82% | 10km | ☁️ overcast clouds |
 | 27/06 10:00 | 29.5℃ - 32.09℃ | 75% | 10km | ☁️ overcast clouds |
 | 27/06 13:00 | 31.75℃ - 33.52℃ | 64% | 10km | ☁️ overcast clouds |
 | 27/06 16:00 | 32.06℃ - 32.06℃ | 63% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 01/07 22:00 | 27.55℃ - 27.55℃ | 85% | 10km | ⛈️ light rain |
 | 02/07 01:00 | 26.88℃ - 26.88℃ | 87% | 10km | ⛈️ light rain |
 | 02/07 04:00 | 26.33℃ - 26.33℃ | 88% | 10km | ⛈️ light rain |
+| 02/07 07:00 | 27.59℃ - 27.59℃ | 81% | 10km | ⛈️ light rain |
