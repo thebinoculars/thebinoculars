@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.57℃
-- 💦 Humidity: 66%
-- 💨 Wind Speed: 1.12m/s
+- 🌡️ Temperature: 35.42℃
+- 💦 Humidity: 49%
+- 💨 Wind Speed: 1.2m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,10 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 28/06 10:00 | 33.17℃ - 33.17℃ | 60% | 10km | ☁️ overcast clouds |
-| 28/06 13:00 | 33.92℃ - 35.42℃ | 56% | 10km | ☁️ overcast clouds |
-| 28/06 16:00 | 34.5℃ - 35.16℃ | 54% | 10km | ☁️ overcast clouds |
-| 28/06 19:00 | 30.18℃ - 30.18℃ | 72% | 10km | ⛈️ light rain |
+| 28/06 16:00 | 35.16℃ - 35.33℃ | 50% | 10km | ☁️ overcast clouds |
+| 28/06 19:00 | 30.18℃ - 31.93℃ | 65% | 10km | ⛈️ light rain |
 | 28/06 22:00 | 28.43℃ - 28.43℃ | 83% | 10km | ⛈️ moderate rain |
 | 29/06 01:00 | 28.65℃ - 28.65℃ | 83% | 10km | ⛈️ light rain |
 | 29/06 04:00 | 28.36℃ - 28.36℃ | 82% | 10km | ☁️ overcast clouds |
@@ -52,3 +50,5 @@
 | 03/07 01:00 | 26.98℃ - 26.98℃ | 88% | 10km | ⛈️ moderate rain |
 | 03/07 04:00 | 26.65℃ - 26.65℃ | 86% | 8.828km | ⛈️ moderate rain |
 | 03/07 07:00 | 27.05℃ - 27.05℃ | 84% | 10km | ⛈️ light rain |
+| 03/07 10:00 | 30.89℃ - 30.89℃ | 65% | 10km | ⛈️ light rain |
+| 03/07 13:00 | 32.02℃ - 32.02℃ | 61% | 9.097km | ⛈️ light rain |
