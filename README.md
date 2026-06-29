@@ -2,19 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.14℃
-- 💦 Humidity: 82%
-- 💨 Wind Speed: 2.68m/s
+- 🌡️ Temperature: 27.86℃
+- 💦 Humidity: 84%
+- 💨 Wind Speed: 2.63m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ light rain
+- ☂️ Weather: ⛈️ moderate rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 30/06 04:00 | 27.7℃ - 27.99℃ | 83% | 10km | ⛈️ light rain |
-| 30/06 07:00 | 28.66℃ - 28.92℃ | 79% | 10km | ⛈️ light rain |
-| 30/06 10:00 | 33.1℃ - 33.1℃ | 57% | 10km | ⛈️ light rain |
+| 30/06 04:00 | 27.7℃ - 27.7℃ | 85% | 10km | ⛈️ light rain |
+| 30/06 07:00 | 28.11℃ - 28.92℃ | 82% | 10km | ⛈️ light rain |
+| 30/06 10:00 | 31.3℃ - 33.1℃ | 66% | 10km | ⛈️ light rain |
 | 30/06 13:00 | 35.41℃ - 35.41℃ | 49% | 10km | ⛈️ light rain |
 | 30/06 16:00 | 32.59℃ - 32.59℃ | 62% | 10km | ⛈️ light rain |
 | 30/06 19:00 | 29.84℃ - 29.84℃ | 73% | 10km | ⛈️ light rain |
