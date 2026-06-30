@@ -2,32 +2,31 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.07℃
-- 💦 Humidity: 69%
-- 💨 Wind Speed: 2.23m/s
-- 👁️ Visibility: 6.432km
-- ☂️ Weather: ⛈️ heavy intensity rain
+- 🌡️ Temperature: 31.64℃
+- 💦 Humidity: 67%
+- 💨 Wind Speed: 2.98m/s
+- 👁️ Visibility: 10km
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 30/06 10:00 | 32.52℃ - 32.52℃ | 62% | 4.938km | ⛈️ moderate rain |
-| 30/06 13:00 | 31.64℃ - 32.23℃ | 64% | 10km | ⛈️ moderate rain |
-| 30/06 16:00 | 30.89℃ - 31.43℃ | 68% | 10km | ⛈️ moderate rain |
-| 30/06 19:00 | 28.56℃ - 28.56℃ | 81% | 10km | ⛈️ moderate rain |
-| 30/06 22:00 | 27.21℃ - 27.21℃ | 89% | 10km | ⛈️ moderate rain |
-| 01/07 01:00 | 27.2℃ - 27.2℃ | 86% | 7.977km | ⛈️ moderate rain |
-| 01/07 04:00 | 26.51℃ - 26.51℃ | 89% | 10km | ⛈️ moderate rain |
-| 01/07 07:00 | 27.32℃ - 27.32℃ | 86% | 10km | ⛈️ moderate rain |
-| 01/07 10:00 | 30.82℃ - 30.82℃ | 69% | 10km | ⛈️ light rain |
-| 01/07 13:00 | 32.43℃ - 32.43℃ | 63% | 10km | ⛈️ moderate rain |
-| 01/07 16:00 | 32.56℃ - 32.56℃ | 64% | 10km | ⛈️ moderate rain |
-| 01/07 19:00 | 28.75℃ - 28.75℃ | 81% | 10km | ⛈️ moderate rain |
-| 01/07 22:00 | 27.49℃ - 27.49℃ | 86% | 6.181km | ⛈️ moderate rain |
-| 02/07 01:00 | 26.84℃ - 26.84℃ | 89% | 5.716km | ⛈️ moderate rain |
-| 02/07 04:00 | 26.39℃ - 26.39℃ | 89% | 10km | ⛈️ light rain |
-| 02/07 07:00 | 27.6℃ - 27.6℃ | 84% | 8.244km | ⛈️ light rain |
+| 30/06 13:00 | 31.64℃ - 31.64℃ | 67% | 10km | ⛈️ moderate rain |
+| 30/06 16:00 | 30.89℃ - 31.39℃ | 68% | 10km | ⛈️ light rain |
+| 30/06 19:00 | 27.99℃ - 29.21℃ | 79% | 4.53km | ⛈️ moderate rain |
+| 30/06 22:00 | 26.33℃ - 26.33℃ | 91% | 10km | ⛈️ heavy intensity rain |
+| 01/07 01:00 | 26.21℃ - 26.21℃ | 91% | 6.02km | ⛈️ light rain |
+| 01/07 04:00 | 26.04℃ - 26.04℃ | 93% | 10km | ⛈️ light rain |
+| 01/07 07:00 | 27.27℃ - 27.27℃ | 86% | 10km | ⛈️ light rain |
+| 01/07 10:00 | 28.69℃ - 28.69℃ | 80% | 10km | ⛈️ moderate rain |
+| 01/07 13:00 | 32.29℃ - 32.29℃ | 65% | 10km | ⛈️ moderate rain |
+| 01/07 16:00 | 33.57℃ - 33.57℃ | 59% | 10km | ⛈️ light rain |
+| 01/07 19:00 | 29.47℃ - 29.47℃ | 76% | 10km | ⛈️ moderate rain |
+| 01/07 22:00 | 27.71℃ - 27.71℃ | 84% | 10km | ⛈️ moderate rain |
+| 02/07 01:00 | 26.78℃ - 26.78℃ | 89% | 10km | ⛈️ moderate rain |
+| 02/07 04:00 | 26.54℃ - 26.54℃ | 88% | 10km | ⛈️ moderate rain |
+| 02/07 07:00 | 27.6℃ - 27.6℃ | 84% | 10km | ⛈️ light rain |
 | 02/07 10:00 | 30.74℃ - 30.74℃ | 69% | 10km | ⛈️ moderate rain |
 | 02/07 13:00 | 32.7℃ - 32.7℃ | 62% | 3.722km | ⛈️ light rain |
 | 02/07 16:00 | 32℃ - 32℃ | 65% | 10km | ⛈️ moderate rain |
@@ -52,3 +51,4 @@
 | 05/07 01:00 | 27℃ - 27℃ | 83% | 10km | ⛈️ light rain |
 | 05/07 04:00 | 26.47℃ - 26.47℃ | 87% | 10km | ⛈️ light rain |
 | 05/07 07:00 | 27.79℃ - 27.79℃ | 80% | 10km | ☁️ broken clouds |
+| 05/07 10:00 | 31.56℃ - 31.56℃ | 65% | 10km | ☁️ broken clouds |
