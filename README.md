@@ -1,32 +1,31 @@
-## 🌦️ Hanoi Weather (01/07)
+## 🌦️ Hanoi Weather (02/07)
 
 ### Current
 
-- 🌡️ Temperature: 27℃
-- 💦 Humidity: 86%
-- 💨 Wind Speed: 1.69m/s
+- 🌡️ Temperature: 28.19℃
+- 💦 Humidity: 79%
+- 💨 Wind Speed: 2.29m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 02/07 07:00 | 28.19℃ - 28.19℃ | 79% | 10km | ⛈️ light rain |
 | 02/07 10:00 | 29.38℃ - 31.77℃ | 73% | 10km | ⛈️ light rain |
-| 02/07 13:00 | 31.39℃ - 32.99℃ | 65% | 10km | ⛈️ light rain |
-| 02/07 16:00 | 33℃ - 33℃ | 59% | 10km | ⛈️ light rain |
-| 02/07 19:00 | 29.87℃ - 29.87℃ | 70% | 10km | ☁️ overcast clouds |
-| 02/07 22:00 | 28.21℃ - 28.21℃ | 79% | 10km | ☁️ overcast clouds |
-| 03/07 01:00 | 27.66℃ - 27.66℃ | 83% | 10km | ⛈️ light rain |
-| 03/07 04:00 | 27.2℃ - 27.2℃ | 84% | 10km | ⛈️ light rain |
-| 03/07 07:00 | 28.44℃ - 28.44℃ | 78% | 10km | ⛈️ light rain |
-| 03/07 10:00 | 32.62℃ - 32.62℃ | 60% | 10km | ⛈️ light rain |
-| 03/07 13:00 | 33.34℃ - 33.34℃ | 57% | 10km | ⛈️ light rain |
-| 03/07 16:00 | 33.81℃ - 33.81℃ | 53% | 10km | ⛈️ light rain |
-| 03/07 19:00 | 30.39℃ - 30.39℃ | 67% | 10km | ⛈️ light rain |
-| 03/07 22:00 | 28.31℃ - 28.31℃ | 75% | 10km | ☁️ broken clouds |
-| 04/07 01:00 | 27.59℃ - 27.59℃ | 77% | 10km | ☁️ broken clouds |
+| 02/07 13:00 | 31.32℃ - 32.88℃ | 65% | 10km | ⛈️ light rain |
+| 02/07 16:00 | 32.88℃ - 32.88℃ | 60% | 10km | ⛈️ light rain |
+| 02/07 19:00 | 29.48℃ - 29.48℃ | 69% | 10km | ☁️ overcast clouds |
+| 02/07 22:00 | 28.11℃ - 28.11℃ | 79% | 10km | ☁️ overcast clouds |
+| 03/07 01:00 | 27.74℃ - 27.74℃ | 82% | 10km | ⛈️ light rain |
+| 03/07 04:00 | 27.03℃ - 27.03℃ | 85% | 10km | ⛈️ light rain |
+| 03/07 07:00 | 28.5℃ - 28.5℃ | 78% | 10km | ⛈️ light rain |
+| 03/07 10:00 | 32.17℃ - 32.17℃ | 62% | 10km | ⛈️ light rain |
+| 03/07 13:00 | 33.42℃ - 33.42℃ | 56% | 10km | ⛈️ light rain |
+| 03/07 16:00 | 32.53℃ - 32.53℃ | 61% | 10km | ⛈️ light rain |
+| 03/07 19:00 | 30.07℃ - 30.07℃ | 70% | 10km | ⛈️ light rain |
+| 03/07 22:00 | 27.92℃ - 27.92℃ | 79% | 10km | ⛈️ light rain |
+| 04/07 01:00 | 27.15℃ - 27.15℃ | 81% | 10km | ⛈️ light rain |
 | 04/07 04:00 | 26.84℃ - 26.84℃ | 82% | 10km | ☁️ scattered clouds |
 | 04/07 07:00 | 27.94℃ - 27.94℃ | 80% | 10km | ☁️ scattered clouds |
 | 04/07 10:00 | 32.12℃ - 32.12℃ | 62% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 06/07 22:00 | 27.2℃ - 27.2℃ | 84% | 10km | ☁️ overcast clouds |
 | 07/07 01:00 | 25.7℃ - 25.7℃ | 94% | 4.18km | ⛈️ moderate rain |
 | 07/07 04:00 | 25.49℃ - 25.49℃ | 93% | 10km | ⛈️ light rain |
+| 07/07 07:00 | 26.14℃ - 26.14℃ | 90% | 10km | ☁️ overcast clouds |
