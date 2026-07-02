@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 29.87℃
-- 💦 Humidity: 67%
-- 💨 Wind Speed: 3.17m/s
+- 🌡️ Temperature: 28.43℃
+- 💦 Humidity: 75%
+- 💨 Wind Speed: 2.42m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 02/07 22:00 | 28.45℃ - 29.4℃ | 71% | 10km | ☁️ broken clouds |
-| 03/07 01:00 | 27.73℃ - 28.44℃ | 74% | 10km | ☁️ broken clouds |
-| 03/07 04:00 | 26.98℃ - 26.98℃ | 81% | 10km | ☁️ overcast clouds |
+| 02/07 22:00 | 28.43℃ - 28.43℃ | 75% | 10km | ☁️ broken clouds |
+| 03/07 01:00 | 27.73℃ - 28.2℃ | 76% | 10km | ☁️ broken clouds |
+| 03/07 04:00 | 26.98℃ - 27.46℃ | 79% | 10km | ☁️ overcast clouds |
 | 03/07 07:00 | 28.25℃ - 28.25℃ | 78% | 10km | ☁️ overcast clouds |
 | 03/07 10:00 | 32.11℃ - 32.11℃ | 61% | 10km | ⛈️ light rain |
 | 03/07 13:00 | 33.45℃ - 33.45℃ | 57% | 10km | ⛈️ light rain |
@@ -45,10 +45,10 @@
 | 06/07 16:00 | 31.18℃ - 31.18℃ | 63% | 10km | ☁️ overcast clouds |
 | 06/07 19:00 | 29.43℃ - 29.43℃ | 71% | 10km | ⛈️ light rain |
 | 06/07 22:00 | 28.43℃ - 28.43℃ | 78% | 10km | ⛈️ light rain |
-| 07/07 01:00 | 26.56℃ - 26.56℃ | 89% | 10km | ⛈️ light rain |
-| 07/07 04:00 | 26.68℃ - 26.68℃ | 89% | 10km | ☁️ overcast clouds |
-| 07/07 07:00 | 26.83℃ - 26.83℃ | 89% | 10km | ☁️ overcast clouds |
-| 07/07 10:00 | 30.2℃ - 30.2℃ | 71% | 10km | ☁️ overcast clouds |
-| 07/07 13:00 | 33.03℃ - 33.03℃ | 57% | 10km | ☁️ overcast clouds |
-| 07/07 16:00 | 35.25℃ - 35.25℃ | 50% | 10km | ☁️ scattered clouds |
-| 07/07 19:00 | 32℃ - 32℃ | 63% | 10km | ⛈️ light rain |
+| 07/07 01:00 | 27.7℃ - 27.7℃ | 82% | 10km | ☁️ overcast clouds |
+| 07/07 04:00 | 27.03℃ - 27.03℃ | 85% | 10km | ☁️ overcast clouds |
+| 07/07 07:00 | 27.39℃ - 27.39℃ | 81% | 10km | ☁️ overcast clouds |
+| 07/07 10:00 | 30.46℃ - 30.46℃ | 65% | 10km | ☁️ overcast clouds |
+| 07/07 13:00 | 30.41℃ - 30.41℃ | 66% | 10km | ☁️ overcast clouds |
+| 07/07 16:00 | 33.22℃ - 33.22℃ | 56% | 10km | ☁️ overcast clouds |
+| 07/07 19:00 | 29.96℃ - 29.96℃ | 70% | 10km | ⛈️ light rain |
