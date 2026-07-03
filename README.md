@@ -2,31 +2,31 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.95℃
-- 💦 Humidity: 65%
-- 💨 Wind Speed: 2.17m/s
-- 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ overcast clouds
+- 🌡️ Temperature: 29.13℃
+- 💦 Humidity: 77%
+- 💨 Wind Speed: 2.46m/s
+- 👁️ Visibility: 1.004km
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 03/07 19:00 | 29.25℃ - 31.16℃ | 69% | 9.88km | ⛈️ moderate rain |
-| 03/07 22:00 | 28.01℃ - 29.38℃ | 76% | 5.142km | ⛈️ moderate rain |
-| 04/07 01:00 | 27.13℃ - 27.13℃ | 85% | 10km | ⛈️ light rain |
-| 04/07 04:00 | 26.7℃ - 26.7℃ | 84% | 10km | ⛈️ light rain |
-| 04/07 07:00 | 28.19℃ - 28.19℃ | 77% | 10km | ⛈️ light rain |
-| 04/07 10:00 | 31.21℃ - 31.21℃ | 63% | 10km | ⛈️ light rain |
-| 04/07 13:00 | 33.05℃ - 33.05℃ | 57% | 10km | ⛈️ light rain |
-| 04/07 16:00 | 30.29℃ - 30.29℃ | 70% | 10km | ⛈️ light rain |
-| 04/07 19:00 | 27.8℃ - 27.8℃ | 79% | 10km | ⛈️ light rain |
-| 04/07 22:00 | 27.71℃ - 27.71℃ | 78% | 10km | ☁️ overcast clouds |
-| 05/07 01:00 | 26.86℃ - 26.86℃ | 84% | 10km | ☁️ overcast clouds |
-| 05/07 04:00 | 26.75℃ - 26.75℃ | 84% | 10km | ☁️ overcast clouds |
-| 05/07 07:00 | 27.4℃ - 27.4℃ | 82% | 10km | ☁️ overcast clouds |
-| 05/07 10:00 | 31.89℃ - 31.89℃ | 62% | 10km | ☁️ overcast clouds |
-| 05/07 13:00 | 33.45℃ - 33.45℃ | 57% | 10km | ⛈️ light rain |
+| 03/07 19:00 | 29.13℃ - 29.13℃ | 77% | 1.004km | ⛈️ moderate rain |
+| 03/07 22:00 | 28.09℃ - 28.78℃ | 79% | 10km | ⛈️ moderate rain |
+| 04/07 01:00 | 27.4℃ - 27.98℃ | 81% | 10km | ⛈️ light rain |
+| 04/07 04:00 | 26.51℃ - 26.51℃ | 85% | 10km | ☁️ overcast clouds |
+| 04/07 07:00 | 28.48℃ - 28.48℃ | 75% | 10km | ⛈️ light rain |
+| 04/07 10:00 | 31.27℃ - 31.27℃ | 63% | 10km | ⛈️ light rain |
+| 04/07 13:00 | 32.06℃ - 32.06℃ | 61% | 10km | ⛈️ light rain |
+| 04/07 16:00 | 32.22℃ - 32.22℃ | 60% | 10km | ⛈️ light rain |
+| 04/07 19:00 | 28.98℃ - 28.98℃ | 73% | 10km | ⛈️ light rain |
+| 04/07 22:00 | 28.34℃ - 28.34℃ | 73% | 10km | ☁️ overcast clouds |
+| 05/07 01:00 | 27.26℃ - 27.26℃ | 77% | 10km | ⛈️ light rain |
+| 05/07 04:00 | 26.67℃ - 26.67℃ | 81% | 10km | ⛈️ light rain |
+| 05/07 07:00 | 28.1℃ - 28.1℃ | 78% | 10km | ☁️ overcast clouds |
+| 05/07 10:00 | 28.94℃ - 28.94℃ | 77% | 10km | ⛈️ light rain |
+| 05/07 13:00 | 32.46℃ - 32.46℃ | 63% | 10km | ⛈️ light rain |
 | 05/07 16:00 | 33.53℃ - 33.53℃ | 59% | 10km | ⛈️ light rain |
 | 05/07 19:00 | 29.71℃ - 29.71℃ | 75% | 10km | ⛈️ moderate rain |
 | 05/07 22:00 | 28.07℃ - 28.07℃ | 82% | 10km | ⛈️ light rain |
