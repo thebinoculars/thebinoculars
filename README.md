@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 27.25℃
-- 💦 Humidity: 87%
-- 💨 Wind Speed: 2.04m/s
+- 🌡️ Temperature: 26.92℃
+- 💦 Humidity: 90%
+- 💨 Wind Speed: 1.97m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 06/07 01:00 | 26.53℃ - 27.53℃ | 85% | 10km | ⛈️ light rain |
-| 06/07 04:00 | 26.81℃ - 27.22℃ | 86% | 10km | ⛈️ light rain |
-| 06/07 07:00 | 27.5℃ - 27.5℃ | 82% | 10km | ⛈️ light rain |
+| 06/07 01:00 | 26.53℃ - 26.53℃ | 91% | 10km | ⛈️ light rain |
+| 06/07 04:00 | 26.62℃ - 26.81℃ | 90% | 10km | ⛈️ light rain |
+| 06/07 07:00 | 27.18℃ - 27.5℃ | 85% | 10km | ⛈️ light rain |
 | 06/07 10:00 | 30.73℃ - 30.73℃ | 66% | 10km | ⛈️ light rain |
 | 06/07 13:00 | 32.08℃ - 32.08℃ | 61% | 10km | ☁️ overcast clouds |
 | 06/07 16:00 | 30.64℃ - 30.64℃ | 67% | 10km | ☁️ overcast clouds |
