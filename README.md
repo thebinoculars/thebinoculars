@@ -2,20 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.1℃
-- 💦 Humidity: 73%
-- 💨 Wind Speed: 3.65m/s
+- 🌡️ Temperature: 26.88℃
+- 💦 Humidity: 80%
+- 💨 Wind Speed: 2.66m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 06/07 22:00 | 28.1℃ - 28.1℃ | 73% | 10km | ☁️ scattered clouds |
-| 07/07 01:00 | 26.79℃ - 27.66℃ | 76% | 10km | ⛈️ light rain |
-| 07/07 04:00 | 26.29℃ - 26.89℃ | 82% | 10km | ☁️ broken clouds |
-| 07/07 07:00 | 27.71℃ - 27.71℃ | 80% | 10km | ☁️ overcast clouds |
+| 07/07 01:00 | 26.79℃ - 26.79℃ | 81% | 10km | ⛈️ light rain |
+| 07/07 04:00 | 26.29℃ - 26.62℃ | 83% | 10km | ☁️ broken clouds |
+| 07/07 07:00 | 27.4℃ - 27.71℃ | 80% | 10km | ☁️ overcast clouds |
 | 07/07 10:00 | 32.34℃ - 32.34℃ | 61% | 10km | ☁️ overcast clouds |
 | 07/07 13:00 | 35.14℃ - 35.14℃ | 51% | 10km | ⛈️ light rain |
 | 07/07 16:00 | 36.23℃ - 36.23℃ | 47% | 10km | ☁️ broken clouds |
@@ -52,3 +51,4 @@
 | 11/07 13:00 | 35.44℃ - 35.44℃ | 51% | 10km | ⛈️ light rain |
 | 11/07 16:00 | 35.7℃ - 35.7℃ | 50% | 10km | ☁️ broken clouds |
 | 11/07 19:00 | 32.65℃ - 32.65℃ | 64% | 10km | ☁️ overcast clouds |
+| 11/07 22:00 | 29.99℃ - 29.99℃ | 75% | 10km | ⛈️ light rain |
