@@ -2,20 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 36.89℃
-- 💦 Humidity: 46%
-- 💨 Wind Speed: 1.37m/s
+- 🌡️ Temperature: 32.22℃
+- 💦 Humidity: 65%
+- 💨 Wind Speed: 5.3m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 07/07 16:00 | 36.89℃ - 36.89℃ | 46% | 10km | ☁️ scattered clouds |
-| 07/07 19:00 | 31.05℃ - 34.94℃ | 54% | 10km | ⛈️ light rain |
-| 07/07 22:00 | 29.13℃ - 31.72℃ | 69% | 10km | ⛈️ light rain |
-| 08/07 01:00 | 28.08℃ - 28.08℃ | 85% | 10km | ☁️ overcast clouds |
+| 07/07 19:00 | 31.05℃ - 31.05℃ | 70% | 10km | ⛈️ light rain |
+| 07/07 22:00 | 29.13℃ - 30.41℃ | 74% | 10km | ⛈️ light rain |
+| 08/07 01:00 | 28.08℃ - 29.07℃ | 80% | 10km | ☁️ broken clouds |
 | 08/07 04:00 | 26.78℃ - 26.78℃ | 89% | 10km | ⛈️ light rain |
 | 08/07 07:00 | 27.61℃ - 27.61℃ | 85% | 10km | ☁️ overcast clouds |
 | 08/07 10:00 | 32℃ - 32℃ | 66% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 12/07 07:00 | 29.43℃ - 29.43℃ | 73% | 10km | ☁️ scattered clouds |
 | 12/07 10:00 | 33.62℃ - 33.62℃ | 53% | 10km | ☁️ scattered clouds |
 | 12/07 13:00 | 36.57℃ - 36.57℃ | 45% | 10km | ☁️ scattered clouds |
+| 12/07 16:00 | 37.79℃ - 37.79℃ | 41% | 10km | ☁️ scattered clouds |
