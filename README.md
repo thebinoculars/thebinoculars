@@ -2,20 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 30.06℃
-- 💦 Humidity: 74%
-- 💨 Wind Speed: 2.94m/s
+- 🌡️ Temperature: 28.15℃
+- 💦 Humidity: 81%
+- 💨 Wind Speed: 2.16m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ light rain
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 08/07 22:00 | 28.89℃ - 30.56℃ | 71% | 10km | ⛈️ moderate rain |
-| 09/07 01:00 | 27.99℃ - 29.12℃ | 77% | 10km | ⛈️ light rain |
-| 09/07 04:00 | 27.53℃ - 27.53℃ | 85% | 10km | ⛈️ light rain |
-| 09/07 07:00 | 27.12℃ - 27.12℃ | 87% | 10km | ⛈️ light rain |
+| 09/07 01:00 | 27.99℃ - 27.99℃ | 81% | 10km | ⛈️ light rain |
+| 09/07 04:00 | 27.53℃ - 27.84℃ | 83% | 10km | ⛈️ light rain |
+| 09/07 07:00 | 27.12℃ - 27.41℃ | 85% | 10km | ⛈️ light rain |
 | 09/07 10:00 | 29.21℃ - 29.21℃ | 76% | 10km | ⛈️ light rain |
 | 09/07 13:00 | 33.38℃ - 33.38℃ | 59% | 10km | ⛈️ light rain |
 | 09/07 16:00 | 34.46℃ - 34.46℃ | 53% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 13/07 13:00 | 37.82℃ - 37.82℃ | 44% | 10km | ☁️ overcast clouds |
 | 13/07 16:00 | 38.64℃ - 38.64℃ | 40% | 10km | ☁️ broken clouds |
 | 13/07 19:00 | 32.23℃ - 32.23℃ | 67% | 10km | ⛈️ light rain |
+| 13/07 22:00 | 30.91℃ - 30.91℃ | 71% | 10km | ⛈️ light rain |
