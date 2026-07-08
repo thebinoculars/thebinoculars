@@ -1,32 +1,31 @@
-## 🌦️ Hanoi Weather (07/07)
+## 🌦️ Hanoi Weather (08/07)
 
 ### Current
 
-- 🌡️ Temperature: 28.33℃
-- 💦 Humidity: 79%
-- 💨 Wind Speed: 1.39m/s
+- 🌡️ Temperature: 30℃
+- 💦 Humidity: 71%
+- 💨 Wind Speed: 1.37m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ overcast clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 08/07 07:00 | 28.33℃ - 28.33℃ | 79% | 10km | ☁️ overcast clouds |
-| 08/07 10:00 | 29.92℃ - 33.09℃ | 72% | 10km | ⛈️ light rain |
-| 08/07 13:00 | 33.74℃ - 36.44℃ | 56% | 10km | ⛈️ light rain |
-| 08/07 16:00 | 35.56℃ - 35.56℃ | 50% | 10km | ☁️ overcast clouds |
-| 08/07 19:00 | 30.78℃ - 30.78℃ | 72% | 10km | ⛈️ light rain |
-| 08/07 22:00 | 28.89℃ - 28.89℃ | 79% | 10km | ⛈️ light rain |
-| 09/07 01:00 | 28.07℃ - 28.07℃ | 83% | 10km | ⛈️ light rain |
-| 09/07 04:00 | 27.47℃ - 27.47℃ | 84% | 10km | ⛈️ light rain |
-| 09/07 07:00 | 28.46℃ - 28.46℃ | 79% | 10km | ☁️ overcast clouds |
-| 09/07 10:00 | 32.61℃ - 32.61℃ | 60% | 10km | ⛈️ light rain |
-| 09/07 13:00 | 35.6℃ - 35.6℃ | 50% | 10km | ☁️ overcast clouds |
-| 09/07 16:00 | 35.71℃ - 35.71℃ | 49% | 10km | ⛈️ light rain |
-| 09/07 19:00 | 31.04℃ - 31.04℃ | 69% | 10km | ⛈️ moderate rain |
-| 09/07 22:00 | 29.08℃ - 29.08℃ | 79% | 10km | ⛈️ light rain |
-| 10/07 01:00 | 28.2℃ - 28.2℃ | 83% | 10km | ⛈️ light rain |
+| 08/07 10:00 | 30.11℃ - 33.53℃ | 71% | 10km | ☁️ overcast clouds |
+| 08/07 13:00 | 33.33℃ - 35.8℃ | 57% | 10km | ⛈️ light rain |
+| 08/07 16:00 | 35.46℃ - 35.46℃ | 50% | 10km | ☁️ overcast clouds |
+| 08/07 19:00 | 31℃ - 31℃ | 70% | 10km | ⛈️ light rain |
+| 08/07 22:00 | 29.07℃ - 29.07℃ | 78% | 10km | ⛈️ light rain |
+| 09/07 01:00 | 28.03℃ - 28.03℃ | 83% | 10km | ⛈️ light rain |
+| 09/07 04:00 | 27.48℃ - 27.48℃ | 85% | 10km | ☁️ overcast clouds |
+| 09/07 07:00 | 28.47℃ - 28.47℃ | 79% | 10km | ⛈️ light rain |
+| 09/07 10:00 | 33.41℃ - 33.41℃ | 57% | 10km | ⛈️ light rain |
+| 09/07 13:00 | 35.83℃ - 35.83℃ | 47% | 10km | ☁️ broken clouds |
+| 09/07 16:00 | 35.83℃ - 35.83℃ | 50% | 10km | ☁️ broken clouds |
+| 09/07 19:00 | 31.05℃ - 31.05℃ | 70% | 10km | ⛈️ light rain |
+| 09/07 22:00 | 29.39℃ - 29.39℃ | 75% | 10km | ⛈️ light rain |
+| 10/07 01:00 | 28.37℃ - 28.37℃ | 83% | 10km | ⛈️ light rain |
 | 10/07 04:00 | 27.31℃ - 27.31℃ | 88% | 10km | ⛈️ light rain |
 | 10/07 07:00 | 27.12℃ - 27.12℃ | 87% | 10km | ☁️ overcast clouds |
 | 10/07 10:00 | 29.78℃ - 29.78℃ | 72% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 12/07 22:00 | 30.33℃ - 30.33℃ | 66% | 10km | ⛈️ light rain |
 | 13/07 01:00 | 28.91℃ - 28.91℃ | 77% | 10km | ⛈️ light rain |
 | 13/07 04:00 | 28.56℃ - 28.56℃ | 80% | 10km | ☁️ overcast clouds |
+| 13/07 07:00 | 28.4℃ - 28.4℃ | 78% | 10km | ⛈️ light rain |
