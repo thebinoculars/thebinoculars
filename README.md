@@ -2,31 +2,31 @@
 
 ### Current
 
-- 🌡️ Temperature: 26.16℃
-- 💦 Humidity: 89%
-- 💨 Wind Speed: 1.84m/s
+- 🌡️ Temperature: 27.14℃
+- 💦 Humidity: 85%
+- 💨 Wind Speed: 2.22m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ broken clouds
+- ☂️ Weather: ☁️ overcast clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
 | 10/07 07:00 | 27.14℃ - 27.14℃ | 85% | 10km | ☁️ overcast clouds |
-| 10/07 10:00 | 28.54℃ - 31.33℃ | 78% | 10km | ☁️ overcast clouds |
-| 10/07 13:00 | 32.3℃ - 34.88℃ | 62% | 10km | ⛈️ light rain |
-| 10/07 16:00 | 34.73℃ - 34.73℃ | 53% | 10km | ⛈️ light rain |
-| 10/07 19:00 | 30.67℃ - 30.67℃ | 70% | 10km | ⛈️ light rain |
-| 10/07 22:00 | 28.62℃ - 28.62℃ | 81% | 10km | ⛈️ light rain |
-| 11/07 01:00 | 27.76℃ - 27.76℃ | 84% | 10km | ☁️ overcast clouds |
-| 11/07 04:00 | 26.98℃ - 26.98℃ | 87% | 10km | ⛈️ light rain |
-| 11/07 07:00 | 28.27℃ - 28.27℃ | 80% | 10km | ☁️ broken clouds |
-| 11/07 10:00 | 32.19℃ - 32.19℃ | 63% | 10km | ⛈️ light rain |
-| 11/07 13:00 | 34.76℃ - 34.76℃ | 54% | 10km | ⛈️ moderate rain |
-| 11/07 16:00 | 34.87℃ - 34.87℃ | 53% | 10km | ☁️ overcast clouds |
-| 11/07 19:00 | 31.73℃ - 31.73℃ | 66% | 10km | ⛈️ light rain |
-| 11/07 22:00 | 29.14℃ - 29.14℃ | 79% | 10km | ⛈️ light rain |
-| 12/07 01:00 | 28.48℃ - 28.48℃ | 80% | 10km | ⛈️ light rain |
+| 10/07 10:00 | 28.54℃ - 31.33℃ | 78% | 10km | ⛈️ light rain |
+| 10/07 13:00 | 31.85℃ - 34.2℃ | 63% | 10km | ⛈️ light rain |
+| 10/07 16:00 | 33.6℃ - 33.6℃ | 58% | 10km | ⛈️ light rain |
+| 10/07 19:00 | 30.18℃ - 30.18℃ | 73% | 10km | ⛈️ light rain |
+| 10/07 22:00 | 28.37℃ - 28.37℃ | 83% | 10km | ⛈️ light rain |
+| 11/07 01:00 | 27.37℃ - 27.37℃ | 87% | 10km | ⛈️ light rain |
+| 11/07 04:00 | 26.83℃ - 26.83℃ | 87% | 10km | ☁️ overcast clouds |
+| 11/07 07:00 | 28.08℃ - 28.08℃ | 81% | 10km | ⛈️ light rain |
+| 11/07 10:00 | 32.58℃ - 32.58℃ | 61% | 10km | ⛈️ light rain |
+| 11/07 13:00 | 35.13℃ - 35.13℃ | 51% | 10km | ⛈️ light rain |
+| 11/07 16:00 | 32℃ - 32℃ | 67% | 10km | ⛈️ light rain |
+| 11/07 19:00 | 30.3℃ - 30.3℃ | 71% | 10km | ⛈️ light rain |
+| 11/07 22:00 | 29.01℃ - 29.01℃ | 78% | 10km | ⛈️ light rain |
+| 12/07 01:00 | 28.06℃ - 28.06℃ | 83% | 10km | ☁️ broken clouds |
 | 12/07 04:00 | 25.98℃ - 25.98℃ | 88% | 10km | ⛈️ moderate rain |
 | 12/07 07:00 | 27.51℃ - 27.51℃ | 81% | 10km | ⛈️ light rain |
 | 12/07 10:00 | 32.22℃ - 32.22℃ | 64% | 10km | ⛈️ light rain |
