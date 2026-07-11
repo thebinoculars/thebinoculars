@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.44℃
-- 💦 Humidity: 68%
-- 💨 Wind Speed: 3.84m/s
+- 🌡️ Temperature: 30.78℃
+- 💦 Humidity: 72%
+- 💨 Wind Speed: 3.39m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 11/07 19:00 | 30.17℃ - 31.59℃ | 68% | 10km | ⛈️ light rain |
-| 11/07 22:00 | 28.46℃ - 29.74℃ | 78% | 10km | ⛈️ moderate rain |
-| 12/07 01:00 | 27.75℃ - 27.75℃ | 87% | 10km | ⛈️ light rain |
+| 11/07 19:00 | 30.17℃ - 30.17℃ | 73% | 10km | ⛈️ light rain |
+| 11/07 22:00 | 28.46℃ - 29.6℃ | 77% | 10km | ⛈️ moderate rain |
+| 12/07 01:00 | 27.75℃ - 28.56℃ | 83% | 10km | ⛈️ light rain |
 | 12/07 04:00 | 27.08℃ - 27.08℃ | 89% | 10km | ⛈️ light rain |
 | 12/07 07:00 | 28.68℃ - 28.68℃ | 80% | 10km | ⛈️ light rain |
 | 12/07 10:00 | 32.78℃ - 32.78℃ | 60% | 10km | ⛈️ light rain |
