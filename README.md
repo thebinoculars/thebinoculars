@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.96℃
-- 💦 Humidity: 66%
-- 💨 Wind Speed: 3.44m/s
+- 🌡️ Temperature: 30.24℃
+- 💦 Humidity: 72%
+- 💨 Wind Speed: 3.65m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,21 +12,20 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 12/07 19:00 | 30.24℃ - 30.24℃ | 72% | 10km | ☁️ overcast clouds |
 | 12/07 22:00 | 28.55℃ - 29.68℃ | 76% | 10km | ☁️ overcast clouds |
-| 13/07 01:00 | 27.78℃ - 28.6℃ | 82% | 10km | ⛈️ light rain |
-| 13/07 04:00 | 27.19℃ - 27.19℃ | 90% | 10km | ☁️ overcast clouds |
-| 13/07 07:00 | 28.66℃ - 28.66℃ | 83% | 10km | ☁️ overcast clouds |
-| 13/07 10:00 | 32.87℃ - 32.87℃ | 61% | 10km | ⛈️ light rain |
-| 13/07 13:00 | 34.52℃ - 34.52℃ | 54% | 10km | ⛈️ light rain |
-| 13/07 16:00 | 33.75℃ - 33.75℃ | 58% | 10km | ⛈️ light rain |
-| 13/07 19:00 | 30.59℃ - 30.59℃ | 73% | 10km | ☁️ overcast clouds |
-| 13/07 22:00 | 28.86℃ - 28.86℃ | 81% | 10km | ⛈️ light rain |
-| 14/07 01:00 | 28.03℃ - 28.03℃ | 85% | 10km | ⛈️ light rain |
-| 14/07 04:00 | 27.58℃ - 27.58℃ | 87% | 10km | ☁️ broken clouds |
-| 14/07 07:00 | 28.87℃ - 28.87℃ | 81% | 10km | ☁️ broken clouds |
-| 14/07 10:00 | 33.12℃ - 33.12℃ | 61% | 10km | ☁️ overcast clouds |
-| 14/07 13:00 | 35.39℃ - 35.39℃ | 50% | 10km | ☁️ overcast clouds |
+| 13/07 01:00 | 27.79℃ - 28.61℃ | 80% | 10km | ☁️ broken clouds |
+| 13/07 04:00 | 27.14℃ - 27.14℃ | 87% | 10km | ☁️ broken clouds |
+| 13/07 07:00 | 28.57℃ - 28.57℃ | 81% | 10km | ☁️ broken clouds |
+| 13/07 10:00 | 33.21℃ - 33.21℃ | 58% | 10km | ☁️ few clouds |
+| 13/07 13:00 | 36.21℃ - 36.21℃ | 46% | 10km | ☁️ few clouds |
+| 13/07 16:00 | 36.24℃ - 36.24℃ | 45% | 10km | ☁️ overcast clouds |
+| 13/07 19:00 | 31.3℃ - 31.3℃ | 67% | 10km | ☁️ overcast clouds |
+| 13/07 22:00 | 28.99℃ - 28.99℃ | 77% | 10km | ⛈️ light rain |
+| 14/07 01:00 | 28.44℃ - 28.44℃ | 80% | 10km | ⛈️ light rain |
+| 14/07 04:00 | 27.94℃ - 27.94℃ | 84% | 10km | ☁️ overcast clouds |
+| 14/07 07:00 | 28.97℃ - 28.97℃ | 78% | 10km | ☁️ overcast clouds |
+| 14/07 10:00 | 32.73℃ - 32.73℃ | 62% | 10km | ☁️ overcast clouds |
+| 14/07 13:00 | 36.9℃ - 36.9℃ | 46% | 10km | ☁️ broken clouds |
 | 14/07 16:00 | 34.52℃ - 34.52℃ | 55% | 10km | ☁️ overcast clouds |
 | 14/07 19:00 | 30.83℃ - 30.83℃ | 74% | 10km | ☁️ overcast clouds |
 | 14/07 22:00 | 29.69℃ - 29.69℃ | 79% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 17/07 10:00 | 33.19℃ - 33.19℃ | 51% | 10km | ☁️ broken clouds |
 | 17/07 13:00 | 36.35℃ - 36.35℃ | 43% | 10km | ☁️ broken clouds |
 | 17/07 16:00 | 36.37℃ - 36.37℃ | 42% | 10km | ☁️ scattered clouds |
+| 17/07 19:00 | 31.62℃ - 31.62℃ | 58% | 10km | ☁️ few clouds |
