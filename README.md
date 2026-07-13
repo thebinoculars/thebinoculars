@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.18℃
-- 💦 Humidity: 69%
-- 💨 Wind Speed: 3.47m/s
+- 🌡️ Temperature: 29.4℃
+- 💦 Humidity: 74%
+- 💨 Wind Speed: 3.86m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 13/07 22:00 | 28.97℃ - 30.44℃ | 72% | 10km | ☁️ overcast clouds |
-| 14/07 01:00 | 28.63℃ - 29.48℃ | 75% | 10km | ☁️ overcast clouds |
-| 14/07 04:00 | 27.94℃ - 27.94℃ | 82% | 10km | ☁️ overcast clouds |
+| 14/07 01:00 | 28.63℃ - 29.14℃ | 76% | 10km | ☁️ overcast clouds |
+| 14/07 04:00 | 27.94℃ - 28.43℃ | 80% | 10km | ☁️ overcast clouds |
 | 14/07 07:00 | 28.9℃ - 28.9℃ | 78% | 10km | ☁️ overcast clouds |
 | 14/07 10:00 | 33.3℃ - 33.3℃ | 58% | 10km | ☁️ overcast clouds |
 | 14/07 13:00 | 36.57℃ - 36.57℃ | 45% | 10km | ☁️ broken clouds |
@@ -47,8 +46,9 @@
 | 17/07 22:00 | 29.47℃ - 29.47℃ | 63% | 10km | ☁️ scattered clouds |
 | 18/07 01:00 | 28.37℃ - 28.37℃ | 68% | 10km | ☁️ broken clouds |
 | 18/07 04:00 | 27.18℃ - 27.18℃ | 72% | 10km | ☁️ broken clouds |
-| 18/07 07:00 | 28.14℃ - 28.14℃ | 66% | 10km | ☁️ scattered clouds |
-| 18/07 10:00 | 33.09℃ - 33.09℃ | 50% | 10km | ☁️ broken clouds |
-| 18/07 13:00 | 36.22℃ - 36.22℃ | 43% | 10km | ⛈️ light rain |
-| 18/07 16:00 | 37.26℃ - 37.26℃ | 40% | 10km | ☁️ broken clouds |
-| 18/07 19:00 | 32.93℃ - 32.93℃ | 54% | 10km | ☁️ broken clouds |
+| 18/07 07:00 | 28.47℃ - 28.47℃ | 68% | 10km | ☁️ broken clouds |
+| 18/07 10:00 | 33.49℃ - 33.49℃ | 51% | 10km | ☁️ scattered clouds |
+| 18/07 13:00 | 36.45℃ - 36.45℃ | 43% | 10km | ☁️ scattered clouds |
+| 18/07 16:00 | 37.44℃ - 37.44℃ | 40% | 10km | ☁️ overcast clouds |
+| 18/07 19:00 | 34.64℃ - 34.64℃ | 49% | 10km | ☁️ overcast clouds |
+| 18/07 22:00 | 31.73℃ - 31.73℃ | 63% | 10km | ⛈️ light rain |
