@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 29.81℃
-- 💦 Humidity: 73%
-- 💨 Wind Speed: 4.36m/s
+- 🌡️ Temperature: 29.08℃
+- 💦 Humidity: 75%
+- 💨 Wind Speed: 4.23m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,7 +12,6 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 14/07 22:00 | 29.49℃ - 29.49℃ | 75% | 10km | ☁️ overcast clouds |
 | 15/07 01:00 | 28.43℃ - 29.14℃ | 76% | 10km | ☁️ overcast clouds |
 | 15/07 04:00 | 27.87℃ - 28.41℃ | 79% | 10km | ☁️ overcast clouds |
 | 15/07 07:00 | 28.94℃ - 28.94℃ | 76% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 19/07 13:00 | 34.23℃ - 34.23℃ | 54% | 10km | ⛈️ light rain |
 | 19/07 16:00 | 33.83℃ - 33.83℃ | 56% | 10km | ⛈️ light rain |
 | 19/07 19:00 | 27.88℃ - 27.88℃ | 87% | 4.619km | ⛈️ moderate rain |
+| 19/07 22:00 | 26.46℃ - 26.46℃ | 92% | 6.902km | ⛈️ heavy intensity rain |
