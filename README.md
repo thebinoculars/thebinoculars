@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (13/07)
+## 🌦️ Hanoi Weather (14/07)
 
 ### Current
 
-- 🌡️ Temperature: 28.15℃
-- 💦 Humidity: 82%
-- 💨 Wind Speed: 0.4m/s
+- 🌡️ Temperature: 28.99℃
+- 💦 Humidity: 78%
+- 💨 Wind Speed: 0.88m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,21 +12,20 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 14/07 07:00 | 28.99℃ - 28.99℃ | 78% | 10km | ☁️ overcast clouds |
 | 14/07 10:00 | 30.34℃ - 33.05℃ | 72% | 10km | ☁️ overcast clouds |
-| 14/07 13:00 | 33.73℃ - 36.1℃ | 57% | 10km | ☁️ overcast clouds |
-| 14/07 16:00 | 34.67℃ - 34.67℃ | 51% | 10km | ☁️ overcast clouds |
-| 14/07 19:00 | 30.89℃ - 30.89℃ | 69% | 10km | ☁️ overcast clouds |
-| 14/07 22:00 | 29.26℃ - 29.26℃ | 77% | 10km | ☁️ overcast clouds |
-| 15/07 01:00 | 28.47℃ - 28.47℃ | 81% | 10km | ☁️ overcast clouds |
-| 15/07 04:00 | 27.86℃ - 27.86℃ | 83% | 10km | ☁️ overcast clouds |
-| 15/07 07:00 | 29.18℃ - 29.18℃ | 77% | 10km | ☁️ overcast clouds |
-| 15/07 10:00 | 32.78℃ - 32.78℃ | 62% | 10km | ☁️ overcast clouds |
-| 15/07 13:00 | 36℃ - 36℃ | 49% | 10km | ☁️ overcast clouds |
-| 15/07 16:00 | 36.79℃ - 36.79℃ | 46% | 10km | ☁️ overcast clouds |
-| 15/07 19:00 | 29.83℃ - 29.83℃ | 76% | 10km | ⛈️ moderate rain |
-| 15/07 22:00 | 28.29℃ - 28.29℃ | 81% | 10km | ⛈️ light rain |
-| 16/07 01:00 | 28.04℃ - 28.04℃ | 83% | 10km | ☁️ overcast clouds |
+| 14/07 13:00 | 33.55℃ - 35.83℃ | 57% | 10km | ☁️ overcast clouds |
+| 14/07 16:00 | 34.62℃ - 34.62℃ | 50% | 10km | ☁️ overcast clouds |
+| 14/07 19:00 | 31.04℃ - 31.04℃ | 67% | 10km | ☁️ overcast clouds |
+| 14/07 22:00 | 29.19℃ - 29.19℃ | 77% | 10km | ☁️ overcast clouds |
+| 15/07 01:00 | 28.31℃ - 28.31℃ | 81% | 10km | ☁️ overcast clouds |
+| 15/07 04:00 | 28.04℃ - 28.04℃ | 82% | 10km | ☁️ overcast clouds |
+| 15/07 07:00 | 29℃ - 29℃ | 78% | 10km | ☁️ overcast clouds |
+| 15/07 10:00 | 33.26℃ - 33.26℃ | 61% | 10km | ☁️ overcast clouds |
+| 15/07 13:00 | 35.74℃ - 35.74℃ | 49% | 10km | ☁️ overcast clouds |
+| 15/07 16:00 | 35.51℃ - 35.51℃ | 51% | 10km | ☁️ overcast clouds |
+| 15/07 19:00 | 31.25℃ - 31.25℃ | 66% | 10km | ⛈️ light rain |
+| 15/07 22:00 | 29.77℃ - 29.77℃ | 73% | 10km | ☁️ overcast clouds |
+| 16/07 01:00 | 28.43℃ - 28.43℃ | 83% | 10km | ☁️ overcast clouds |
 | 16/07 04:00 | 27.72℃ - 27.72℃ | 83% | 10km | ⛈️ light rain |
 | 16/07 07:00 | 27.74℃ - 27.74℃ | 84% | 10km | ☁️ overcast clouds |
 | 16/07 10:00 | 28.77℃ - 28.77℃ | 79% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 18/07 22:00 | 26℃ - 26℃ | 90% | 10km | ⛈️ moderate rain |
 | 19/07 01:00 | 26.1℃ - 26.1℃ | 91% | 10km | ⛈️ moderate rain |
 | 19/07 04:00 | 25.41℃ - 25.41℃ | 89% | 10km | ⛈️ light rain |
+| 19/07 07:00 | 25.86℃ - 25.86℃ | 89% | 10km | ⛈️ light rain |
