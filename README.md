@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.49℃
-- 💦 Humidity: 73%
-- 💨 Wind Speed: 1.39m/s
+- 🌡️ Temperature: 28.27℃
+- 💦 Humidity: 74%
+- 💨 Wind Speed: 2m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -14,19 +14,19 @@
 | --- | --- | --- | --- | --- |
 | 17/07 01:00 | 28.27℃ - 28.27℃ | 74% | 10km | ☁️ overcast clouds |
 | 17/07 04:00 | 27.63℃ - 28.06℃ | 75% | 10km | ☁️ overcast clouds |
-| 17/07 07:00 | 27.53℃ - 27.78℃ | 76% | 10km | ☁️ overcast clouds |
-| 17/07 10:00 | 28.27℃ - 28.27℃ | 73% | 10km | ☁️ overcast clouds |
-| 17/07 13:00 | 28.64℃ - 28.64℃ | 70% | 10km | ☁️ overcast clouds |
-| 17/07 16:00 | 32.44℃ - 32.44℃ | 57% | 10km | ☁️ overcast clouds |
-| 17/07 19:00 | 29.68℃ - 29.68℃ | 67% | 10km | ☁️ overcast clouds |
-| 17/07 22:00 | 28.69℃ - 28.69℃ | 71% | 10km | ☁️ broken clouds |
-| 18/07 01:00 | 28.39℃ - 28.39℃ | 71% | 10km | ☁️ broken clouds |
-| 18/07 04:00 | 26.57℃ - 26.57℃ | 77% | 10km | ☁️ broken clouds |
-| 18/07 07:00 | 27.86℃ - 27.86℃ | 72% | 10km | ☁️ broken clouds |
-| 18/07 10:00 | 32.79℃ - 32.79℃ | 51% | 10km | ☁️ broken clouds |
-| 18/07 13:00 | 35.6℃ - 35.6℃ | 42% | 10km | ☁️ overcast clouds |
-| 18/07 16:00 | 36.26℃ - 36.26℃ | 41% | 10km | ☁️ overcast clouds |
-| 18/07 19:00 | 32.7℃ - 32.7℃ | 53% | 10km | ☁️ overcast clouds |
+| 17/07 07:00 | 27.8℃ - 27.96℃ | 76% | 10km | ☁️ overcast clouds |
+| 17/07 10:00 | 28.66℃ - 28.66℃ | 72% | 10km | ☁️ overcast clouds |
+| 17/07 13:00 | 31.22℃ - 31.22℃ | 61% | 10km | ☁️ overcast clouds |
+| 17/07 16:00 | 31.48℃ - 31.48℃ | 58% | 10km | ☁️ overcast clouds |
+| 17/07 19:00 | 28.64℃ - 28.64℃ | 70% | 10km | ☁️ broken clouds |
+| 17/07 22:00 | 28.29℃ - 28.29℃ | 73% | 10km | ☁️ broken clouds |
+| 18/07 01:00 | 28.2℃ - 28.2℃ | 72% | 10km | ☁️ broken clouds |
+| 18/07 04:00 | 26.94℃ - 26.94℃ | 76% | 10km | ☁️ broken clouds |
+| 18/07 07:00 | 28.09℃ - 28.09℃ | 71% | 10km | ☁️ broken clouds |
+| 18/07 10:00 | 33.05℃ - 33.05℃ | 50% | 10km | ☁️ broken clouds |
+| 18/07 13:00 | 35.39℃ - 35.39℃ | 44% | 10km | ☁️ overcast clouds |
+| 18/07 16:00 | 34.01℃ - 34.01℃ | 48% | 10km | ☁️ overcast clouds |
+| 18/07 19:00 | 31.39℃ - 31.39℃ | 54% | 10km | ☁️ overcast clouds |
 | 18/07 22:00 | 30.62℃ - 30.62℃ | 66% | 10km | ☁️ overcast clouds |
 | 19/07 01:00 | 29.1℃ - 29.1℃ | 75% | 10km | ☁️ overcast clouds |
 | 19/07 04:00 | 27.84℃ - 27.84℃ | 78% | 10km | ☁️ overcast clouds |
