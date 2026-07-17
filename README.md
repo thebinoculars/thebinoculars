@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.91℃
-- 💦 Humidity: 66%
-- 💨 Wind Speed: 2.64m/s
+- 🌡️ Temperature: 28.57℃
+- 💦 Humidity: 67%
+- 💨 Wind Speed: 1.97m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 18/07 01:00 | 28.26℃ - 29.02℃ | 67% | 10km | ☁️ broken clouds |
-| 18/07 04:00 | 27.01℃ - 27.81℃ | 72% | 10km | ☁️ overcast clouds |
-| 18/07 07:00 | 28.28℃ - 28.28℃ | 71% | 10km | ☁️ overcast clouds |
+| 18/07 01:00 | 28.26℃ - 28.26℃ | 69% | 10km | ☁️ broken clouds |
+| 18/07 04:00 | 27.01℃ - 27.84℃ | 71% | 10km | ☁️ broken clouds |
+| 18/07 07:00 | 28.27℃ - 28.28℃ | 71% | 10km | ☁️ broken clouds |
 | 18/07 10:00 | 33.2℃ - 33.2℃ | 51% | 10km | ☁️ scattered clouds |
 | 18/07 13:00 | 35.63℃ - 35.63℃ | 43% | 10km | ☁️ broken clouds |
 | 18/07 16:00 | 36.66℃ - 36.66℃ | 40% | 10km | ☁️ broken clouds |
