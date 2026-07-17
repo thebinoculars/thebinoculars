@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (16/07)
+## 🌦️ Hanoi Weather (17/07)
 
 ### Current
 
-- 🌡️ Temperature: 27.5℃
+- 🌡️ Temperature: 27.8℃
 - 💦 Humidity: 77%
-- 💨 Wind Speed: 1.95m/s
+- 💨 Wind Speed: 2.02m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,21 +12,20 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 17/07 07:00 | 27.8℃ - 27.8℃ | 77% | 10km | ☁️ overcast clouds |
 | 17/07 10:00 | 28.09℃ - 28.66℃ | 75% | 10km | ☁️ overcast clouds |
-| 17/07 13:00 | 30.08℃ - 31.22℃ | 66% | 10km | ☁️ overcast clouds |
-| 17/07 16:00 | 31.48℃ - 31.48℃ | 58% | 10km | ☁️ overcast clouds |
-| 17/07 19:00 | 28.64℃ - 28.64℃ | 70% | 10km | ☁️ broken clouds |
-| 17/07 22:00 | 28.29℃ - 28.29℃ | 73% | 10km | ☁️ broken clouds |
-| 18/07 01:00 | 28.2℃ - 28.2℃ | 72% | 10km | ☁️ broken clouds |
-| 18/07 04:00 | 26.94℃ - 26.94℃ | 76% | 10km | ☁️ broken clouds |
-| 18/07 07:00 | 28.09℃ - 28.09℃ | 71% | 10km | ☁️ broken clouds |
-| 18/07 10:00 | 33.05℃ - 33.05℃ | 50% | 10km | ☁️ broken clouds |
-| 18/07 13:00 | 35.39℃ - 35.39℃ | 44% | 10km | ☁️ overcast clouds |
-| 18/07 16:00 | 34.01℃ - 34.01℃ | 48% | 10km | ☁️ overcast clouds |
-| 18/07 19:00 | 31.39℃ - 31.39℃ | 54% | 10km | ☁️ overcast clouds |
-| 18/07 22:00 | 29.69℃ - 29.69℃ | 60% | 10km | ☁️ overcast clouds |
-| 19/07 01:00 | 28.05℃ - 28.05℃ | 65% | 10km | ☁️ overcast clouds |
+| 17/07 13:00 | 30.25℃ - 31.47℃ | 65% | 10km | ☁️ overcast clouds |
+| 17/07 16:00 | 32.98℃ - 32.98℃ | 51% | 10km | ☁️ overcast clouds |
+| 17/07 19:00 | 30.26℃ - 30.26℃ | 64% | 10km | ☁️ overcast clouds |
+| 17/07 22:00 | 29.69℃ - 29.69℃ | 67% | 10km | ☁️ overcast clouds |
+| 18/07 01:00 | 28.84℃ - 28.84℃ | 71% | 10km | ☁️ overcast clouds |
+| 18/07 04:00 | 27.28℃ - 27.28℃ | 75% | 10km | ☁️ overcast clouds |
+| 18/07 07:00 | 28.33℃ - 28.33℃ | 71% | 10km | ☁️ broken clouds |
+| 18/07 10:00 | 33.09℃ - 33.09℃ | 51% | 10km | ☁️ broken clouds |
+| 18/07 13:00 | 35.46℃ - 35.46℃ | 44% | 10km | ☁️ broken clouds |
+| 18/07 16:00 | 36.52℃ - 36.52℃ | 48% | 10km | ☁️ overcast clouds |
+| 18/07 19:00 | 33.19℃ - 33.19℃ | 54% | 10km | ☁️ overcast clouds |
+| 18/07 22:00 | 30.89℃ - 30.89℃ | 60% | 10km | ☁️ overcast clouds |
+| 19/07 01:00 | 29.04℃ - 29.04℃ | 65% | 10km | ☁️ overcast clouds |
 | 19/07 04:00 | 26.7℃ - 26.7℃ | 68% | 10km | ☁️ overcast clouds |
 | 19/07 07:00 | 27.53℃ - 27.53℃ | 65% | 10km | ☁️ overcast clouds |
 | 19/07 10:00 | 31.89℃ - 31.89℃ | 50% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 21/07 22:00 | 30.53℃ - 30.53℃ | 66% | 10km | ☁️ overcast clouds |
 | 22/07 01:00 | 29.31℃ - 29.31℃ | 72% | 10km | ☁️ broken clouds |
 | 22/07 04:00 | 28.01℃ - 28.01℃ | 80% | 10km | ☁️ scattered clouds |
+| 22/07 07:00 | 28.74℃ - 28.74℃ | 78% | 10km | ☁️ broken clouds |
