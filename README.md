@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.99℃
+- 🌡️ Temperature: 29℃
 - 💦 Humidity: 77%
-- 💨 Wind Speed: 1.96m/s
+- 💨 Wind Speed: 1.46m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,21 +12,20 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 19/07 01:00 | 29℃ - 29℃ | 77% | 10km | ⛈️ light rain |
-| 19/07 04:00 | 28.3℃ - 28.77℃ | 76% | 10km | ☁️ overcast clouds |
-| 19/07 07:00 | 28.09℃ - 28.39℃ | 76% | 10km | ☁️ overcast clouds |
-| 19/07 10:00 | 31.12℃ - 31.12℃ | 61% | 10km | ☁️ overcast clouds |
-| 19/07 13:00 | 32.47℃ - 32.47℃ | 54% | 10km | ☁️ overcast clouds |
-| 19/07 16:00 | 34.12℃ - 34.12℃ | 50% | 10km | ☁️ overcast clouds |
-| 19/07 19:00 | 30.07℃ - 30.07℃ | 72% | 10km | ⛈️ light rain |
-| 19/07 22:00 | 28.51℃ - 28.51℃ | 78% | 10km | ⛈️ light rain |
-| 20/07 01:00 | 27.75℃ - 27.75℃ | 80% | 10km | ⛈️ light rain |
-| 20/07 04:00 | 26.56℃ - 26.56℃ | 80% | 10km | ☁️ overcast clouds |
-| 20/07 07:00 | 26.84℃ - 26.84℃ | 79% | 10km | ⛈️ light rain |
-| 20/07 10:00 | 31.74℃ - 31.74℃ | 57% | 10km | ☁️ overcast clouds |
-| 20/07 13:00 | 33.8℃ - 33.8℃ | 51% | 10km | ☁️ overcast clouds |
-| 20/07 16:00 | 33.11℃ - 33.11℃ | 54% | 10km | ☁️ overcast clouds |
-| 20/07 19:00 | 29.57℃ - 29.57℃ | 69% | 10km | ⛈️ light rain |
+| 19/07 04:00 | 28.3℃ - 28.77℃ | 76% | 10km | ⛈️ light rain |
+| 19/07 07:00 | 27.37℃ - 27.91℃ | 83% | 10km | ☁️ overcast clouds |
+| 19/07 10:00 | 30.87℃ - 30.87℃ | 66% | 10km | ⛈️ light rain |
+| 19/07 13:00 | 33.03℃ - 33.03℃ | 55% | 10km | ☁️ overcast clouds |
+| 19/07 16:00 | 33.83℃ - 33.83℃ | 52% | 10km | ☁️ overcast clouds |
+| 19/07 19:00 | 29.64℃ - 29.64℃ | 72% | 10km | ⛈️ light rain |
+| 19/07 22:00 | 28.82℃ - 28.82℃ | 74% | 10km | ⛈️ light rain |
+| 20/07 01:00 | 27.65℃ - 27.65℃ | 77% | 10km | ☁️ overcast clouds |
+| 20/07 04:00 | 26.84℃ - 26.84℃ | 81% | 10km | ☁️ overcast clouds |
+| 20/07 07:00 | 26.84℃ - 26.84℃ | 82% | 10km | ⛈️ light rain |
+| 20/07 10:00 | 29.55℃ - 29.55℃ | 68% | 10km | ☁️ overcast clouds |
+| 20/07 13:00 | 32.27℃ - 32.27℃ | 56% | 10km | ☁️ overcast clouds |
+| 20/07 16:00 | 30.58℃ - 30.58℃ | 65% | 10km | ⛈️ light rain |
+| 20/07 19:00 | 28.1℃ - 28.1℃ | 78% | 10km | ☁️ overcast clouds |
 | 20/07 22:00 | 27.75℃ - 27.75℃ | 81% | 10km | ⛈️ light rain |
 | 21/07 01:00 | 26.52℃ - 26.52℃ | 86% | 10km | ☁️ overcast clouds |
 | 21/07 04:00 | 26.54℃ - 26.54℃ | 85% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 23/07 16:00 | 31.82℃ - 31.82℃ | 62% | 10km | ⛈️ light rain |
 | 23/07 19:00 | 27.67℃ - 27.67℃ | 83% | 10km | ⛈️ moderate rain |
 | 23/07 22:00 | 26.25℃ - 26.25℃ | 89% | 10km | ⛈️ moderate rain |
+| 24/07 01:00 | 25.63℃ - 25.63℃ | 91% | 6.014km | ⛈️ moderate rain |
