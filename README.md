@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 26.03℃
+- 🌡️ Temperature: 26.12℃
 - 💦 Humidity: 87%
-- 💨 Wind Speed: 2.68m/s
+- 💨 Wind Speed: 2.87m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 20/07 07:00 | 26.21℃ - 26.81℃ | 86% | 10km | ⛈️ light rain |
-| 20/07 10:00 | 29.73℃ - 31.64℃ | 70% | 10km | ☁️ overcast clouds |
-| 20/07 13:00 | 34.25℃ - 34.25℃ | 52% | 10km | ☁️ overcast clouds |
+| 20/07 07:00 | 26.81℃ - 26.81℃ | 84% | 10km | ⛈️ light rain |
+| 20/07 10:00 | 28.42℃ - 31.64℃ | 76% | 10km | ☁️ overcast clouds |
+| 20/07 13:00 | 31.77℃ - 34.25℃ | 62% | 10km | ☁️ overcast clouds |
 | 20/07 16:00 | 32.59℃ - 32.59℃ | 59% | 10km | ☁️ overcast clouds |
 | 20/07 19:00 | 29.5℃ - 29.5℃ | 73% | 10km | ⛈️ light rain |
 | 20/07 22:00 | 26.66℃ - 26.66℃ | 90% | 10km | ⛈️ moderate rain |
