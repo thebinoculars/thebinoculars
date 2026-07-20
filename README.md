@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 34.79℃
-- 💦 Humidity: 50%
-- 💨 Wind Speed: 1.69m/s
+- 🌡️ Temperature: 33.21℃
+- 💦 Humidity: 59%
+- 💨 Wind Speed: 1.32m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,10 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 20/07 16:00 | 34.76℃ - 34.76℃ | 51% | 10km | ☁️ overcast clouds |
-| 20/07 19:00 | 32.26℃ - 33.93℃ | 54% | 10km | ☁️ overcast clouds |
-| 20/07 22:00 | 26.95℃ - 29.55℃ | 77% | 10km | ⛈️ moderate rain |
-| 21/07 01:00 | 26.72℃ - 26.72℃ | 89% | 10km | ⛈️ light rain |
+| 20/07 19:00 | 32.26℃ - 32.26℃ | 60% | 10km | ☁️ overcast clouds |
+| 20/07 22:00 | 26.95℃ - 30.49℃ | 70% | 10km | ⛈️ moderate rain |
+| 21/07 01:00 | 26.72℃ - 28.57℃ | 80% | 10km | ⛈️ light rain |
 | 21/07 04:00 | 26.55℃ - 26.55℃ | 88% | 10km | ⛈️ light rain |
 | 21/07 07:00 | 27.44℃ - 27.44℃ | 83% | 10km | ☁️ overcast clouds |
 | 21/07 10:00 | 27.94℃ - 27.94℃ | 82% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 25/07 07:00 | 26.35℃ - 26.35℃ | 87% | 10km | ⛈️ moderate rain |
 | 25/07 10:00 | 27.99℃ - 27.99℃ | 79% | 10km | ⛈️ light rain |
 | 25/07 13:00 | 30.99℃ - 30.99℃ | 67% | 10km | ⛈️ moderate rain |
+| 25/07 16:00 | 31.02℃ - 31.02℃ | 67% | 10km | ⛈️ moderate rain |
