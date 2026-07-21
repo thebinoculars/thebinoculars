@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 26.3℃
-- 💦 Humidity: 87%
-- 💨 Wind Speed: 1.05m/s
+- 🌡️ Temperature: 26.53℃
+- 💦 Humidity: 86%
+- 💨 Wind Speed: 1.15m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ few clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 22/07 07:00 | 27.03℃ - 27.87℃ | 83% | 10km | ☁️ scattered clouds |
-| 22/07 10:00 | 30.79℃ - 32.88℃ | 67% | 10km | ☁️ broken clouds |
-| 22/07 13:00 | 36.63℃ - 36.63℃ | 44% | 10km | ☁️ broken clouds |
+| 22/07 07:00 | 27.87℃ - 27.87℃ | 79% | 10km | ☁️ few clouds |
+| 22/07 10:00 | 29.54℃ - 32.88℃ | 72% | 10km | ☁️ scattered clouds |
+| 22/07 13:00 | 33.71℃ - 36.63℃ | 55% | 10km | ☁️ broken clouds |
 | 22/07 16:00 | 34.82℃ - 34.82℃ | 50% | 10km | ☁️ overcast clouds |
 | 22/07 19:00 | 30.29℃ - 30.29℃ | 73% | 10km | ⛈️ light rain |
 | 22/07 22:00 | 28.44℃ - 28.44℃ | 80% | 10km | ⛈️ light rain |
