@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 27.25℃
-- 💦 Humidity: 83%
-- 💨 Wind Speed: 2.59m/s
+- 🌡️ Temperature: 27.15℃
+- 💦 Humidity: 85%
+- 💨 Wind Speed: 2.27m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 23/07 04:00 | 27.01℃ - 27.35℃ | 83% | 10km | ☁️ overcast clouds |
-| 23/07 07:00 | 28.04℃ - 28.3℃ | 80% | 10km | ☁️ overcast clouds |
-| 23/07 10:00 | 32.93℃ - 32.93℃ | 56% | 10km | ☁️ overcast clouds |
+| 23/07 04:00 | 27.01℃ - 27.01℃ | 85% | 10km | ☁️ overcast clouds |
+| 23/07 07:00 | 27.44℃ - 28.3℃ | 83% | 10km | ☁️ overcast clouds |
+| 23/07 10:00 | 30.96℃ - 32.93℃ | 65% | 10km | ☁️ overcast clouds |
 | 23/07 13:00 | 35.54℃ - 35.54℃ | 46% | 10km | ☁️ overcast clouds |
 | 23/07 16:00 | 31.72℃ - 31.72℃ | 65% | 10km | ⛈️ light rain |
 | 23/07 19:00 | 29.56℃ - 29.56℃ | 71% | 10km | ⛈️ light rain |
