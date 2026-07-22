@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 36.27℃
-- 💦 Humidity: 45%
-- 💨 Wind Speed: 1.94m/s
+- 🌡️ Temperature: 33.4℃
+- 💦 Humidity: 59%
+- 💨 Wind Speed: 5.39m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ broken clouds
 
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 22/07 16:00 | 34.38℃ - 35.49℃ | 49% | 10km | ☁️ broken clouds |
-| 22/07 19:00 | 31.06℃ - 32.72℃ | 60% | 10km | ☁️ broken clouds |
-| 22/07 22:00 | 28.72℃ - 28.72℃ | 76% | 10km | ⛈️ light rain |
+| 22/07 19:00 | 31.06℃ - 33.27℃ | 58% | 10km | ☁️ broken clouds |
+| 22/07 22:00 | 28.72℃ - 30.61℃ | 69% | 10km | ⛈️ light rain |
 | 23/07 01:00 | 27.74℃ - 27.74℃ | 80% | 10km | ☁️ broken clouds |
 | 23/07 04:00 | 27.13℃ - 27.13℃ | 85% | 10km | ☁️ scattered clouds |
 | 23/07 07:00 | 28.16℃ - 28.16℃ | 82% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 27/07 07:00 | 27.21℃ - 27.21℃ | 88% | 10km | ⛈️ light rain |
 | 27/07 10:00 | 27.99℃ - 27.99℃ | 84% | 10km | ⛈️ light rain |
 | 27/07 13:00 | 32.8℃ - 32.8℃ | 65% | 10km | ⛈️ light rain |
+| 27/07 16:00 | 34.44℃ - 34.44℃ | 56% | 10km | ⛈️ light rain |
