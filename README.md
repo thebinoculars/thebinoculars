@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 28.58℃
-- 💦 Humidity: 78%
-- 💨 Wind Speed: 3.93m/s
+- 🌡️ Temperature: 27.88℃
+- 💦 Humidity: 83%
+- 💨 Wind Speed: 3.15m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
@@ -12,9 +12,8 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 23/07 22:00 | 28.07℃ - 28.88℃ | 77% | 10km | ⛈️ light rain |
-| 24/07 01:00 | 27.05℃ - 27.79℃ | 82% | 10km | ⛈️ light rain |
-| 24/07 04:00 | 26.42℃ - 26.42℃ | 87% | 10km | ⛈️ light rain |
+| 24/07 01:00 | 27.05℃ - 27.6℃ | 84% | 10km | ⛈️ light rain |
+| 24/07 04:00 | 26.42℃ - 26.91℃ | 86% | 10km | ⛈️ light rain |
 | 24/07 07:00 | 27.56℃ - 27.56℃ | 83% | 10km | ⛈️ light rain |
 | 24/07 10:00 | 30.53℃ - 30.53℃ | 68% | 10km | ⛈️ moderate rain |
 | 24/07 13:00 | 31.91℃ - 31.91℃ | 62% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 28/07 13:00 | 33.31℃ - 33.31℃ | 58% | 9.56km | ⛈️ light rain |
 | 28/07 16:00 | 31.8℃ - 31.8℃ | 65% | 10km | ⛈️ light rain |
 | 28/07 19:00 | 27.95℃ - 27.95℃ | 81% | 8.422km | ⛈️ light rain |
+| 28/07 22:00 | 26.98℃ - 26.98℃ | 86% | 10km | ⛈️ moderate rain |
