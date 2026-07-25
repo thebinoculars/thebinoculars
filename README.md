@@ -12,9 +12,9 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 26/07 01:00 | 27.29℃ - 27.86℃ | 76% | 10km | ☀️ clear sky |
-| 26/07 04:00 | 26.71℃ - 27.19℃ | 80% | 10km | ☁️ scattered clouds |
-| 26/07 07:00 | 27.72℃ - 27.72℃ | 78% | 10km | ☁️ broken clouds |
+| 26/07 01:00 | 27.29℃ - 27.29℃ | 79% | 10km | ☁️ few clouds |
+| 26/07 04:00 | 26.71℃ - 27.1℃ | 80% | 10km | ☁️ scattered clouds |
+| 26/07 07:00 | 27.58℃ - 27.72℃ | 78% | 10km | ☁️ broken clouds |
 | 26/07 10:00 | 32.22℃ - 32.22℃ | 59% | 10km | ☁️ overcast clouds |
 | 26/07 13:00 | 35.47℃ - 35.47℃ | 48% | 10km | ☁️ overcast clouds |
 | 26/07 16:00 | 35.24℃ - 35.24℃ | 49% | 10km | ☁️ overcast clouds |
