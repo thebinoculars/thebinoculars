@@ -2,17 +2,16 @@
 
 ### Current
 
-- 🌡️ Temperature: 29.31℃
-- 💦 Humidity: 70%
-- 💨 Wind Speed: 4.09m/s
+- 🌡️ Temperature: 28.94℃
+- 💦 Humidity: 72%
+- 💨 Wind Speed: 4.06m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☁️ few clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 26/07 22:00 | 29.31℃ - 29.31℃ | 70% | 10km | ⛈️ light rain |
 | 27/07 01:00 | 28.39℃ - 29℃ | 72% | 10km | ☁️ scattered clouds |
 | 27/07 04:00 | 27.47℃ - 28.08℃ | 79% | 10km | ⛈️ light rain |
 | 27/07 07:00 | 27.96℃ - 27.96℃ | 83% | 10km | ☁️ overcast clouds |
@@ -52,3 +51,4 @@
 | 31/07 13:00 | 32.69℃ - 32.69℃ | 55% | 10km | ☁️ overcast clouds |
 | 31/07 16:00 | 31.84℃ - 31.84℃ | 60% | 10km | ⛈️ light rain |
 | 31/07 19:00 | 28.75℃ - 28.75℃ | 72% | 10km | ☁️ overcast clouds |
+| 31/07 22:00 | 27.06℃ - 27.06℃ | 81% | 10km | ☁️ overcast clouds |
