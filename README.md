@@ -2,20 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 30.05℃
-- 💦 Humidity: 71%
-- 💨 Wind Speed: 0.62m/s
+- 🌡️ Temperature: 36.16℃
+- 💦 Humidity: 48%
+- 💨 Wind Speed: 1.49m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ broken clouds
+- ☂️ Weather: ⛈️ light rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 27/07 10:00 | 30.14℃ - 33.33℃ | 70% | 10km | ☁️ overcast clouds |
-| 27/07 13:00 | 34.15℃ - 36.95℃ | 55% | 10km | ☁️ overcast clouds |
-| 27/07 16:00 | 34.37℃ - 34.37℃ | 56% | 10km | ☁️ broken clouds |
-| 27/07 19:00 | 31.71℃ - 31.71℃ | 63% | 10km | ☁️ broken clouds |
+| 27/07 13:00 | 36.95℃ - 36.95℃ | 45% | 10km | ☁️ broken clouds |
+| 27/07 16:00 | 34.37℃ - 36.09℃ | 49% | 10km | ☁️ broken clouds |
+| 27/07 19:00 | 31.71℃ - 33.46℃ | 57% | 10km | ☁️ broken clouds |
 | 27/07 22:00 | 28.97℃ - 28.97℃ | 80% | 10km | ⛈️ light rain |
 | 28/07 01:00 | 27.27℃ - 27.27℃ | 88% | 6.282km | ⛈️ moderate rain |
 | 28/07 04:00 | 26.55℃ - 26.55℃ | 89% | 9.632km | ⛈️ moderate rain |
@@ -52,3 +51,4 @@
 | 01/08 01:00 | 26.19℃ - 26.19℃ | 91% | 10km | ⛈️ light rain |
 | 01/08 04:00 | 25.63℃ - 25.63℃ | 93% | 10km | ⛈️ light rain |
 | 01/08 07:00 | 26.88℃ - 26.88℃ | 87% | 10km | ⛈️ light rain |
+| 01/08 10:00 | 30.31℃ - 30.31℃ | 71% | 10km | ⛈️ moderate rain |
