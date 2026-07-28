@@ -2,17 +2,16 @@
 
 ### Current
 
-- 🌡️ Temperature: 27.68℃
-- 💦 Humidity: 83%
-- 💨 Wind Speed: 2.79m/s
-- 👁️ Visibility: 9.93km
+- 🌡️ Temperature: 26.72℃
+- 💦 Humidity: 88%
+- 💨 Wind Speed: 2.38m/s
+- 👁️ Visibility: 10km
 - ☂️ Weather: ⛈️ light rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 28/07 19:00 | 27.05℃ - 27.05℃ | 86% | 10km | ⛈️ moderate rain |
 | 28/07 22:00 | 26.5℃ - 26.87℃ | 87% | 10km | ⛈️ moderate rain |
 | 29/07 01:00 | 26.49℃ - 26.68℃ | 84% | 10km | ⛈️ light rain |
 | 29/07 04:00 | 25.48℃ - 25.48℃ | 88% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 02/08 10:00 | 30.2℃ - 30.2℃ | 72% | 10km | ⛈️ light rain |
 | 02/08 13:00 | 31.01℃ - 31.01℃ | 70% | 10km | ⛈️ moderate rain |
 | 02/08 16:00 | 30.11℃ - 30.11℃ | 75% | 10km | ⛈️ moderate rain |
+| 02/08 19:00 | 27.03℃ - 27.03℃ | 92% | 10km | ⛈️ light rain |
