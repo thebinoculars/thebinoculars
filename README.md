@@ -1,10 +1,10 @@
-## 🌦️ Hanoi Weather (28/07)
+## 🌦️ Hanoi Weather (29/07)
 
 ### Current
 
-- 🌡️ Temperature: 25.27℃
-- 💦 Humidity: 91%
-- 💨 Wind Speed: 2.22m/s
+- 🌡️ Temperature: 27.94℃
+- 💦 Humidity: 79%
+- 💨 Wind Speed: 2.81m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ⛈️ light rain
 
@@ -12,7 +12,6 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 29/07 07:00 | 26.14℃ - 26.14℃ | 87% | 10km | ⛈️ light rain |
 | 29/07 10:00 | 27.57℃ - 30.42℃ | 80% | 10km | ⛈️ light rain |
 | 29/07 13:00 | 30.06℃ - 32.02℃ | 69% | 10km | ⛈️ light rain |
 | 29/07 16:00 | 32.42℃ - 32.42℃ | 57% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 02/08 22:00 | 25.77℃ - 25.77℃ | 95% | 7.528km | ⛈️ moderate rain |
 | 03/08 01:00 | 25.58℃ - 25.58℃ | 96% | 10km | ⛈️ moderate rain |
 | 03/08 04:00 | 25.31℃ - 25.31℃ | 97% | 10km | ⛈️ moderate rain |
+| 03/08 07:00 | 25.56℃ - 25.56℃ | 96% | 10km | ⛈️ light rain |
