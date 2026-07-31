@@ -2,19 +2,19 @@
 
 ### Current
 
-- 🌡️ Temperature: 25.19℃
+- 🌡️ Temperature: 25.05℃
 - 💦 Humidity: 90%
-- 💨 Wind Speed: 1.66m/s
+- 💨 Wind Speed: 1.17m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ few clouds
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 01/08 04:00 | 25.05℃ - 25.23℃ | 90% | 10km | ☁️ scattered clouds |
-| 01/08 07:00 | 26.07℃ - 26.45℃ | 86% | 10km | ☁️ broken clouds |
-| 01/08 10:00 | 30.48℃ - 30.48℃ | 67% | 10km | ⛈️ light rain |
+| 01/08 04:00 | 25.05℃ - 25.05℃ | 90% | 10km | ☁️ broken clouds |
+| 01/08 07:00 | 25.52℃ - 26.45℃ | 88% | 10km | ☁️ broken clouds |
+| 01/08 10:00 | 28.67℃ - 30.48℃ | 74% | 10km | ⛈️ light rain |
 | 01/08 13:00 | 32.16℃ - 32.16℃ | 63% | 10km | ⛈️ light rain |
 | 01/08 16:00 | 32.57℃ - 32.57℃ | 61% | 10km | ⛈️ light rain |
 | 01/08 19:00 | 28.79℃ - 28.79℃ | 78% | 10km | ⛈️ light rain |
