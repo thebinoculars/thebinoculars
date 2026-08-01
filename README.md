@@ -2,9 +2,9 @@
 
 ### Current
 
-- 🌡️ Temperature: 26.08℃
+- 🌡️ Temperature: 26.07℃
 - 💦 Humidity: 88%
-- 💨 Wind Speed: 2.24m/s
+- 💨 Wind Speed: 1.86m/s
 - 👁️ Visibility: 10km
 - ☂️ Weather: ☁️ overcast clouds
 
