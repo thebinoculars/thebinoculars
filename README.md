@@ -1,18 +1,17 @@
-## 🌦️ Hanoi Weather (05/08)
+## 🌦️ Hanoi Weather (06/08)
 
 ### Current
 
-- 🌡️ Temperature: 25.84℃
-- 💦 Humidity: 91%
-- 💨 Wind Speed: 1.57m/s
+- 🌡️ Temperature: 26.89℃
+- 💦 Humidity: 87%
+- 💨 Wind Speed: 2.33m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ light rain
+- ☂️ Weather: ☁️ broken clouds
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 06/08 07:00 | 26.89℃ - 26.89℃ | 87% | 10km | ⛈️ light rain |
 | 06/08 10:00 | 28.01℃ - 30.25℃ | 82% | 10km | ⛈️ light rain |
 | 06/08 13:00 | 30.02℃ - 31.58℃ | 75% | 10km | ⛈️ moderate rain |
 | 06/08 16:00 | 27.57℃ - 27.57℃ | 87% | 6.805km | ⛈️ moderate rain |
@@ -52,3 +51,4 @@
 | 10/08 22:00 | 30.14℃ - 30.14℃ | 76% | 10km | ⛈️ light rain |
 | 11/08 01:00 | 29.58℃ - 29.58℃ | 77% | 10km | ☁️ overcast clouds |
 | 11/08 04:00 | 28.78℃ - 28.78℃ | 82% | 10km | ☁️ overcast clouds |
+| 11/08 07:00 | 29.08℃ - 29.08℃ | 82% | 10km | ⛈️ light rain |
