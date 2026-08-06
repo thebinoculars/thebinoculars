@@ -2,19 +2,18 @@
 
 ### Current
 
-- 🌡️ Temperature: 31.2℃
-- 💦 Humidity: 68%
-- 💨 Wind Speed: 4.36m/s
+- 🌡️ Temperature: 29.11℃
+- 💦 Humidity: 80%
+- 💨 Wind Speed: 2.98m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ⛈️ moderate rain
+- ☂️ Weather: ⛈️ light rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 06/08 16:00 | 29.86℃ - 30.75℃ | 71% | 10km | ⛈️ moderate rain |
-| 06/08 19:00 | 27.45℃ - 28.7℃ | 80% | 10km | ⛈️ light rain |
-| 06/08 22:00 | 26.64℃ - 26.64℃ | 90% | 10km | ⛈️ moderate rain |
+| 06/08 19:00 | 27.45℃ - 28.56℃ | 82% | 10km | ⛈️ light rain |
+| 06/08 22:00 | 26.64℃ - 27.46℃ | 87% | 10km | ⛈️ moderate rain |
 | 07/08 01:00 | 25.29℃ - 25.29℃ | 97% | 9.499km | ⛈️ moderate rain |
 | 07/08 04:00 | 25.36℃ - 25.36℃ | 94% | 10km | ⛈️ light rain |
 | 07/08 07:00 | 25.71℃ - 25.71℃ | 92% | 10km | ⛈️ light rain |
@@ -43,12 +42,13 @@
 | 10/08 04:00 | 28.84℃ - 28.84℃ | 81% | 10km | ⛈️ light rain |
 | 10/08 07:00 | 28.42℃ - 28.42℃ | 82% | 10km | ☁️ broken clouds |
 | 10/08 10:00 | 33.62℃ - 33.62℃ | 60% | 10km | ☁️ scattered clouds |
-| 10/08 13:00 | 34.93℃ - 34.93℃ | 53% | 10km | ⛈️ light rain |
-| 10/08 16:00 | 35.58℃ - 35.58℃ | 51% | 10km | ☁️ scattered clouds |
-| 10/08 19:00 | 32.23℃ - 32.23℃ | 63% | 10km | ☁️ scattered clouds |
-| 10/08 22:00 | 30.15℃ - 30.15℃ | 72% | 10km | ☁️ overcast clouds |
-| 11/08 01:00 | 29.45℃ - 29.45℃ | 75% | 10km | ☁️ overcast clouds |
-| 11/08 04:00 | 28.55℃ - 28.55℃ | 79% | 10km | ☁️ overcast clouds |
-| 11/08 07:00 | 28.86℃ - 28.86℃ | 79% | 10km | ⛈️ light rain |
-| 11/08 10:00 | 33.45℃ - 33.45℃ | 61% | 10km | ☁️ overcast clouds |
-| 11/08 13:00 | 36.44℃ - 36.44℃ | 50% | 10km | ⛈️ light rain |
+| 10/08 13:00 | 36.34℃ - 36.34℃ | 50% | 10km | ⛈️ light rain |
+| 10/08 16:00 | 37.23℃ - 37.23℃ | 46% | 10km | ☁️ broken clouds |
+| 10/08 19:00 | 33.33℃ - 33.33℃ | 60% | 10km | ☁️ broken clouds |
+| 10/08 22:00 | 30.05℃ - 30.05℃ | 76% | 10km | ⛈️ light rain |
+| 11/08 01:00 | 29.44℃ - 29.44℃ | 80% | 10km | ☁️ overcast clouds |
+| 11/08 04:00 | 25.79℃ - 25.79℃ | 97% | 3.224km | ⛈️ heavy intensity rain |
+| 11/08 07:00 | 25.16℃ - 25.16℃ | 95% | 10km | ⛈️ heavy intensity rain |
+| 11/08 10:00 | 27.81℃ - 27.81℃ | 83% | 10km | ⛈️ light rain |
+| 11/08 13:00 | 33.33℃ - 33.33℃ | 63% | 10km | ☁️ overcast clouds |
+| 11/08 16:00 | 34.23℃ - 34.23℃ | 58% | 10km | ☁️ broken clouds |
