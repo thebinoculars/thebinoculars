@@ -2,19 +2,18 @@
 
 ### Current
 
-- 🌡️ Temperature: 27.45℃
-- 💦 Humidity: 85%
-- 💨 Wind Speed: 3.39m/s
-- 👁️ Visibility: 7.665km
-- ☂️ Weather: ⛈️ moderate rain
+- 🌡️ Temperature: 31.05℃
+- 💦 Humidity: 68%
+- 💨 Wind Speed: 2.73m/s
+- 👁️ Visibility: 7.604km
+- ☂️ Weather: ⛈️ light rain
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 07/08 10:00 | 27.64℃ - 30.11℃ | 84% | 10km | ⛈️ moderate rain |
-| 07/08 13:00 | 29.17℃ - 30.55℃ | 78% | 10km | ⛈️ moderate rain |
-| 07/08 16:00 | 27.46℃ - 27.46℃ | 86% | 10km | ⛈️ moderate rain |
+| 07/08 13:00 | 30.26℃ - 30.55℃ | 72% | 10km | ⛈️ moderate rain |
+| 07/08 16:00 | 27.46℃ - 28.34℃ | 82% | 10km | ⛈️ moderate rain |
 | 07/08 19:00 | 26.13℃ - 26.13℃ | 90% | 10km | ⛈️ light rain |
 | 07/08 22:00 | 25.99℃ - 25.99℃ | 89% | 10km | ⛈️ light rain |
 | 08/08 01:00 | 25.46℃ - 25.46℃ | 90% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 12/08 01:00 | 28.36℃ - 28.36℃ | 78% | 10km | ☁️ broken clouds |
 | 12/08 04:00 | 27.4℃ - 27.4℃ | 81% | 10km | ☀️ clear sky |
 | 12/08 07:00 | 28.22℃ - 28.22℃ | 81% | 10km | ☀️ clear sky |
+| 12/08 10:00 | 32.9℃ - 32.9℃ | 63% | 10km | ☁️ few clouds |
