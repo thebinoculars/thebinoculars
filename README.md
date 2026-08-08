@@ -2,31 +2,31 @@
 
 ### Current
 
-- 🌡️ Temperature: 29.13℃
-- 💦 Humidity: 73%
-- 💨 Wind Speed: 1.5m/s
+- 🌡️ Temperature: 28.77℃
+- 💦 Humidity: 74%
+- 💨 Wind Speed: 1.02m/s
 - 👁️ Visibility: 10km
-- ☂️ Weather: ☁️ scattered clouds
+- ☂️ Weather: ☀️ clear sky
 
 ### Upcoming
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 09/08 01:00 | 28.77℃ - 28.77℃ | 74% | 10km | ☁️ scattered clouds |
-| 09/08 04:00 | 27.61℃ - 28.38℃ | 76% | 10km | ☁️ scattered clouds |
-| 09/08 07:00 | 28.14℃ - 28.35℃ | 76% | 10km | ☁️ few clouds |
-| 09/08 10:00 | 33.19℃ - 33.19℃ | 58% | 10km | ☁️ few clouds |
-| 09/08 13:00 | 36.23℃ - 36.23℃ | 48% | 10km | ☀️ clear sky |
-| 09/08 16:00 | 36.77℃ - 36.77℃ | 45% | 10km | ☀️ clear sky |
-| 09/08 19:00 | 33.5℃ - 33.5℃ | 56% | 10km | ☁️ few clouds |
-| 09/08 22:00 | 30.95℃ - 30.95℃ | 67% | 10km | ☁️ broken clouds |
-| 10/08 01:00 | 30.11℃ - 30.11℃ | 71% | 10km | ☁️ broken clouds |
-| 10/08 04:00 | 29.02℃ - 29.02℃ | 76% | 10km | ☁️ broken clouds |
-| 10/08 07:00 | 27.31℃ - 27.31℃ | 88% | 10km | ⛈️ light rain |
-| 10/08 10:00 | 30.75℃ - 30.75℃ | 71% | 10km | ☁️ scattered clouds |
-| 10/08 13:00 | 35.42℃ - 35.42℃ | 54% | 10km | ☁️ broken clouds |
-| 10/08 16:00 | 36.79℃ - 36.79℃ | 48% | 10km | ☀️ clear sky |
-| 10/08 19:00 | 32.28℃ - 32.28℃ | 64% | 10km | ☀️ clear sky |
+| 09/08 01:00 | 28.77℃ - 28.77℃ | 74% | 10km | ☀️ clear sky |
+| 09/08 04:00 | 27.61℃ - 28.38℃ | 76% | 10km | ☀️ clear sky |
+| 09/08 07:00 | 28.11℃ - 28.33℃ | 76% | 10km | ☀️ clear sky |
+| 09/08 10:00 | 33.39℃ - 33.39℃ | 58% | 10km | ☀️ clear sky |
+| 09/08 13:00 | 36.49℃ - 36.49℃ | 48% | 10km | ☁️ few clouds |
+| 09/08 16:00 | 37.16℃ - 37.16℃ | 44% | 10km | ☀️ clear sky |
+| 09/08 19:00 | 33.71℃ - 33.71℃ | 55% | 10km | ☁️ few clouds |
+| 09/08 22:00 | 30.88℃ - 30.88℃ | 68% | 10km | ☁️ scattered clouds |
+| 10/08 01:00 | 30.27℃ - 30.27℃ | 71% | 10km | ☁️ scattered clouds |
+| 10/08 04:00 | 29.25℃ - 29.25℃ | 76% | 10km | ⛈️ light rain |
+| 10/08 07:00 | 26.95℃ - 26.95℃ | 87% | 10km | ⛈️ light rain |
+| 10/08 10:00 | 32.58℃ - 32.58℃ | 65% | 10km | ☁️ broken clouds |
+| 10/08 13:00 | 36.11℃ - 36.11℃ | 51% | 10km | ☁️ scattered clouds |
+| 10/08 16:00 | 36.82℃ - 36.82℃ | 47% | 10km | ☁️ few clouds |
+| 10/08 19:00 | 33.05℃ - 33.05℃ | 59% | 10km | ☁️ scattered clouds |
 | 10/08 22:00 | 30.57℃ - 30.57℃ | 70% | 10km | ⛈️ light rain |
 | 11/08 01:00 | 28.07℃ - 28.07℃ | 83% | 10km | ⛈️ light rain |
 | 11/08 04:00 | 27.36℃ - 27.36℃ | 87% | 10km | ⛈️ light rain |
