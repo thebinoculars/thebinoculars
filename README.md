@@ -12,7 +12,6 @@
 
 | Time | Temperature | Humidity | Visibility | Weather |
 | --- | --- | --- | --- | --- |
-| 08/08 16:00 | 35.81℃ - 35.81℃ | 49% | 10km | ☁️ broken clouds |
 | 08/08 19:00 | 31.34℃ - 34.32℃ | 56% | 10km | ☁️ broken clouds |
 | 08/08 22:00 | 29.87℃ - 31.85℃ | 64% | 10km | ☁️ scattered clouds |
 | 09/08 01:00 | 28.63℃ - 28.63℃ | 75% | 10km | ⛈️ light rain |
@@ -52,3 +51,4 @@
 | 13/08 07:00 | 28.17℃ - 28.17℃ | 86% | 10km | ⛈️ light rain |
 | 13/08 10:00 | 31.24℃ - 31.24℃ | 72% | 10km | ☁️ overcast clouds |
 | 13/08 13:00 | 35℃ - 35℃ | 56% | 10km | ☁️ overcast clouds |
+| 13/08 16:00 | 36.85℃ - 36.85℃ | 47% | 10km | ☁️ broken clouds |
